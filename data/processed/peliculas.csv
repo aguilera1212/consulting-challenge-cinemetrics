@@ -1,0 +1,2 @@
+tmdb_id,imdb_id,titulo,titulo_original,fecha_estreno,presupuesto_usd,recaudacion_usd,generos,popularidad_tmdb,rating_tmdb,votos_tmdb,rating_imdb,votos_imdb,metascore,rating_rotten_tomatoes,taquilla_omdb,fuente_tmdb,fuente_omdb
+950387,tt3566834,Una película de Minecraft,A Minecraft Movie,2025-03-31,150000000,960387780,Familia | Fantasía | Comedia | Aventura,18.9597,6.192,3440,5.6,"168,568",45,,"$424,087,780",minecraft_movie_2026-11-10.json,minecraft_movie_2026-11-10.json

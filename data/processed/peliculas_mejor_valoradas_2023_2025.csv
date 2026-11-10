@@ -1,0 +1,601 @@
+tmdb_id,titulo,titulo_original,fecha_estreno,idioma_original,genero_ids_tmdb,popularidad_tmdb,rating_tmdb,votos_tmdb,marcado_adulto_tmdb,marcado_video_tmdb
+1031774,Thriller 40,Thriller 40,2023-12-02,en,99|10402,1.2134,8.7,129,False,False
+1181678,¿Quieres ser mi... hijo?,¿Quieres ser mi hijo?,2023-09-21,en,35|10749,5.077,8.4,378,False,False
+1175306,Me vuelves loca,Me vuelves loca,2023-09-07,es,35,0.725,8.422,129,False,False
+1150394,La Leyenda de los Chaneques,La Leyenda de los Chaneques,2023-07-14,es,16|35|10751|27,16.8983,8.383,287,False,False
+1063453,BTS: Yet to Come in Cinemas,방탄소년단: 옛 투 컴 인 시네마,2023-02-01,ko,10402|99,1.0859,8.371,124,False,False
+569094,Spider-Man: Cruzando el Multiverso,Spider-Man: Across the Spider-Verse,2023-05-31,en,16|28|12|878,27.6224,8.349,9528,False,False
+1058694,Radical,Radical,2023-10-19,es,18,4.1241,8.341,523,False,False
+1087771,Nada que ver,Nada que ver,2023-03-02,es,10749|35,0.6379,8.3,175,False,False
+1105832,Simón,Simón,2023-04-15,en,18,0.6119,8.307,168,False,False
+1139087,Érase una vez un estudio,Once Upon a Studio,2023-09-24,en,16|10751|14|18|35,3.5164,8.252,457,False,False
+1160164,TAYLOR SWIFT | THE ERAS TOUR,TAYLOR SWIFT | THE ERAS TOUR,2023-10-13,en,10402,3.6824,8.177,552,False,False
+1058616,20 días en Mariúpol,20 Days in Mariupol,2023-07-14,en,99|10752,2.9124,8.079,328,False,False
+812225,Black Clover: La espada del rey mago,映画 ブラッククローバー 魔法帝の剣,2023-06-16,ja,16|14|28|12,10.1989,8.063,443,False,False
+1026227,Siempre nos quedará mañana,C'è ancora domani,2023-10-26,it,36|35|18,3.6093,8.055,1582,False,False
+872585,Oppenheimer,Oppenheimer,2023-07-19,en,18|36|10752,35.7905,8.023,12877,False,False
+1134055,Kill Shot,Kill Shot,2023-08-15,en,28,3.4088,8.0,228,False,False
+1107387,Hachiko,忠犬八公,2023-03-31,zh,18|10751,1.3991,7.981,286,False,False
+1121316,El último vagón,El último vagón,2023-05-26,es,18|35|10751,1.5198,8.0,120,False,False
+1214667,Así se hizo ‘El juego del calamar: El desafío',Making Squid Game: The Challenge,2023-12-06,en,99,1.0974,7.967,241,False,False
+626332,Flamin'Hot: La historia de los Cheetos picantes,Flamin' Hot,2023-03-11,en,18|36,3.5724,7.965,887,False,False
+906126,La sociedad de la nieve,La sociedad de la nieve,2023-12-15,es,18|36,7.419,7.961,3721,False,False
+617882,소울메이트,소울메이트,2023-03-15,ko,18|10749,2.0915,7.955,112,False,False
+838240,Robot Dreams,Robot Dreams,2023-12-06,es,16|18|35|878,5.0011,7.951,884,False,False
+1050035,Monstruo,怪物,2023-06-02,ja,9648|53|18,7.7783,7.939,1001,False,False
+678512,Sound of Freedom,Sound of Freedom,2023-07-03,en,28|18,6.1593,7.935,2897,False,False
+1163258,12वीं फेल,12वीं फेल,2023-08-11,hi,18,3.8771,7.934,295,False,False
+447365,Guardianes de la Galaxia: Volumen 3,Guardians of the Galaxy Vol. 3,2023-05-03,en,878|12|28,21.6139,7.931,9089,False,False
+930094,"Rojo, blanco y sangre azul","Red, White & Royal Blue",2023-07-27,en,35|10749,15.0335,7.922,1670,False,False
+1000492,Las dos caras de la justicia,Je verrai toujours vos visages,2023-03-29,fr,18,2.1565,7.9,728,False,False
+961323,Nimona,Nimona,2023-06-23,en,16|10751|14|12|878|28,4.296,7.8,1542,False,False
+779816,Alas blancas,White Bird,2023-10-25,en,18|10752,2.4673,7.837,255,False,False
+944401,Dogman,Dogman,2023-09-27,fr,28|18|80,4.0414,7.827,1486,False,False
+976893,Días perfectos,PERFECT DAYS,2023-11-10,ja,18,10.1183,7.82,2155,False,False
+887870,BLUE GIANT,BLUE GIANT,2023-02-17,ja,16|18|10402,1.8747,7.814,105,False,False
+1058699,La vida de Michael J. Fox,STILL: A Michael J. Fox Movie,2023-01-20,en,99,2.8783,7.812,268,False,False
+1081676,El curandero,Znachor,2023-09-26,pl,18|10749,1.9151,7.788,382,False,False
+937746,Yo capitán,Io capitano,2023-09-07,it,12|18,1.569,7.779,861,False,False
+1024541,El maestro que prometió el mar,El maestro que prometió el mar,2023-11-10,es,18|36,1.3981,7.774,157,False,False
+760774,Los niños de Winton,One Life,2023-12-21,en,36|18,4.1027,7.767,1012,False,False
+726759,Tetris,Tetris,2023-03-15,en,53|36|18,5.3907,7.761,2127,False,False
+970284,Shooting Stars,Shooting Stars,2023-06-02,en,18,1.7326,7.759,176,False,False
+1149947,Oppenheimer: el dilema de la bomba atómica,To End All War: Oppenheimer & the Atomic Bomb,2023-07-09,en,99|36,1.9249,7.716,236,False,False
+1010581,Culpa mía,Culpa mía,2023-06-08,es,18|10749|53,20.3726,7.715,4227,False,False
+882569,El pacto,Guy Ritchie's The Covenant,2023-04-19,en,10752|28|53,9.5999,7.712,3469,False,False
+603692,John Wick 4,John Wick: Chapter 4,2023-03-21,en,28|53|80,19.8866,7.709,8523,False,False
+1092329,Camino a Belén,Journey to Bethlehem,2023-11-09,en,10751|18,1.5844,7.704,108,False,False
+666277,Vidas pasadas,Past Lives,2023-06-02,en,18|10749,8.5435,7.694,2546,False,False
+980489,Gran Turismo,Gran Turismo,2023-08-09,en,12|18|28,8.6896,7.685,3661,False,False
+980026,La tierra prometida,Bastarden,2023-10-05,da,28|18|36,4.042,7.655,670,False,False
+862557,El viaje de Rickey Hill,The Hill,2023-08-18,en,36|18,2.4556,7.7,327,False,False
+840430,Los que se quedan,The Holdovers,2023-10-27,en,18|35,7.2706,7.65,2774,False,False
+1192578,Elijo creer,Elijo creer,2023-12-07,es,99,1.0668,7.6,100,False,False
+878361,Big George Foreman,Big George Foreman,2023-04-27,en,36|18,3.421,7.637,391,False,False
+1114901,Cuiden a Maya,Take Care of Maya,2023-06-10,en,99,1.0858,7.6,136,False,False
+1002185,A millones de kilómetros,A Million Miles Away,2023-09-08,en,18|36,3.25,7.627,564,False,False
+665733,Sobre la hierba seca,Kuru Otlar Üstüne,2023-07-12,tr,18,1.0836,7.627,185,False,False
+792307,Pobres criaturas,Poor Things,2023-12-07,en,878|10749|35,13.8705,7.625,5917,False,False
+496450,Prodigiosa: Las aventuras de Ladybug: La película,Miraculous - le film,2023-07-05,fr,16|14|28|10749|10751,8.6634,7.621,994,False,False
+940721,Godzilla Minus One,ゴジラ-1.0,2023-11-03,ja,878|27|28,71.4285,7.616,3631,False,False
+913001,El imaginario,屋根裏のラジャー,2023-12-15,ja,16|12|18|10751|14,1.9181,7.6,101,False,False
+1058647,La inspiración más profunda,The Deepest Breath,2023-01-21,en,99,1.3136,7.598,198,False,False
+502356,Super Mario Bros: La película,The Super Mario Bros. Movie,2023-04-05,en,10751|35|12|14|16,22.9537,7.585,11316,False,False
+976573,Elemental,Elemental,2023-06-14,en,16|35|10751|10749,12.4054,7.583,5641,False,False
+897160,Mujer Valiente,용감한 시민,2023-10-25,ko,28|18|35,3.3685,7.58,174,False,False
+919207,Seúl 12.12,서울의 봄,2023-11-22,ko,18|53|28|10752|36|80,3.9735,7.559,160,False,False
+1061181,Kingdom 3: The Flame of Destiny,キングダム 運命の炎,2023-07-28,ja,28|12|10752,1.8952,7.5,142,False,False
+734002,En nombre de la tierra,Chłopi,2023-10-13,pl,16|36|18,3.2429,7.523,175,False,False
+850165,El clan de hierro,The Iron Claw,2023-12-21,en,18|36,4.9624,7.5,1408,False,False
+915935,Anatomía de una caída,Anatomie d'une chute,2023-08-23,fr,53|9648|80,10.6688,7.505,3572,False,False
+1173076,Johnny Keep Walking!,年会不能停！,2023-12-29,zh,18|35,2.8095,7.504,113,False,False
+575264,Misión: Imposible - Sentencia mortal parte uno,Mission: Impossible - Dead Reckoning Part One,2023-07-08,en,28|12|53,12.3332,7.501,5513,False,False
+1052433,Love Reset,30일,2023-10-03,ko,10749|35,1.6423,7.5,101,False,False
+1190012,South Park: Bienvenidos al Complaciverso,South Park: Joining the Panderverse,2023-10-27,en,16|35|878|10770,2.3197,7.492,315,False,False
+860278,Stephen Curry: Un jugador subestimado,Stephen Curry: Underrated,2023-07-21,en,99,1.4589,7.5,107,False,False
+988402,Vampira humanista busca suicida,Vampire humaniste cherche suicidaire consentant,2023-10-13,fr,35|14|27,2.8283,7.484,455,False,False
+586810,Mars Express,Mars Express,2023-11-22,fr,16|878|53,2.1959,7.462,618,False,False
+891636,Fuegos artificiales,Stranizza d'amuri,2023-03-23,it,18,1.2863,7.455,210,False,False
+1172029,Sobreviviendo mis XV,Sobreviviendo mis XV,2023-09-21,es,35,0.3564,7.5,102,False,False
+1076364,La cita de Carl,Carl's Date,2023-06-15,en,16|10751|35|10749,3.5932,7.4,469,False,False
+1219926,South Park (No apto para menores),South Park (Not Suitable for Children),2023-12-20,en,16|35|10770,2.5501,7.438,240,False,False
+921785,Mixed by Erry,Mixed by Erry,2023-03-02,it,35|36|10402,0.5489,7.429,504,False,False
+877703,Teen Wolf,Teen Wolf: The Movie,2023-01-18,en,28|14|10770,6.163,7.418,1009,False,False
+1069193,Las cuatro hijas,Les Filles d'Olfa,2023-07-05,fr,99|18,2.01,7.4,115,False,False
+1067950,Milli Vanilli: Girl You Know It's True,Girl You Know It's True,2023-12-06,de,18|36|10402,1.4903,7.4,143,False,False
+466420,Los asesinos de la luna,Killers of the Flower Moon,2023-10-18,en,80|36|18,15.6675,7.39,4469,False,False
+508883,El chico y la garza,君たちはどう生きるか,2023-07-14,ja,16|14|18,10.4209,7.385,2899,False,False
+994108,Desconocidos,All of Us Strangers,2023-12-22,en,10749|18|14,4.5622,7.386,1127,False,False
+697843,Tyler Rake 2,Extraction 2,2023-06-09,en,28|53|80,8.1368,7.375,3143,False,False
+1134433,Susurros Mortales,ธี่หยด,2023-10-25,th,27|53,2.9394,7.4,247,False,False
+989596,La trenza,La Tresse,2023-11-29,en,18|35,0.9193,7.372,273,False,False
+768362,Missing,Missing,2023-01-19,en,18|9648|53,4.409,7.368,1387,False,False
+915523,Wildflower,Wildflower,2023-03-17,en,35|18,2.0185,7.4,134,False,False
+868985,¡Que viva México!,¡Que viva México!,2023-03-23,es,18|35,1.0406,7.354,213,False,False
+493529,Dungeons & Dragons: Honor entre ladrones,Dungeons & Dragons: Honor Among Thieves,2023-03-23,en,12|14|35,10.6086,7.353,5071,False,False
+828898,Los hermanos Venture: Radiante es la sangre del corazón del babuino,The Venture Bros.: Radiant Is the Blood of the Baboon Heart,2023-07-21,en,16|28|12|878,2.3808,7.3,100,False,False
+940551,Migración. Un viaje patas arriba,Migration,2023-12-06,en,10751|35|12|16,10.0686,7.346,2350,False,False
+1046090,"El cerdo, la serpiente y la paloma",周處除三害,2023-10-06,zh,80|18|53,2.5328,7.338,291,False,False
+1075794,Leo,Leo,2023-11-17,en,16|35|10751,4.9124,7.336,1429,False,False
+1121956,Green Border,Zielona granica,2023-09-22,pl,18,1.0897,7.327,136,False,False
+1134865,WHAM!,WHAM!,2023-06-27,en,99|10402,1.1534,7.3,108,False,False
+842675,La Tierra errante II,流浪地球2,2023-01-22,zh,878|28|12,8.9085,7.301,778,False,False
+1151534,Nowhere,Nowhere,2023-09-29,es,53|18,3.4294,7.291,1650,False,False
+837335,La quimera,La chimera,2023-10-12,it,18|14|35,3.7751,7.29,648,False,False
+1146348,¡Scooby Doo! ¡Y Krypto también!,"Scooby-Doo! and Krypto, Too!",2023-09-25,en,16|10751|9648|14|35,2.2336,7.288,104,False,False
+926393,The Equalizer 3,The Equalizer 3,2023-08-30,en,28|53|80,11.2505,7.283,4032,False,False
+976293,Deja de decir mentiras,Arrête avec tes mensonges,2023-02-22,fr,18|10749,2.4194,7.3,153,False,False
+964980,Air,Air,2023-04-05,en,18|36,5.9408,7.277,2527,False,False
+740441,Identidad desbloqueada,스마트폰을 떨어뜨렸을 뿐인데,2023-02-17,ko,53|80|9648,2.5475,7.268,436,False,False
+801112,El rapto,Rapito,2023-05-25,it,18|36,1.4741,7.266,395,False,False
+1083862,Resident Evil: Death Island,バイオハザード：デスアイランド,2023-06-22,ja,28|16|878|27,5.9734,7.261,1163,False,False
+923939,La maravillosa historia de Henry Sugar,The Wonderful Story of Henry Sugar,2023-09-20,en,14|35|12|18,4.1549,7.261,1549,False,False
+609271,Bajo el muelle,Under the Boardwalk,2023-10-27,en,12|16|35|10751|10749,2.0438,7.3,136,False,False
+507089,Five Nights at Freddy's,Five Nights at Freddy's,2023-10-25,en,27|53,11.8769,7.253,5278,False,False
+901362,Trolls 3: Todos juntos,Trolls Band Together,2023-10-12,en,16|10751|10402|14|35|12,7.1151,7.248,1049,False,False
+823452,Remando como un solo hombre,The Boys in the Boat,2023-12-25,en,18|36,3.0914,7.243,393,False,False
+955555,Fuerza Bruta: Sin salida,범죄도시 3,2023-05-31,ko,28|80|53,5.0409,7.238,591,False,False
+1056360,American Fiction,American Fiction,2023-11-10,en,35|18,3.4469,7.237,1484,False,False
+1076487,Warhorse One,Warhorse One,2023-06-30,en,28|10752|18,2.8854,7.236,356,False,False
+1062807,Spy x Family Código: Blanco,劇場版 SPY×FAMILY CODE: White,2023-12-22,ja,16|35|12|28,4.5259,7.234,699,False,False
+958279,El caftán azul,أزرق القفطان,2023-02-10,ar,18|10749,1.2056,7.2,196,False,False
+948713,Siete reyes deben morir,The Last Kingdom: Seven Kings Must Die,2023-04-14,en,28|12|10752,4.2413,7.23,915,False,False
+932430,Pacto de graduación,Prom Pact,2023-03-30,en,35|10749|10770,2.7612,7.226,197,False,False
+998022,Sala de profesores,Das Lehrerzimmer,2023-05-04,de,18,1.6513,7.224,780,False,False
+614930,Ninja Turtles: Caos mutante,Teenage Mutant Ninja Turtles: Mutant Mayhem,2023-07-31,en,16|35|28|878,6.5094,7.223,1702,False,False
+353577,La probabilidad estadística del amor a primera vista,Love at First Sight,2023-09-15,en,10749|18,3.4231,7.219,748,False,False
+1073125,En tus sueños,Rüyanda Görürsün,2023-02-03,tr,10749|35|18,1.5557,7.2,103,False,False
+1146302,Sly,Sly,2023-09-16,en,99,2.4988,7.215,247,False,False
+1064835,The Seven Deadly Sins: El rencor de Edimburgo - Parte 2,七つの大罪 怨嗟のエジンバラ 後編,2023-08-08,ja,16|28|12|14,2.0863,7.2,246,False,False
+845387,maboroshi,アリスとテレスのまぼろし工場,2023-09-15,ja,16|18|10749|14,3.4832,7.211,142,False,False
+715385,No se admiten perros ni italianos,Interdit aux chiens et aux Italiens,2023-01-25,fr,16|18|36,1.2593,7.21,188,False,False
+1029575,Plan en familia,The Family Plan,2023-12-14,en,28|35|12,13.5382,7.203,2047,False,False
+931935,La extorsión,La extorsión,2023-04-06,es,53|80|18,0.5415,7.2,163,False,False
+970348,El viejo roble,The Old Oak,2023-09-29,en,18,1.9032,7.189,446,False,False
+1016084,BlackBerry,BlackBerry,2023-02-13,en,35|18|36,3.8352,7.188,1031,False,False
+958182,Heroico,Heroico,2023-09-21,es,18|53,0.7073,7.2,213,False,False
+1071806,Hambre,คนหิว เกมกระหาย,2023-04-04,th,18,1.7637,7.178,510,False,False
+1024621,Me llamo Chihiro,ちひろさん,2023-02-23,ja,18,2.4222,7.175,154,False,False
+744857,Cuando acecha la maldad,Cuando acecha la maldad,2023-10-05,es,27|53,5.7107,7.168,1626,False,False
+912908,Vida perra,Strays,2023-08-17,en,35|12,4.1596,7.164,1066,False,False
+459003,Mavka: Guardiana del bosque,Мавка: Лісова пісня,2023-03-02,uk,16|12|10751|14,3.3767,7.2,870,False,False
+717082,Stan Lee,Stan Lee,2023-06-10,en,99,1.5127,7.2,101,False,False
+1109237,El monje y el rifle,The Monk and the Gun,2023-10-17,dz,35|18,1.6317,7.157,127,False,False
+931102,El especialista (Ride On),龙马精神,2023-04-07,zh,28|35|18,3.7627,7.144,437,False,False
+667538,Transformers: El despertar de las bestias,Transformers: Rise of the Beasts,2023-06-06,en,878|12|28,12.7919,7.146,5521,False,False
+1075334,The Girl Who Escaped: The Kara Robinson Story,The Girl Who Escaped: The Kara Robinson Story,2023-02-11,en,53|18|80|10770,2.1839,7.14,132,False,False
+951491,Saw X,Saw X,2023-09-27,en,27|9648|53,6.3083,7.139,2540,False,False
+1008042,Háblame,Talk to Me,2023-07-26,en,27,9.5359,7.137,4092,False,False
+1057001,El bastardo,귀공자,2023-06-21,ko,28|53|18,2.3589,7.134,205,False,False
+1093247,John Mulaney: Baby J,John Mulaney: Baby J,2023-04-24,en,35|10770,1.1034,7.127,126,False,False
+1040148,"Ruby, aventuras de una kraken adolescente","Ruby Gillman, Teenage Kraken",2023-06-28,en,16|10751|14|35,6.116,7.126,1149,False,False
+1098239,"Tangos, tequilas, y algunas mentiras","Tangos, tequilas, y algunas mentiras",2023-03-07,es,35|10749,0.7187,7.1,106,False,False
+978870,Última noche en Milán,L'ultima notte di Amore,2023-03-09,it,53|80,1.4494,7.116,561,False,False
+983883,Mi boda con un fantasma,關於我和鬼變成家人的那件事,2023-02-10,zh,35|28|27,2.1879,7.115,231,False,False
+555285,"¿Estás ahí, Dios? Soy yo, Margaret","Are You There God? It's Me, Margaret.",2023-03-29,en,35|18,3.6368,7.114,557,False,False
+957770,Sage homme,Sage homme,2023-03-15,fr,35|18,0.6865,7.1,204,False,False
+1007631,Les Algues vertes,Les Algues vertes,2023-07-12,fr,18|53,1.0702,7.1,121,False,False
+986280,Las hojas muertas,Kuolleet lehdet,2023-09-14,fi,10749|18|35,2.1257,7.116,795,False,False
+855262,Pinball: El hombre que salvó el juego,Pinball: The Man Who Saved the Game,2023-03-17,en,35|18|36|10749,1.462,7.1,107,False,False
+912480,Las habitaciones rojas,Les Chambres rouges,2023-08-11,fr,53|80,2.9272,7.103,574,False,False
+964960,A fuego lento,La Passion de Dodin Bouffant,2023-11-08,fr,10749|18,2.879,7.1,430,False,False
+1053600,20.000 especies de abejas,20.000 especies de abejas,2023-04-21,es,18,1.2571,7.1,122,False,False
+1208476,Ricky Gervais: Armageddon,Ricky Gervais: Armageddon,2023-12-01,en,35,1.1475,7.093,243,False,False
+1072371,Jules,Jules,2023-08-10,en,35|878|18,1.7456,7.089,425,False,False
+677179,Creed III,Creed III,2023-03-01,en,18|28,5.4167,7.082,3031,False,False
+1121575,Babylon 5: El viaje a casa,Babylon 5: The Road Home,2023-08-14,en,16|878|28|12,1.7945,7.1,103,False,False
+1106299,The Spider Within: A Spider-Verse Story,The Spider Within: A Spider-Verse Story,2023-06-12,en,16|18,1.5088,7.1,116,False,False
+763165,The Burial,The Burial,2023-10-06,en,18|36,2.7413,7.069,669,False,False
+856289,La creación de los dioses: El reino de las tormentas,封神第一部：朝歌风云,2023-07-15,zh,28|14|10752,6.7984,7.1,514,False,False
+895549,Nyad,NYAD,2023-10-18,en,18|36,3.0554,7.064,590,False,False
+1047041,Detective Conan 26: El submarino de hierro negro,名探偵コナン 黒鉄の魚影（サブマリン）,2023-04-14,ja,16|28|80|9648,3.6776,7.059,152,False,False
+1070784,Mia,Mia,2023-04-06,it,18,0.5788,7.1,220,False,False
+888768,Un gran equipo,Wochenendrebellen,2023-09-28,de,35|18,1.8278,7.056,143,False,False
+1140817,As,As,2023-01-01,en,,0.0806,7.1,185,False,False
+1080936,L'ultima volta che siamo stati bambini,L'ultima volta che siamo stati bambini,2023-10-12,it,18|35|12,1.0371,7.051,138,False,False
+1110358,Yannick,Yannick,2023-08-02,fr,35|18|53,1.158,7.049,756,False,False
+919950,Grazie ragazzi,Grazie ragazzi,2023-01-12,it,35|18,0.6977,7.0,191,False,False
+676841,Infelices para Siempre,Infelices para Siempre,2023-01-26,es,35|10749,0.6749,7.0,185,False,False
+961268,Bailarina,발레리나,2023-10-06,ko,28|53,3.9462,7.036,754,False,False
+950071,Sospechoso X,जाने जां,2023-09-21,hi,80|53|18,1.3322,7.035,127,False,False
+1141202,Tácticas en el amor 2,Aşk Taktikleri 2,2023-07-14,tr,10749|35,0.937,7.033,136,False,False
+980137,Papá o Mamá,Papá o Mamá,2023-11-30,es,35,0.4575,7.0,106,False,False
+787699,Wonka,Wonka,2023-12-06,en,35|10751|14,10.7831,7.032,4629,False,False
+1122932,Te esperaré en Venus,See You on Venus,2023-07-20,en,10749|18,1.7425,7.026,234,False,False
+979097,Memory,Memory,2023-12-22,en,18,1.7587,7.024,230,False,False
+667717,Deep Sea. Viaje a las profundidades,深海,2023-01-22,zh,16|12|18|14|9648,2.1037,7.022,158,False,False
+1101799,Fuga de Reinas,Fuga de Reinas,2023-04-14,es,35,0.9631,7.02,147,False,False
+997294,Cerrar los ojos,Cerrar los ojos,2023-08-16,es,18|9648,1.0581,7.0,131,False,False
+959395,María Montessori,La Nouvelle Femme,2023-11-05,fr,18|36,1.4191,7.0,105,False,False
+670292,The Creator,The Creator,2023-09-27,en,878|28|12,7.7703,7.016,4285,False,False
+912520,Simple como Sylvain,Simple comme Sylvain,2023-09-22,fr,10749|35|18,2.3783,7.015,232,False,False
+739986,Espíritu libre,True Spirit,2023-01-26,en,12|18|36,1.9097,7.0,277,False,False
+872906,Jawan,जवान,2023-09-07,hi,28|53,3.8453,7.011,365,False,False
+915980,Con los pies en la tierra,Sonne und Beton,2023-03-02,de,80|18,0.779,7.007,147,False,False
+467244,La zona de interés,The Zone of Interest,2023-12-15,en,18|36|10752,8.6352,7.008,2829,False,False
+1061671,Pamela Anderson: Una historia de amor,"Pamela, a love story",2023-01-30,en,99,1.8804,7.006,260,False,False
+997776,Liga de la Justicia x RWBY: Superhéroes y Cazadores: Parte 1,"Justice League x RWBY: Super Heroes & Huntsmen, Part One",2023-04-25,en,16|28|14,1.7872,7.004,131,False,False
+893723,La Patrulla Canina: La superpelícula,PAW Patrol: The Mighty Movie,2023-09-21,en,12|16|35|878|10751|28,11.8107,6.983,615,False,False
+1116488,El guía,The Shepherd,2023-08-10,en,18|14|28,1.4639,7.0,137,False,False
+800787,Una buena persona,A Good Person,2023-03-23,en,18,2.715,6.988,472,False,False
+1143319,Puppy Love,Puppy Love,2023-08-22,en,35|10749,1.8789,6.987,371,False,False
+987032,The Way to the Heart,The Way to the Heart,2024-04-02,en,18|35,1.3919,9.9,143,False,False
+1278101,Big World,小小的我,2024-12-27,zh,18|10751,6.7296,8.8,161,False,False
+1333100,Attack on Titan: THE LAST ATTACK,劇場版「進撃の巨人」完結編 THE LAST ATTACK,2024-03-20,ja,16|28|12|18,6.1439,8.725,280,False,False
+1232449,Young Hearts,Young Hearts,2024-10-26,nl,18|10749,11.1311,8.603,334,False,False
+1291559,Pinceladas de amor,余命一年の僕が、余命半年の君と出会った話。,2024-06-26,ja,10749|18,4.0265,8.4,240,False,False
+1184918,Robot salvaje,The Wild Robot,2024-09-12,en,10751|16|878|12,25.6777,8.308,6843,False,False
+1130276,Succubus,Succubus,2024-10-06,en,27|53,3.2856,8.276,279,False,False
+1244492,Look Back: Continúa dibujando,ルックバック,2024-06-28,ja,16|18,11.7875,8.186,715,False,False
+1186532,La fragua,The Forge,2024-08-22,en,18|10751,3.7526,8.2,364,False,False
+693134,Dune: Parte dos,Dune: Part Two,2024-02-27,en,878|12,41.7186,8.144,8941,False,False
+1275945,Avicii: Soy Tim,Avicii - I'm Tim,2024-06-09,sv,99|10402,1.6164,8.124,133,False,False
+1103621,Cómo hacerse millonario antes de que muera la abuela,หลานม่า,2024-04-04,th,18,3.6257,8.119,462,False,False
+1167027,La singular vida de Ibelin,Ibelin,2024-03-08,no,99|16,1.9798,8.112,170,False,False
+1167366,Uranus 2324 - Siempre nos encontraremos,ยูเรนัส 2324,2024-07-04,th,10749|18|878,1.7379,8.1,155,False,False
+1128559,Super/Man: La historia de Christopher Reeve,Super/Man: The Christopher Reeve Story,2024-09-21,en,99,2.3218,8.085,229,False,False
+1064486,Memorias de un caracol,Memoir of a Snail,2024-10-17,en,16|35|18,5.9092,8.066,859,False,False
+823219,"Flow, un mundo que salvar",Straume,2024-08-29,lv,12|16|10751|14,10.627,8.046,3162,False,False
+1232493,No Other Land,لا أرض أخرى,2024-11-01,ar,99,2.436,8.031,366,False,False
+1076708,La música de John Williams,Music by John Williams,2024-11-01,en,99|10402,1.8847,8.0,100,False,False
+829402,Ultraman: El ascenso,Ultraman: Rising,2024-06-14,en,16|878|10751|28,2.6363,7.981,414,False,False
+698687,Transformers One,Transformers One,2024-09-11,en,16|878|12|10751,8.8404,7.981,1849,False,False
+1000837,Aún estoy aquí,Ainda Estou Aqui,2024-09-19,pt,18|36,5.5706,7.9,1212,False,False
+1084736,El Conde de Montecristo,Le Comte de Monte-Cristo,2024-06-28,fr,12|28|18,8.5446,7.892,2183,False,False
+1226841,La gran noche del pop,The Greatest Night in Pop,2024-01-19,en,99|10402,1.9031,7.9,319,False,False
+1069945,മഞ്ഞുമ്മല്‍ BOYS,മഞ്ഞുമ്മല്‍ BOYS,2024-02-22,ml,12|53|18,1.3621,7.875,104,False,False
+1214484,Aprender a soltar,Släpp taget,2024-11-01,sv,18,1.308,7.857,377,False,False
+1012201,Haikyu!! La batalla del basurero,劇場版ハイキュー!! ゴミ捨て場の決戦,2024-02-16,ja,16|35,5.0267,7.852,277,False,False
+774531,La joven y el mar,Young Woman and the Sea,2024-05-31,en,36|18,2.5403,7.851,472,False,False
+1163194,Las novias perdidas,लापता लेडीज़,2024-03-01,hi,35|18|10749,1.1801,7.848,188,False,False
+1014505,Overlord: El reino sagrado,劇場版「オーバーロード」聖王国編,2024-09-20,ja,28|12|16|14,3.7215,7.785,223,False,False
+1084066,Tatami,Tatami,2024-03-08,en,53|18,1.0705,7.742,165,False,False
+1118224,Maharaja,மகாராஜா,2024-06-14,ta,28|53|9648,2.8011,7.736,282,False,False
+842859,La mercancía más preciosa,La Plus Précieuse des marchandises,2024-11-20,fr,16|18|36,1.5725,7.733,210,False,False
+1026880,La promesa de Irene,Irena's Vow,2024-04-15,en,10752|18|36,1.4866,7.683,161,False,False
+975056,Una mujer italiana (Cabrini),Cabrini,2024-03-07,en,36|18,1.8359,7.7,183,False,False
+1139817,Agente cinturón negro,무도실무관,2024-09-12,ko,28|35|80|18,2.855,7.679,390,False,False
+1166133,Bramayugam,ഭ്രമയുഗം,2024-02-15,ml,18|27|53,1.9171,7.667,102,False,False
+567811,10 vidas,10 Lives,2024-04-18,en,16|35|10751|14,2.3972,7.7,235,False,False
+1263421,Baki Hanma vs. Kengan Ashura,範馬刃牙VSケンガンアシュラ,2024-06-05,ja,16|28|14,3.2765,7.7,415,False,False
+974036,Ángeles cotidianos,Ordinary Angels,2024-02-22,en,18,4.227,7.653,451,False,False
+1239511,లక్కీ భాస్కర్‌,లక్కీ భాస్కర్‌,2024-10-30,te,53|80|18,3.8802,7.638,112,False,False
+838209,Exhuma,파묘,2024-02-22,ko,9648|27|53,7.3526,7.636,866,False,False
+1229913,El Roomie,El Roomie,2024-01-18,es,35,0.6355,7.6,105,False,False
+1214499,Black Box Diaries,Black Box Diaries,2024-10-24,en,99,1.2361,7.6,100,False,False
+799766,Better Man: La historia de Robbie Williams,Better Man,2024-12-06,en,10402|18,3.6448,7.623,958,False,False
+1104844,Blue Lock la película -episodio Nagi-,劇場版ブルーロック -EPISODE 凪-,2024-04-19,ja,16|28|18,4.3799,7.612,268,False,False
+1061699,Seis Triple Ocho,The Six Triple Eight,2024-12-06,en,18|10752|36,3.1077,7.594,753,False,False
+939243,Sonic 3: La película,Sonic the Hedgehog 3,2024-12-19,en,28|878|35|10751,18.2268,7.6,3542,False,False
+588648,Guardiana de dragones (Dragonkeeper),Guardiana de dragones (Dragonkeeper),2024-04-11,es,16|10751|28|12|14,4.491,7.6,233,False,False
+533535,Deadpool y Lobezno,Deadpool & Wolverine,2024-07-24,en,28|35|878,42.7342,7.586,9818,False,False
+879805,Soy Celine Dion,I Am: Celine Dion,2024-06-18,en,99|10402,1.8985,7.6,176,False,False
+1147416,"Miraculous World: Las Aventuras de Ladybug en Londres, la carrera contra el tiempo","Miraculous World : Londres, la course contre le temps",2024-11-14,fr,16|10751|28|12|14,7.0544,7.57,336,False,False
+1232827,La chica de la aguja,Pigen med nålen,2024-09-06,da,18|36,2.3149,7.547,426,False,False
+1022789,Del revés 2 (Inside Out 2),Inside Out 2,2024-06-11,en,16|12|35|10751,21.7961,7.539,7151,False,False
+618588,Arthur,Arthur the King,2024-02-22,en,12|18,4.3055,7.533,1023,False,False
+870360,El día que la Tierra explotó: Una película de los Looney Tunes,The Day the Earth Blew Up: A Looney Tunes Movie,2024-08-01,en,10751|35|12|16|878,3.743,7.526,248,False,False
+1158996,La historia de Souleymane,L'Histoire de Souleymane,2024-10-09,fr,18,1.779,7.504,416,False,False
+1382406,Venganza implacable,惊天大营救,2024-12-05,zh,28|80|53|18,3.5335,7.5,190,False,False
+1278263,La semilla de la higuera sagrada,Les Graines du figuier sauvage,2024-09-18,fr,18|53|80,3.0344,7.491,536,False,False
+1084812,ആവേശം,ആവേശം,2024-04-11,ml,35|28,1.4905,7.462,118,False,False
+1174481,El 47,El 47,2024-09-06,ca,18,0.8963,7.451,153,False,False
+929204,Wallace y Gromit: La venganza se sirve con plumas,Wallace & Gromit: Vengeance Most Fowl,2024-12-18,en,16|12|35|878|10751,4.8463,7.447,753,False,False
+786892,Furiosa: De la saga Mad Max,Furiosa: A Mad Max Saga,2024-05-22,en,28|878|12,22.9374,7.44,5373,False,False
+1180634,El tren de los niños,Il treno dei bambini,2024-10-21,it,18,2.3567,7.426,359,False,False
+1155058,Watchmen: Capítulo 1,Watchmen: Chapter I,2024-08-12,en,16|18|878,2.1969,7.4,260,False,False
+1320276,El año nuevo que nunca llegó,Anul Nou care n-a fost,2024-09-27,ro,18,0.9961,7.411,101,False,False
+1246596,The Walking Dead: The Return,The Walking Dead: The Return,2024-02-15,en,99,1.5128,7.4,144,False,False
+927342,Amaran,அமரன்,2024-10-31,ta,28|18|12|10752,2.2398,7.4,273,False,False
+1290938,South Park: El fin de la obesidad,South Park: The End of Obesity,2024-05-24,en,16|35|10770,2.4092,7.388,295,False,False
+1037113,El ambigú,Snack Shack,2024-03-15,en,35|18,3.0246,7.385,325,False,False
+1253971,La vida según Philomena Cunk,Cunk on Life,2024-12-05,en,35|10770,1.661,7.4,214,False,False
+1155828,Las vidas de Sing Sing,Sing Sing,2024-07-12,en,18,2.9458,7.374,418,False,False
+1159799,Mi amigo el pingüino,My Penguin Friend,2024-08-07,en,10751|12|18,1.7951,7.4,208,False,False
+1032472,Touch,Snerting,2024-05-29,is,10749|18,1.6984,7.354,137,False,False
+1029330,Alguien como tú,Someone Like You,2024-04-02,en,10749|18,1.8555,7.346,149,False,False
+1147400,"Miraculous World: París, las aventuras de Shadybug y Claw Noir","Miraculous World : Paris, Les Aventures de Toxinelle et Griffe Noire",2024-02-11,fr,16|10751|28|12|14,4.4645,7.325,550,False,False
+1180629,Kneecap,Kneecap,2024-08-02,ga,10402|35|18,2.1361,7.3,328,False,False
+1299652,Watchmen: Capítulo 2,Watchmen: Chapter II,2024-11-25,en,16|9648|878|18,2.2213,7.3,191,False,False
+573435,Bad Boys: Ride or Die,Bad Boys: Ride or Die,2024-06-05,en,28|35|80,11.2088,7.303,3546,False,False
+1059073,"Invierno, primavera, verano, otoño",Winter Spring Summer or Fall,2024-12-27,en,10749|18,2.8148,7.3,267,False,False
+1214506,Will y Harper,Will & Harper,2024-09-12,en,99|35,1.5767,7.29,131,False,False
+1151949,Fuera de las sombras,The Shadow Strays,2024-09-10,id,28|80|53,4.4629,7.289,367,False,False
+1159311,My Hero Academia: You're Next,僕のヒーローアカデミア THE MOVIE ユアネクスト,2024-08-02,ja,16|28|12|878,4.951,7.284,255,False,False
+866398,Beekeeper: El protector,The Beekeeper,2024-01-08,en,28|80|53,22.4029,7.283,4707,False,False
+969492,Misión hostil,Land of Bad,2024-02-09,en,28|10752|53,7.0392,7.281,1652,False,False
+1019939,Cientos de castores,Hundreds of Beavers,2024-01-26,en,35|12,2.0013,7.3,352,False,False
+762509,Mufasa: El rey león,Mufasa: The Lion King,2024-12-18,en,12|10751|16,10.331,7.275,2828,False,False
+1000866,Por todo lo alto,En fanfare,2024-11-27,fr,35|18|10402,1.4704,7.263,534,False,False
+1234591,Mi postre favorito,کیک محبوب من,2024-07-11,fa,18|35|10749,0.9643,7.257,189,False,False
+1230393,Monsters: El infierno del dragón,MONSTERS 一百三情飛龍侍極,2024-01-21,ja,16|28|14|12,1.8048,7.2,148,False,False
+1158915,Dìdi,Dìdi (弟弟),2024-07-26,en,35|18,2.4627,7.237,253,False,False
+1192846,Es por su bien,Es por su bien,2024-06-21,es,35,0.962,7.2,111,False,False
+1017163,Fuerza bruta: Castigo,범죄도시 4,2024-04-24,ko,28|80|53,5.1674,7.229,282,False,False
+598387,El aprendiz de tigre,The Tiger's Apprentice,2024-02-16,en,16|10751|14,3.7258,7.227,152,False,False
+574451,Mil veces hasta siempre,Turtles All the Way Down,2024-04-27,en,18|10749,3.1627,7.227,238,False,False
+1100099,Vivir el momento,We Live in Time,2024-10-10,en,10749|18,8.6982,7.225,1453,False,False
+863873,Los horrores de Caddo Lake,Caddo Lake,2024-11-28,en,9648|878|53,4.0476,7.2,623,False,False
+843527,La idea de tenerte,The Idea of You,2024-05-02,en,10402|35|10749|18,16.6497,7.222,2078,False,False
+1039882,Me llamo Loh Kiwan,로기완,2024-02-19,ko,10749|18,1.7316,7.221,163,False,False
+1155089,Liga de la Justicia: Crisis en Tierras Infinitas - Parte 1,Justice League: Crisis on Infinite Earths Part One,2024-01-08,en,16|878|28,3.8477,7.218,444,False,False
+1228891,飞驰人生2,飞驰人生2,2024-02-10,zh,18|35|12,3.2503,7.2,100,False,False
+1002155,Monsieur Aznavour,Monsieur Aznavour,2024-10-23,fr,36|10402|18,1.404,7.199,375,False,False
+765421,Crossing,გადასვლა,2024-03-22,ka,18,1.5927,7.2,111,False,False
+974576,Cónclave,Conclave,2024-10-25,en,18|53,9.1282,7.191,3753,False,False
+959604,Corazones rotos,L'Amour ouf,2024-10-16,fr,10749|80|18,2.4409,7.189,1076,False,False
+1128752,Bird,Bird,2024-11-08,en,18,2.0327,7.186,250,False,False
+1030076,Padre no hay más que uno 4: Campanas de boda,Padre no hay más que uno 4: Campanas de boda,2024-07-17,es,10751|35,1.0842,7.2,126,False,False
+1193421,La gran ambición,Berlinguer: La grande ambizione,2024-10-31,it,18|36,0.9041,7.171,190,False,False
+1160018,Kill: Masacre en el tren,KILL,2024-07-03,hi,28|80|53,3.5716,7.168,559,False,False
+1014590,Upgrade: Primera clase,Upgraded,2024-02-07,en,10749|35,4.3503,7.166,1076,False,False
+1360610,Los Hermanos Menendez,The Menendez Brothers,2024-10-07,en,99,1.2049,7.161,193,False,False
+1252428,Anaconda,狂蟒之灾,2024-03-01,zh,12|27,2.772,7.2,166,False,False
+1236419,Pieza por pieza,Piece by Piece,2024-10-10,en,16|10402|99,2.7604,7.149,174,False,False
+945961,Alien. Romulus,Alien: Romulus,2024-08-13,en,27|878,15.6901,7.154,5058,False,False
+645757,Aquella Navidad,That Christmas,2024-11-27,en,16|35|10751|14|12,4.2746,7.15,461,False,False
+1209290,Liga de la Justicia: Crisis en Tierras Infinitas – Parte 3,Justice League: Crisis on Infinite Earths Part Three,2024-07-15,en,16|878|28,3.3549,7.148,359,False,False
+1249423,Black Dog,狗阵,2024-06-15,zh,18,1.8668,7.144,246,False,False
+1305194,Mi prima la sexóloga 2 (de la fantasía a la realidad),Mi prima la sexóloga 2 (de la fantasía a la realidad),2024-05-15,es,35|18,2.2959,7.1,129,False,False
+1215185,La infiltrada,La infiltrada,2024-10-11,es,18|80|53,1.6141,7.139,234,False,False
+1371727,¡Canta!: Thriller,Sing: Thriller,2024-10-15,en,16|35|14|10402|10751,3.027,7.135,233,False,False
+1384231,RETURN,RETURN,2024-11-07,en,99,0.2365,7.1,125,False,False
+1248753,Alerta Amber,Amber Alert,2024-09-27,en,53|18,2.6813,7.135,315,False,False
+1222248,N.º 24,Nr. 24,2024-10-30,no,10752|36|18,2.1329,7.13,393,False,False
+933260,La sustancia,The Substance,2024-09-18,en,27|878,19.6949,7.1,6771,False,False
+1026819,The Hunted: Cacería Humana,The Hunted,2024-01-18,en,27|53,1.3919,7.127,114,False,False
+1214469,Ghostlight,Ghostlight,2024-06-14,en,35|18,1.7836,7.126,119,False,False
+1197619,Perdido en la montaña,Lost on a Mountain in Maine,2024-11-01,en,12|18|10751,1.7516,7.113,150,False,False
+1152014,Un p'tit truc en plus,Un p'tit truc en plus,2024-04-18,fr,35|10751,2.0418,7.105,885,False,False
+1156593,Culpa tuya,Culpa tuya,2024-12-26,es,18|10749,10.2933,7.101,1647,False,False
+1112637,Napoli - New York,Napoli - New York,2024-11-21,it,18|12,0.9356,7.096,209,False,False
+1280941,El Chico de los Pantalones Rosas,Il ragazzo dai pantaloni rosa,2024-10-10,it,18,1.0414,7.085,259,False,False
+1114513,No hables con extraños,Speak No Evil,2024-09-11,en,27|53,6.4004,7.082,2427,False,False
+1299046,Diamanti,Diamanti,2024-12-19,it,35|18,2.0215,7.1,332,False,False
+938614,El último late night,Late Night with the Devil,2024-03-19,en,27,7.2177,7.076,2394,False,False
+1064213,Anora,Anora,2024-10-14,en,18|35|10749,13.5521,7.07,3639,False,False
+1354627,Bob Esponja: Campamento del Terror,SpongeBob SquarePants: Kreepaway Kamp,2024-10-10,en,10770|10751|35|27|16,2.7225,7.1,111,False,False
+1128650,El fiscal,誤判,2024-12-08,cn,28|18|80|53,3.9256,7.063,247,False,False
+661539,A Complete Unknown,A Complete Unknown,2024-12-25,en,18|10402,6.8742,7.063,1616,False,False
+1118028,La virgen roja,La virgen roja,2024-09-27,es,18|36|53,1.5771,7.059,186,False,False
+931642,Luces fuera,Lights Out,2024-02-16,en,28|53,2.062,7.045,167,False,False
+653346,El reino del planeta de los simios,Kingdom of the Planet of the Apes,2024-05-08,en,878|12|28,10.37,7.043,4567,False,False
+1399914,(Ho Ho Ho) Santa Homer,The Simpsons: O C'mon All Ye Faithful,2024-12-16,en,16|35,2.3473,7.039,103,False,False
+1079311,El reino de la mafia,Le Royaume,2024-11-13,fr,80|18|53,1.4136,7.0,104,False,False
+1007826,Los segundones,The Underdoggs,2024-01-25,en,35,1.4286,7.0,220,False,False
+923667,La ciudad de los guerreros,九龍城寨之圍城,2024-05-01,cn,28|80|53,4.77,7.035,501,False,False
+1075676,"Invasión, insurrección","전,란",2024-10-02,ko,28|18|36,1.9273,7.031,227,False,False
+823464,Godzilla y Kong: El nuevo imperio,Godzilla x Kong: The New Empire,2024-03-27,en,28|12|878,24.7028,7.03,4960,False,False
+1108354,Kali,"KALI, l'ange de la vengeance",2024-05-31,fr,28|53|12,1.5922,7.029,138,False,False
+1267217,Почему ты?,Почему ты?,2024-04-25,ru,10749|18,2.2993,7.0,126,False,False
+635996,Wonderland,원더랜드,2024-06-05,ko,878|18,1.4635,7.0,133,False,False
+1355755,El búho y la niña: Casi una historia navideña,An Almost Christmas Story,2024-10-14,en,16|12|14|10751,2.2107,7.0,100,False,False
+1362101,La cueva azul,Mavi Mağara,2024-10-17,tr,18|10749,1.4095,7.013,114,False,False
+1171462,Golden Kamuy,ゴールデンカムイ,2024-01-19,ja,28|12|35,2.7133,7.009,110,False,False
+1241982,Vaiana 2,Moana 2,2024-11-21,en,12|16|35|10751|14,16.0237,6.999,3362,False,False
+799583,El ministerio de la guerra sucia,The Ministry of Ungentlemanly Warfare,2024-04-18,en,28|35|10752,12.1332,6.988,2185,False,False
+1151244,Vermiglio,Vermiglio,2024-09-19,it,18,1.801,6.986,349,False,False
+1011985,Kung Fu Panda 4,Kung Fu Panda 4,2024-03-02,en,16|35|12|28|10751,10.3461,6.98,3747,False,False
+1211472,Septiembre 5,September 5,2024-11-07,en,53|18|36,3.4701,6.974,632,False,False
+763215,Damsel,Damsel,2024-03-07,en,14|28|12,6.999,6.973,2998,False,False
+646097,Rebel Ridge,Rebel Ridge,2024-08-27,en,80|28|53|18,8.8079,6.966,1804,False,False
+1247019,Susurros Mortales 2,ธี่หยด 2,2024-10-10,th,27|53|28,3.1473,7.0,131,False,False
+1001089,Frères,Frères,2024-04-24,fr,18,0.782,7.0,119,False,False
+978592,Sombras del pasado,Sleeping Dogs,2024-03-21,en,9648|53|80|18,3.2168,6.96,684,False,False
+1138194,Heretic (Hereje),Heretic,2024-10-31,en,53|27,7.7634,6.957,3044,False,False
+636279,Bogotá: Tierra de últimas oportunidades,보고타: 마지막 기회의 땅,2024-12-31,ko,53|80|18,1.3374,6.957,104,False,False
+519182,Gru 4. Mi villano favorito,Despicable Me 4,2024-06-20,en,16|35|28|878|10751,17.3655,6.955,3445,False,False
+1175075,Menudas piezas,Menudas piezas,2024-04-12,es,35,0.7102,7.0,106,False,False
+832964,Lee Miller,Lee,2024-09-12,en,36|18|10752,3.9514,6.95,713,False,False
+746036,El especialista,The Fall Guy,2024-04-24,en,28|35|10749,8.4015,6.948,4187,False,False
+972614,El método Knox,Knox Goes Away,2024-03-15,en,28|80|18|53,2.0964,6.9,540,False,False
+1002088,Misiones cruzadas,크로스,2024-08-08,ko,28|35,2.4472,6.944,179,False,False
+1079091,Romper el círculo,It Ends with Us,2024-08-07,en,18|10749,7.2191,6.94,2088,False,False
+1192209,El Arca de Noé,Arca de Noé,2024-01-05,pt,16|10402|35|14|10751,2.0593,6.9,123,False,False
+845781,Red One,Red One,2024-10-31,en,28|12|35|14,13.9401,6.94,3238,False,False
+748783,Garfield: La película,The Garfield Movie,2024-04-30,en,12|16|35|10751,8.0648,6.938,1535,False,False
+1006724,Dead talents society,鬼才之道,2024-08-07,zh,27|35,1.3934,6.933,112,False,False
+995926,El ejecutor,베테랑 2,2024-09-13,ko,28|80|35,1.9741,6.931,108,False,False
+639720,Amigos imaginarios,IF,2024-05-08,en,35|14|10751,10.1891,6.927,1729,False,False
+413846,1992,1992,2024-08-29,en,80|53|28,2.816,6.9,250,False,False
+1228682,Sueños en Oslo,Drømmer,2024-10-04,no,10749|18,2.0356,6.9,107,False,False
+549509,The Brutalist,The Brutalist,2024-12-20,en,18,14.3446,6.927,1900,False,False
+1094556,El retorno de los Thunderman,The Thundermans Return,2024-03-07,en,10751|878|28|35,2.3083,6.923,333,False,False
+359410,Road House (De profesión: duro),Road House,2024-03-08,en,28|53|18,10.2373,6.919,3338,False,False
+975773,Pequeñas cartas indiscretas,Wicked Little Letters,2024-02-23,en,35|18|9648,2.6924,6.912,750,False,False
+917496,Bitelchús Bitelchús,Beetlejuice Beetlejuice,2024-09-04,en,35|14|27,11.8829,6.9,3446,False,False
+402431,Wicked,Wicked,2024-10-16,en,18|10749|14,12.9598,6.908,3327,False,False
+1126934,What You Wish For,What You Wish For,2024-05-31,en,53|35|27,1.1865,6.906,208,False,False
+937287,Rivales,Challengers,2024-04-18,en,18|10749,12.9019,6.9,2948,False,False
+989662,A Different Man,A Different Man,2024-08-24,en,35|18,4.2341,6.9,538,False,False
+1218193,Casa en llamas,Casa en flames,2024-06-28,ca,35,0.5981,6.898,133,False,False
+1079310,La receta perfecta,Vingt Dieux,2024-12-11,fr,18|35,1.0577,6.895,349,False,False
+1106739,Jurado Nº 2,Juror #2,2024-10-30,en,18|53,4.3517,6.897,2719,False,False
+973628,보통의 가족,보통의 가족,2024-10-16,ko,18|53,1.3983,6.9,156,False,False
+1047020,La última parada en Arizona,The Last Stop in Yuma County,2024-05-10,en,80|18|53,3.0106,6.891,426,False,False
+1069387,Pedro Páramo,Pedro Páramo,2024-09-12,es,18|14|37,0.9167,6.89,100,False,False
+1160956,Panda Plan,熊猫计划,2024-10-01,zh,28|35,4.2159,6.9,319,False,False
+966238,La cocina,La cocina,2024-10-25,es,18|35,1.3087,6.879,112,False,False
+1001274,La noche eterna,La Nuit se traîne,2024-08-28,fr,28|80|53,1.7705,6.876,181,False,False
+1029281,Strange Darling,Strange Darling,2024-08-22,en,80|53|27,4.9932,6.873,1101,False,False
+739547,"Telma, la unicornio",Thelma the Unicorn,2024-05-17,en,16|14|10751,2.0899,6.9,202,False,False
+1144107,罗小黑战记 2,罗小黑战记 2,2025-07-18,zh,16|14|28|12,8.3804,8.994,160,False,False
+1311031,Guardianes de la noche: Kimetsu no Yaiba La fortaleza infinita,劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来,2025-07-18,ja,16|28|14,33.8135,8.799,2384,False,False
+1465563,Un poeta,Un poeta,2025-08-28,es,35|18,2.202,8.7,155,False,False
+1338799,JUJUTSU KAISEN: Hidden Inventory / Premature Death - The Movie,劇場版総集編 呪術廻戦 懐玉・玉折,2025-05-30,ja,16|28|14,3.1856,8.673,142,False,False
+1302151,Mesa de regalos,Mesa de regalos,2025-01-16,es,35,1.1774,8.6,107,False,False
+1218925,Chainsaw Man - La película: El arco de Reze,劇場版 チェンソーマン レゼ篇,2025-09-19,ja,16|28|10749|14,22.7397,8.537,1287,False,False
+1466115,Aunque nuestro amor se desvanezca esta noche,"오늘 밤, 세계에서 이 사랑이 사라진다 해도",2025-12-24,ko,10749|18,4.7204,8.519,243,False,False
+1419406,Escuadrón letal,捕风追影,2025-08-16,zh,28|80|18|53,39.2889,8.358,1611,False,False
+1412113,Así se hizo ‘El juego del calamar: Temporada 2',오징어 게임: 시즌2 제작 이야기,2025-01-02,ko,99,3.9643,8.332,462,False,False
+1181107,El Rey de Reyes,The King of Kings,2025-04-07,en,12|16|10751|14,3.2351,8.305,220,False,False
+1317149,Incontrolable (I Swear),I Swear,2025-09-22,en,18|36,12.8469,8.291,676,False,False
+1356039,Contraataque,Contraataque,2025-02-27,es,28|12|53,5.6209,8.271,875,False,False
+1355666,Los desenredos del amor,고백의 역사,2025-08-28,ko,10749|18|35,4.1628,8.2,243,False,False
+980477,Ne Zha 2,哪吒之魔童闹海,2025-01-29,zh,16|28|14|12,16.9622,8.199,865,False,False
+1443940,El caso Hubener,Truth & Treason,2025-10-16,en,36|18|53,2.4163,8.1,117,False,False
+1480382,La voz de Hind,صوت هند رجب,2025-09-10,ar,18|36,4.0476,8.085,396,False,False
+1119090,Soy Frankelda,Soy Frankelda,2025-10-23,es,16|14|27|12|10751,4.1413,8.1,131,False,False
+1167307,David: Una aventura gigante,David,2025-12-14,en,16|10751|18|36|12,7.9213,8.043,209,False,False
+1326106,Kaiju No. 8: Misión de reconocimiento,怪獣８号 第1期総集編／同時上映「保科の休日」,2025-03-28,ja,16|28|878,5.9914,8.0,112,False,False
+1212121,Hombre con H,Homem com H,2025-05-01,pt,18|10402|36,1.2331,7.978,157,False,False
+803796,Las guerreras k-pop,KPop Demon Hunters,2025-06-20,en,14|10402|35|16,25.2584,7.968,3359,False,False
+1087192,Cómo entrenar a tu dragón,How to Train Your Dragon,2025-06-06,en,14|10751|28|12,21.4837,7.927,3235,False,False
+1325678,Sarah's Oil: El oro negro,Sarah's Oil,2025-11-06,en,18,3.8902,7.887,164,False,False
+682012,Amélie y los secretos de la lluvia,Amélie et la métaphysique des tubes,2025-06-25,fr,16|18|10751,3.7129,7.887,230,False,False
+765897,Invencible: Un niño fuera de serie,The Unbreakable Boy,2025-02-20,en,10751|18,2.2359,7.885,174,False,False
+1379266,Kokuho. El maestro del kabuki,国宝,2025-06-06,ja,18,3.972,7.9,127,False,False
+1492608,John Candy: Yo me gusto,John Candy: I Like Me,2025-09-04,en,99,2.2255,7.852,128,False,False
+1469239,Karol G: Mañana fue muy bonito,Karol G: Mañana fue muy bonito,2025-04-30,es,99|10402,3.405,7.9,124,False,False
+1242898,Predator: Badlands,Predator: Badlands,2025-11-05,en,28|878|12,20.3319,7.845,3899,False,False
+556574,Hamilton,Hamilton,2025-09-05,en,36|18,5.0216,7.845,174,False,False
+1356670,Turno de guardia,Heldin,2025-02-27,de,18,2.9091,7.842,373,False,False
+1500536,El estudio fotográfico de Nankín,南京照相馆,2025-07-19,zh,10752|18|36,4.2378,7.84,103,False,False
+911430,F1 la película,F1,2025-06-25,en,28|18,25.4956,7.831,4988,False,False
+1295026,100 metros lisos,ひゃくえむ。,2025-09-19,ja,16|18,3.9141,7.8,164,False,False
+1376434,Predator: Asesino de asesinos,Predator: Killer of Killers,2025-06-05,en,16|28|878|53,6.2834,7.758,1386,False,False
+1277988,Caramelo,Caramelo,2025-10-07,pt,35|18,2.4274,7.7,308,False,False
+858024,Hamnet,Hamnet,2025-11-26,en,18|10749,8.4351,7.723,1759,False,False
+950396,El abismo secreto,The Gorge,2025-02-13,en,10749|878|53,16.8518,7.703,4392,False,False
+1208348,Rental Family (Familia de alquiler),Rental Family,2025-11-20,en,35|18,4.0941,7.681,1093,False,False
+1084242,Zootrópolis 2,Zootopia 2,2025-11-26,en,12|16|35|9648|10751,42.6476,7.666,3674,False,False
+1426776,Harta,STRAW,2025-06-05,en,53|18|80,7.446,7.664,1024,False,False
+1404791,Las malditas (Dollhouse),ドールハウス,2025-06-13,ja,27|9648,5.8319,7.664,162,False,False
+83533,Avatar: Fuego y ceniza,Avatar: Fire and Ash,2025-12-17,en,878|12|14,42.5317,7.643,4671,False,False
+1131759,Lector omnisciente: La profecía,전지적 독자 시점,2025-07-23,ko,28|12|14,4.7559,7.619,147,False,False
+987400,Batman Azteca: Choque de imperios,Batman Azteca: Choque de imperios,2025-09-18,es,16|28|14,2.9716,7.616,172,False,False
+1175942,Los tipos malos 2,The Bad Guys 2,2025-07-24,en,10751|35|80|12|16|28,11.2886,7.61,948,False,False
+926670,Henry Danger: La película,Henry Danger: The Movie,2025-01-17,en,28|35|10751|878,4.3184,7.601,277,False,False
+1214931,Núremberg,Nuremberg,2025-11-06,en,36|18,7.99,7.597,1545,False,False
+1062722,Frankenstein,Frankenstein,2025-10-17,en,18|14|27,18.1414,7.594,4060,False,False
+666154,Kayara. La guerrera del imperio Inca,Kayara,2025-01-02,es,16|12|10751,3.0214,7.596,125,False,False
+1400032,10DANCE,10DANCE,2025-12-17,ja,10749|18,2.8265,7.576,132,False,False
+804370,Arco,Arco,2025-10-22,fr,12|16|10751|878,3.6141,7.526,303,False,False
+1233413,Los pecadores,Sinners,2025-04-16,en,27|28|53,23.923,7.5,5537,False,False
+1589891,La hora de los valientes,La hora de los valientes,2025-12-18,es,35|28,2.6777,7.504,117,False,False
+639988,No hay otra opción,어쩔수가없다,2025-09-24,ko,35|80|53,8.3237,7.5,1388,False,False
+1419826,La resistencia invisible,The World Will Tremble,2025-03-14,en,18|10752|36,2.3361,7.472,124,False,False
+1124566,Valor sentimental,Affeksjonsverdi,2025-08-20,no,18,7.697,7.464,1183,False,False
+1462322,La última ronda en Venecia,Le città di pianura,2025-09-25,it,35,1.7829,7.5,311,False,False
+1169789,"Un ""like"" de Bob Trevino",Bob Trevino Likes It,2025-03-20,en,35|18,2.2412,7.45,139,False,False
+857800,Becoming Led Zeppelin,Becoming Led Zeppelin,2025-02-05,en,99|10402,2.5862,7.432,155,False,False
+1472668,Wick Is Pain,Wick Is Pain,2025-05-09,en,99,1.9324,7.427,117,False,False
+1165642,Lo que le falta a esta estrella,이 별에 필요한,2025-05-30,ko,16|10749|878|18,2.9063,7.399,184,False,False
+1294203,Culpa mía: Londres,My Fault: London,2025-02-12,en,18|10749,6.4342,7.384,638,False,False
+1387382,Hunting Season,Hunting Season,2025-12-05,en,28|18|53,13.0477,7.378,490,False,False
+1156594,Culpa nuestra,Culpa nuestra,2025-10-15,es,10749|18,12.8531,7.376,771,False,False
+1317288,Marty Supreme,Marty Supreme,2025-12-19,en,18|53,12.0286,7.366,2382,False,False
+774370,Policán,Dog Man,2025-01-24,en,10751|35|12|16|28,5.6668,7.363,406,False,False
+1054867,Una batalla tras otra,One Battle After Another,2025-09-23,en,53|80|35,19.8362,7.336,4518,False,False
+1235304,Los colores del tiempo,La Venue de l'avenir,2025-05-22,fr,36|18|35|10749,2.3123,7.3,302,False,False
+1371185,Song Sung Blue - Canción para dos,Song Sung Blue,2025-12-15,en,10402|10749|18,3.5341,7.333,354,False,False
+1284120,La hermanastra fea,Den stygge stesøsteren,2025-03-07,no,27|35|18,9.1265,7.331,1380,False,False
+1300607,Los dos hemisferios de Lucca,Los dos hemisferios de Lucca,2025-01-30,es,18,1.9944,7.33,194,False,False
+1397364,La grazia,La grazia,2025-12-05,it,18,2.2777,7.328,469,False,False
+1241983,Sueños de trenes,Train Dreams,2025-11-05,en,18|37,6.0294,7.326,1261,False,False
+1061474,Superman,Superman,2025-07-09,en,878|12|28,23.7421,7.321,5739,False,False
+1303356,L'Épreuve du feu,L'Épreuve du feu,2025-08-13,fr,35|18,1.0908,7.319,124,False,False
+1151031,Devuélvemela,Bring Her Back,2025-05-19,en,27,8.395,7.316,2066,False,False
+1393151,Mr. Nobody contra Putin,Mr. Nobody mod Putin,2025-06-06,da,99,2.6414,7.307,161,False,False
+1371189,Rut y Booz,Ruth & Boaz,2025-09-25,en,10749|18|10402,1.9171,7.316,114,False,False
+1291608,Patriotismo,Dhurandhar,2025-12-05,hi,28|80|53,11.4106,7.302,384,False,False
+701387,Bugonia,Bugonia,2025-10-23,en,878|53|35,12.5471,7.3,2590,False,False
+1127110,Diablo,Diablo,2025-06-13,en,28|53|80|18,3.0303,7.295,276,False,False
+986056,Thunderbolts*,Thunderbolts*,2025-04-30,en,28|878|12,19.294,7.293,4298,False,False
+1255718,Incógnito,Plainclothes,2025-01-26,en,18|10749|80,2.3171,7.293,104,False,False
+1223601,Sisu: Camino a la venganza,Sisu 2,2025-10-21,fi,28|10752|53,6.3772,7.277,961,False,False
+1246049,Drácula,Dracula,2025-07-30,fr,27|14|10749,24.7362,7.274,1607,False,False
+1313013,Attitudini: Nessuna,Attitudini: Nessuna,2025-12-04,it,99,0.6538,7.274,124,False,False
+842924,La vida de Chuck,The Life of Chuck,2025-06-02,en,18|14,5.7468,7.274,1356,False,False
+541671,Ballerina,Ballerina,2025-06-04,en,28|53|80,13.4319,7.265,3122,False,False
+1078605,Weapons,Weapons,2025-08-04,en,27|9648,19.8218,7.261,4281,False,False
+1083637,Kantara Una Leyenda Capítulo - 1,ಕಾಂತಾರ: ಅಧ್ಯಾಯ - ೧,2025-10-02,kn,28|18|14,3.8391,7.252,107,False,False
+1258151,Kraken,Кракен,2025-04-17,ru,878|18|28,5.2471,7.245,190,False,False
+1241624,Ghost Train,괴기열차,2025-07-09,ko,27|9648,2.1015,7.242,155,False,False
+1368166,La asistenta,The Housemaid,2025-12-18,en,9648|53,27.2147,7.237,3352,False,False
+1122099,The Ballad of Wallis Island,The Ballad of Wallis Island,2025-03-28,en,35|18|10402,2.3824,7.231,236,False,False
+999075,La chica zurda,左撇子女孩,2025-09-17,zh,18,3.0304,7.23,211,False,False
+812583,Puñales por la espalda III. De entre los muertos,Wake Up Dead Man: A Knives Out Mystery,2025-11-26,en,53|9648|35,12.6185,7.211,3076,False,False
+1295400,El último vikingo,Den sidste viking,2025-10-09,da,35|80|18,3.313,7.2,272,False,False
+1303613,Sorda,Sorda,2025-04-04,es,18,2.4153,7.2,115,False,False
+1245347,Mi mitad perdida,Twinless,2025-09-04,en,35|18,2.6588,7.2,213,False,False
+1254808,Nouvelle Vague,Nouvelle Vague,2025-10-08,fr,18|36,2.5249,7.185,297,False,False
+1096642,Los lazos que nos unen,L'Attachement,2025-02-19,fr,18,2.4918,7.177,293,False,False
+552524,Lilo y Stitch,Lilo & Stitch,2025-05-17,en,10751|878|35,22.7021,7.2,2358,False,False
+575265,Misión: Imposible - Sentencia final,Mission: Impossible - The Final Reckoning,2025-05-17,en,28|53|12,18.7496,7.164,3318,False,False
+1456349,Un simple accidente,Un simple accident,2025-10-01,fr,18|53|80|9648,3.9481,7.162,721,False,False
+1003504,"Bon voyage, Marie",On ira,2025-03-12,fr,35|18,1.5731,7.2,124,False,False
+1269644,La isla de Amrum,Amrum,2025-10-09,de,18|10752,1.8687,7.157,124,False,False
+1421309,La vita da grandi,La vita da grandi,2025-04-03,it,35|18,0.912,7.1,119,False,False
+1259102,Eternity,Eternity,2025-11-10,en,10749|35|18,7.9845,7.132,918,False,False
+1312157,Locamente,FolleMente,2025-02-20,it,10749|35,1.6531,7.131,599,False,False
+1220564,El agente secreto,O Agente Secreto,2025-07-23,pt,53|18|80,5.1403,7.1,957,False,False
+1433339,Tres adioses,Tre ciotole,2025-10-09,it,18|10749,1.5211,7.1,122,False,False
+1252037,Der Tiger (El tanque),Der Tiger,2025-09-18,de,10752|28|18,5.4334,7.119,514,False,False
+1185528,射雕英雄传：侠之大者,射雕英雄传：侠之大者,2025-01-29,zh,28|18|36,5.2125,7.1,109,False,False
+1071585,M3GAN 2.0,M3GAN 2.0,2025-06-25,en,28|878|53,8.1166,7.109,1561,False,False
+878608,Resurrection,狂野时代,2025-11-22,zh,878|14|18,5.0203,7.1,138,False,False
+1161617,Código 3,Code 3,2025-09-12,en,35|28|18,4.583,7.1,374,False,False
+1192174,El negociador,Il Nibbio,2025-03-06,it,18|53,1.1649,7.096,114,False,False
+1086497,Lo que aprendí de mi pingüino,The Penguin Lessons,2025-03-27,en,18,1.882,7.091,186,False,False
+1243341,Z-O-M-B-I-E-S 4: Un verano entre vampiros,Z-O-M-B-I-E-S 4: Dawn of the Vampires,2025-07-10,en,14|10402|10749|12|10751|35|10770,3.7868,7.089,168,False,False
+1429520,Sidelined 2: Intercepted,Sidelined 2: Intercepted,2025-11-27,en,10749|35,6.8558,7.103,141,False,False
+870028,El contable 2,The Accountant²,2025-04-23,en,9648|80|53,9.2148,7.076,2045,False,False
+1242265,Cuenta atrás,Fuze,2025-09-05,en,28|80|53,8.1751,7.068,496,False,False
+1426306,Titán: La tragedia de OceanGate,Titan: The OceanGate Submersible Disaster,2025-06-06,en,99|18,3.5144,7.071,204,False,False
+1289936,Downton Abbey: El gran final,Downton Abbey: The Grand Finale,2025-09-10,en,18|10749,3.6321,7.065,314,False,False
+1328803,Prisionero de guerra,Prisoner of War,2025-09-19,en,28|10752|53|36,4.4107,7.059,229,False,False
+1321412,¡En bicicleta!,À bicyclette !,2025-02-26,fr,35|18,1.128,7.1,113,False,False
+1287322,Christy: El combate de su vida,Christy,2025-10-27,en,36|18,4.0594,7.055,245,False,False
+1242419,Roofman: Un ladrón en el tejado,Roofman,2025-10-06,en,80|35|18,8.8334,7.053,1123,False,False
+1327862,A pesar de ti,Regretting You,2025-10-22,en,10749|18,7.2026,7.051,613,False,False
+1241436,Warfare: Tiempo de guerra,Warfare,2025-04-09,en,10752|28,8.3017,7.048,1704,False,False
+1166170,L'Âme idéale,L'Âme idéale,2025-12-17,fr,14|10749|35,1.386,7.045,110,False,False
+574475,Destino final: Lazos de sangre,Final Destination Bloodlines,2025-05-14,en,27|9648,19.4771,7.027,3259,False,False
+1236470,Laberinto en llamas,The Lost Bus,2025-09-19,en,18|53,4.2764,7.023,876,False,False
+784524,Magazine Dreams,Magazine Dreams,2025-03-21,en,18,2.6172,7.02,122,False,False
+1365683,Primavera,Primavera,2025-12-05,it,36|18|10402,1.8482,7.017,121,False,False
+1319969,Sketch. Cuidado con lo que dibujas,Sketch,2025-07-28,en,12|14|35|10751,1.9622,7.011,146,False,False
+1196573,La educación de Polly McClusky,She Rides Shotgun,2025-07-31,en,28|53|80,3.0049,7.009,358,False,False
+1088166,Relay,Relay,2025-08-20,en,28|18|53,3.625,7.005,565,False,False
+1221061,El sonido de la caída,In die Sonne schauen,2025-08-28,de,18,2.6883,6.996,136,False,False
+1084199,La acompañante,Companion,2025-01-22,en,27|878|53,10.8748,6.993,2802,False,False
+1107215,Érase una vez mi madre,"Ma mère, Dieu et Sylvie Vartan",2025-03-19,fr,18|35,1.8795,6.984,283,False,False
+1296404,Buenas noticias,굿뉴스,2025-09-05,ko,53|35|36,2.8366,6.981,107,False,False
+1408208,Exit 8,８番出口,2025-08-03,ja,9648|53|27,11.6758,6.98,922,False,False
+1307078,Mi año en Oxford,My Oxford Year,2025-07-31,en,10749|35|18,3.7698,6.972,671,False,False
+1011477,Karate Kid: Legends,Karate Kid: Legends,2025-05-08,en,28|12|18,14.023,6.981,1348,False,False
+1312150,Ricky Gervais: Mortality,Ricky Gervais: Mortality,2025-12-29,en,35|10770,1.528,6.92,113,False,False
+1277882,Les enfants vont bien,Les enfants vont bien,2025-12-03,fr,18,1.719,6.948,115,False,False
+1038392,Expediente Warren: El último rito,The Conjuring: Last Rites,2025-09-03,en,27,15.2106,6.944,2240,False,False
+1290424,El arquitecto,L'Inconnu de la Grande Arche,2025-11-05,fr,18|36,1.7817,6.932,133,False,False
+617126,Los Cuatro Fantásticos: Primeros pasos,The Fantastic 4: First Steps,2025-07-23,en,878|12|28,20.7595,6.93,4129,False,False
+1254786,Mi lista de deseos,The Life List,2025-03-27,en,10749|35|18,4.0377,6.929,660,False,False
+1205515,"Sorry, Baby","Sorry, Baby",2025-06-27,en,18|35,3.6256,6.929,386,False,False
+1433680,La cena,La cena,2025-10-17,es,35|36|18,1.1311,6.9,101,False,False
+1127674,La città proibita,La città proibita,2025-03-08,it,28|18|10749,1.8011,6.925,365,False,False
+1022787,Elio,Elio,2025-06-18,en,16|12|878|10751|35,9.9969,6.923,1178,False,False
+793387,Noche de paz: Cazadores de demonios,거룩한 밤: 데몬 헌터스,2025-04-30,ko,28|14|27|53,5.0001,6.923,124,False,False
+1087891,Amateur,The Amateur,2025-04-09,en,53|28,7.9426,6.916,1871,False,False
+1305717,Zona de caza,Hunting Grounds,2025-05-16,en,28|53,2.5128,6.915,141,False,False
+891584,The History of Sound,The History of Sound,2025-09-12,en,18|10749|10402,2.8545,6.915,171,False,False
+1126336,Aniversario,Anniversary,2025-10-29,en,53|18,4.5448,6.909,263,False,False
+1007734,Nadie 2,Nobody 2,2025-08-13,en,28|53|80,9.9544,6.907,1971,False,False
+1406657,Scarlet,果てしなきスカーレット,2025-11-21,ja,16|28|18|878,5.0843,6.907,151,False,False
+1117857,En sueños,In Your Dreams,2025-11-07,en,12|16|35|10751|14,3.6325,6.901,274,False,False
+1242011,Together,Together,2025-07-14,en,27|10749,5.4193,6.898,1450,False,False
+1397375,La vida es asi,La vita va così,2025-10-23,it,35|18,0.9599,6.9,181,False,False
+1319895,Plan hostil,Hostile Takeover,2025-08-08,en,28|35|53,2.7277,6.885,117,False,False
+1443576,Los domingos,Los domingos,2025-10-17,es,18,2.328,6.882,170,False,False
+1294698,Caso 137,Dossier 137,2025-11-19,fr,80|18,2.6632,6.874,309,False,False
+1114967,Movida Celestial,Good Fortune,2025-10-14,en,35|14,4.0876,6.869,898,False,False
+1172265,El Sendero Azul,O Último Azul,2025-08-28,pt,18|12|878,1.8823,6.86,118,False,False
+926606,The Home,The Home,2025-07-24,en,27|9648|53,2.2198,6.859,345,False,False
+972533,Sin oxígeno,Last Breath,2025-02-24,en,53|18,3.9822,6.848,733,False,False
+1317088,La evaluación,The Assessment,2025-03-21,en,878|18|53,2.7436,6.847,507,False,False
+1288328,La ilusión de Garibaldi,L'abbaglio,2025-01-16,it,18|35|36,0.7388,6.846,130,False,False
+1519168,The Jester 2,The Jester 2,2025-09-15,en,27|53|80,2.8025,6.839,161,False,False
+604079,La larga marcha,The Long Walk,2025-09-10,en,878|53|27,8.6265,6.835,2148,False,False
+1400782,La vecina perfecta,The Perfect Neighbor,2025-10-10,en,80|99,3.2174,6.821,363,False,False
+696506,Mickey 17,Mickey 17,2025-02-28,en,878|35|12,11.367,6.8,4192,False,False
+1245993,Bala perdida,Caught Stealing,2025-08-26,en,80|53|35,6.5827,6.815,1214,False,False
+1429744,Ziam,ปากกัด ตีนถีบ,2025-07-08,th,27|53|28,3.1558,6.8,306,False,False
+1405338,Oni-Goroshi: Ciudad de los demonios,Demon City 鬼ゴロシ,2025-02-26,ja,28|80|14|53,3.4847,6.811,365,False,False
+749170,Jefes de Estado,Heads of State,2025-06-24,en,28|53|35,7.6764,6.807,1199,False,False
+1151272,Sirat: Trance en el desierto,Sirāt,2025-06-06,es,18|53,4.504,6.799,810,False,False
+991494,Bob Esponja: Una aventura pirata,The SpongeBob Movie: Search for SquarePants,2025-12-16,en,12|10751|16|35|14,9.6666,6.8,366,False,False
+1254135,"13 días, 13 noches","13 Jours, 13 Nuits",2025-06-27,fr,10752|28|53,2.1571,6.8,259,False,False
+1212271,La extraordinaria vida de Eleanor,Eleanor the Great,2025-09-04,en,18,2.7915,6.782,131,False,False
+1119377,Xeno,Xeno,2025-09-19,en,12|18|9648|878,1.4728,6.781,146,False,False
+1151039,Nonnas,Nonnas,2025-05-01,en,35,2.7227,6.776,551,False,False
+1429348,El extranjero,L'Étranger,2025-10-29,fr,18|80,2.4485,6.775,249,False,False
+1195506,Novocaine,Novocaine,2025-03-03,en,28|35|53,4.7136,6.749,1871,False,False
+1125257,Ponte en mi lugar de nuevo,Freakier Friday,2025-08-06,en,35|14|10751,5.1182,6.751,833,False,False
+1205229,Una noche en Zoopolis,Night of the Zoopocalypse,2025-01-23,en,16|35|27|12|878|10751,3.6476,6.746,112,False,False
+1297763,Batman Ninja vs La Liga Yakuza,ニンジャバットマン対ヤクザリーグ,2025-03-17,ja,16|28|878,3.7246,6.742,260,False,False
+1410082,Sniper: La última resistencia,Sniper: The Last Stand,2025-01-21,en,28|53,4.315,6.7,197,False,False
+1092936,La sonrisa del mal,La valle dei sorrisi,2025-09-17,it,53|18|14,3.4226,6.734,177,False,False
+1203329,The Witcher: Sirenas de las profundidades,The Witcher: Sirens of the Deep,2025-02-10,en,16|14|28,4.2352,6.733,305,False,False
+1280282,La casa de muñecas de Gabby: La película,Gabby's Dollhouse: The Movie,2025-09-13,en,12|16|35|10751|14,6.4086,6.7,103,False,False
+1291712,Las catadoras de Hitler,Le assaggiatrici,2025-03-27,de,18|36,1.9928,6.727,277,False,False
+1321439,El otro París,The Wrong Paris,2025-09-11,en,10749|35,2.8342,6.7,359,False,False

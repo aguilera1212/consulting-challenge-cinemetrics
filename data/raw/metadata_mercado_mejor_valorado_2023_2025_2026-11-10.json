@@ -1,0 +1,57 @@
+{
+  "consulted_at_utc": "2026-11-10T22:02:42.876933+00:00",
+  "source": "TMDB /discover/movie",
+  "base_filters": {
+    "include_adult": "false",
+    "include_video": "false",
+    "vote_count.gte": 100,
+    "sort_by": "vote_average.desc",
+    "language": "es-AR"
+  },
+  "pages_consulted": {
+    "2023": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "2024": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "2025": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  "rows_per_year": {
+    "2023": 200,
+    "2024": 200,
+    "2025": 200
+  },
+  "target_rows": 600,
+  "unique_rows_exported": 600,
+  "notes": "Muestra de las películas mejor valoradas por TMDB, con al menos 100 votos y 200 filas por año. Aún no incorpora presupuesto ni recaudación por película."
+}
