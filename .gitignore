@@ -9,10 +9,18 @@ venv/
 .env
 
 # Datos descargados o generados
+# Se versionan solamente las respuestas JSON curadas y los datasets finales
+# necesarios para que el equipo trabaje sobre la misma extracción.
 data/raw/*
 !data/raw/.gitkeep
+!data/raw/metadata_*.json
+!data/raw/tmdb/
+!data/raw/tmdb/*.json
+!data/raw/omdb/
+!data/raw/omdb/*.json
 data/processed/*
 !data/processed/.gitkeep
+!data/processed/*.csv
 
 # Archivos del sistema
 .DS_Store

@@ -1,0 +1,27 @@
+{
+  "consulted_at_utc": "2026-11-10T14:54:04.083278+00:00",
+  "movie": {
+    "tmdb_id": 950387,
+    "title": "A Minecraft Movie",
+    "year": 2025
+  },
+  "sources": [
+    {
+      "name": "TMDB",
+      "endpoint": "/movie/950387",
+      "parameters": {
+        "language": "es-AR"
+      }
+    },
+    {
+      "name": "OMDb",
+      "endpoint": "/",
+      "parameters": {
+        "t": "A Minecraft Movie",
+        "y": 2025,
+        "type": "movie",
+        "plot": "short"
+      }
+    }
+  ]
+}
