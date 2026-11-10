@@ -1,0 +1,19 @@
+# Entornos y cachés de Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Secretos
+.env
+
+# Datos descargados o generados
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
