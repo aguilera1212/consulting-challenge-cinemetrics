@@ -1,0 +1,3770 @@
+[
+  {
+    "id_semilla": "vg_001",
+    "titulo_semilla": "Warcraft",
+    "anio_semilla": 2016,
+    "estado_busqueda_tmdb": "coincidencia_anio",
+    "busqueda": {
+      "page": 1,
+      "results": [
+        {
+          "adult": false,
+          "backdrop_path": "/aTGvZ3F8QnAD8cPpJRaaqRRxFK6.jpg",
+          "genre_ids": [
+            28,
+            12,
+            14
+          ],
+          "id": 68735,
+          "title": "Warcraft: El origen",
+          "original_language": "en",
+          "original_title": "Warcraft",
+          "overview": "El pacífico reino de Azeroth está a punto de entrar en guerra para enfrentarse a unos terribles invasores: orcos guerreros que han dejado su destruido mundo para colonizar otro. Al abrirse un portal que conecta ambos mundos, un ejército se enfrenta a la destrucción, y el otro, a la extinción. Dos héroes, uno en cada bando, están a punto de chocar en un enfrentamiento que cambiará el destino de su familia, su pueblo y su hogar. Así empieza una espectacular saga de poder y sacrificio donde se descubren las numerosas caras de la guerra y donde cada uno lucha por lo suyo. Adaptación del popular videojuego homónimo.",
+          "popularity": 7.5633,
+          "poster_path": "/r62koy47q5TpDfCVzH0opsk7ZXv.jpg",
+          "release_date": "2016-05-25",
+          "softcore": false,
+          "video": false,
+          "vote_average": 6.428,
+          "vote_count": 7599
+        }
+      ],
+      "total_pages": 1,
+      "total_results": 1
+    },
+    "detalle": {
+      "adult": false,
+      "backdrop_path": "/aTGvZ3F8QnAD8cPpJRaaqRRxFK6.jpg",
+      "belongs_to_collection": null,
+      "budget": 160000000,
+      "genres": [
+        {
+          "id": 28,
+          "name": "Acción"
+        },
+        {
+          "id": 12,
+          "name": "Aventura"
+        },
+        {
+          "id": 14,
+          "name": "Fantasía"
+        }
+      ],
+      "homepage": "",
+      "id": 68735,
+      "imdb_id": "tt0803096",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_title": "Warcraft",
+      "overview": "El pacífico reino de Azeroth está a punto de entrar en guerra para enfrentarse a unos terribles invasores: orcos guerreros que han dejado su destruido mundo para colonizar otro. Al abrirse un portal que conecta ambos mundos, un ejército se enfrenta a la destrucción, y el otro, a la extinción. Dos héroes, uno en cada bando, están a punto de chocar en un enfrentamiento que cambiará el destino de su familia, su pueblo y su hogar. Así empieza una espectacular saga de poder y sacrificio donde se descubren las numerosas caras de la guerra y donde cada uno lucha por lo suyo. Adaptación del popular videojuego homónimo.",
+      "popularity": 8.0208,
+      "poster_path": "/r62koy47q5TpDfCVzH0opsk7ZXv.jpg",
+      "production_companies": [
+        {
+          "id": 923,
+          "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
+          "name": "Legendary Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 507,
+          "logo_path": "/aRmHe6GWxYMRCQljF75rn2B9Gv8.png",
+          "name": "Atlas Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 16028,
+          "logo_path": "/6hZcvVaJlKpDLy0iMKXuvC0K2A5.png",
+          "name": "Blizzard Entertainment",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "release_date": "2016-05-25",
+      "revenue": 433677183,
+      "runtime": 123,
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "Dos mundos. Un solo hogar.",
+      "title": "Warcraft: El origen",
+      "video": false,
+      "vote_average": 6.428,
+      "vote_count": 7599
+    }
+  },
+  {
+    "id_semilla": "vg_002",
+    "titulo_semilla": "Ratchet & Clank",
+    "anio_semilla": 2016,
+    "estado_busqueda_tmdb": "coincidencia_anio",
+    "busqueda": {
+      "page": 1,
+      "results": [
+        {
+          "adult": false,
+          "backdrop_path": "/dmyWErK0752dyJnA0YT1Vfi9HzU.jpg",
+          "genre_ids": [
+            28,
+            12,
+            16,
+            10751
+          ],
+          "id": 234004,
+          "title": "Ratchet & Clank, la película",
+          "original_language": "en",
+          "original_title": "Ratchet & Clank",
+          "overview": "En el planeta Veldin, Ratchet sueña con convertirse en uno de los héroes de los Galactic Space Rangers liderados por el carismático Qwark. La oportunidad de salir de su tediosa vida en un pequeño garaje de reparación de naves parece llegarle del cielo cuando Qwark convoca una prueba para incorporar nuevos miembros a su equipo. Mientras tanto, el intrigante y maligno villano Drek decide destruir el planeta Tenemule con su nuevo y flamante Desplanetizador. Adaptación al cine del videojuego homónimo.",
+          "popularity": 2.2797,
+          "poster_path": "/vS6BgPO974eTmHeteU9greJZv4D.jpg",
+          "release_date": "2016-04-13",
+          "softcore": false,
+          "video": false,
+          "vote_average": 5.773,
+          "vote_count": 699
+        }
+      ],
+      "total_pages": 1,
+      "total_results": 1
+    },
+    "detalle": {
+      "adult": false,
+      "backdrop_path": "/dmyWErK0752dyJnA0YT1Vfi9HzU.jpg",
+      "belongs_to_collection": null,
+      "budget": 20000000,
+      "genres": [
+        {
+          "id": 28,
+          "name": "Acción"
+        },
+        {
+          "id": 12,
+          "name": "Aventura"
+        },
+        {
+          "id": 16,
+          "name": "Animación"
+        },
+        {
+          "id": 10751,
+          "name": "Familia"
+        }
+      ],
+      "homepage": "",
+      "id": 234004,
+      "imdb_id": "tt2865120",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_title": "Ratchet & Clank",
+      "overview": "En el planeta Veldin, Ratchet sueña con convertirse en uno de los héroes de los Galactic Space Rangers liderados por el carismático Qwark. La oportunidad de salir de su tediosa vida en un pequeño garaje de reparación de naves parece llegarle del cielo cuando Qwark convoca una prueba para incorporar nuevos miembros a su equipo. Mientras tanto, el intrigante y maligno villano Drek decide destruir el planeta Tenemule con su nuevo y flamante Desplanetizador. Adaptación al cine del videojuego homónimo.",
+      "popularity": 2.3796,
+      "poster_path": "/vS6BgPO974eTmHeteU9greJZv4D.jpg",
+      "production_companies": [
+        {
+          "id": 30786,
+          "logo_path": null,
+          "name": "Blockade Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 143508,
+          "logo_path": null,
+          "name": "CNHK Media China",
+          "origin_country": "HK"
+        },
+        {
+          "id": 102897,
+          "logo_path": "/ackYRJXIse2uoLDawNVs1HzEJgm.png",
+          "name": "Rainmaker Entertainment",
+          "origin_country": "CA"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "CA",
+          "name": "Canada"
+        },
+        {
+          "iso_3166_1": "HK",
+          "name": "Hong Kong"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "release_date": "2016-04-13",
+      "revenue": 8800000,
+      "runtime": 94,
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "title": "Ratchet & Clank, la película",
+      "video": false,
+      "vote_average": 5.773,
+      "vote_count": 699
+    }
+  },
+  {
+    "id_semilla": "vg_003",
+    "titulo_semilla": "The Angry Birds Movie",
+    "anio_semilla": 2016,
+    "estado_busqueda_tmdb": "coincidencia_anio",
+    "busqueda": {
+      "page": 1,
+      "results": [
+        {
+          "adult": false,
+          "backdrop_path": "/o4mhrLxv6I70kvYA42qANGUF7ya.jpg",
+          "genre_ids": [
+            16,
+            12,
+            35,
+            10751
+          ],
+          "id": 153518,
+          "title": "Angry Birds: La película",
+          "original_language": "en",
+          "original_title": "The Angry Birds Movie",
+          "overview": "Basada en la colección de videojuegos \"Angry Birds\", la historia se desarrolla en una isla poblada por aves felices que no vuelan. En este paraíso, Red, un pájaro con muy mal genio, el veloz Chuck y el volátil Bomb nunca han terminado de encajar. Pero cuando llegan a la isla unos misteriosos cerdos verdes, serán estos tres marginados los que averigüen qué traman los extraños visitantes.",
+          "popularity": 9.9821,
+          "poster_path": "/wHlxud7DzsolgvasBFt6gFHIUwP.jpg",
+          "release_date": "2016-05-11",
+          "softcore": false,
+          "video": false,
+          "vote_average": 6.293,
+          "vote_count": 4189
+        }
+      ],
+      "total_pages": 1,
+      "total_results": 1
+    },
+    "detalle": {
+      "adult": false,
+      "backdrop_path": "/o4mhrLxv6I70kvYA42qANGUF7ya.jpg",
+      "belongs_to_collection": {
+        "id": 531315,
+        "name": "Angry Birds - Colección",
+        "poster_path": "/ndCA2sytVVtn8By9IQU7vh2MGka.jpg",
+        "backdrop_path": "/v46tzzYiG2FIXqtuuo1OLSjOLuQ.jpg"
+      },
+      "budget": 73000000,
+      "genres": [
+        {
+          "id": 16,
+          "name": "Animación"
+        },
+        {
+          "id": 12,
+          "name": "Aventura"
+        },
+        {
+          "id": 35,
+          "name": "Comedia"
+        },
+        {
+          "id": 10751,
+          "name": "Familia"
+        }
+      ],
+      "homepage": "",
+      "id": 153518,
+      "imdb_id": "tt1985949",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_title": "The Angry Birds Movie",
+      "overview": "Basada en la colección de videojuegos \"Angry Birds\", la historia se desarrolla en una isla poblada por aves felices que no vuelan. En este paraíso, Red, un pájaro con muy mal genio, el veloz Chuck y el volátil Bomb nunca han terminado de encajar. Pero cuando llegan a la isla unos misteriosos cerdos verdes, serán estos tres marginados los que averigüen qué traman los extraños visitantes.",
+      "popularity": 9.9821,
+      "poster_path": "/wHlxud7DzsolgvasBFt6gFHIUwP.jpg",
+      "production_companies": [
+        {
+          "id": 91920,
+          "logo_path": "/e4RmN11AuFTkhDjQFeNng3Fyqzx.png",
+          "name": "Rovio Animation",
+          "origin_country": "FI"
+        },
+        {
+          "id": 5,
+          "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+          "name": "Columbia Pictures",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "FI",
+          "name": "Finland"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "release_date": "2016-05-11",
+      "revenue": 349779543,
+      "runtime": 98,
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "Esto ya no es un juego.",
+      "title": "Angry Birds: La película",
+      "video": false,
+      "vote_average": 6.294,
+      "vote_count": 4188
+    }
+  },
+  {
+    "id_semilla": "vg_004",
+    "titulo_semilla": "Assassin's Creed",
+    "anio_semilla": 2016,
+    "estado_busqueda_tmdb": "coincidencia_anio",
+    "busqueda": {
+      "page": 1,
+      "results": [
+        {
+          "adult": false,
+          "backdrop_path": "/e29oMyfzzlWbhRlCBrzmZhlsw2m.jpg",
+          "genre_ids": [
+            28,
+            12,
+            878
+          ],
+          "id": 121856,
+          "title": "Assassin's Creed",
+          "original_language": "en",
+          "original_title": "Assassin's Creed",
+          "overview": "Gracias a una revolucionaria tecnología que desbloquea los recuerdos genéticos, Callum Lynch vive las aventuras de su ancestro, Aguilar, en la España del siglo XV. Callum descubre que es el descendiente de una misteriosa sociedad secreta, los Asesinos, y que posee increíbles conocimientos y habilidades que le permitirán enfrentarse a la poderosa y opresora organización de los Templarios en el presente.",
+          "popularity": 4.2781,
+          "poster_path": "/ngyFRXI2AkADPmitOzvofscpBVM.jpg",
+          "release_date": "2016-12-21",
+          "softcore": false,
+          "video": false,
+          "vote_average": 5.448,
+          "vote_count": 8325
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/kMziSQ6ctqUt9QQ0YCyE7NWt4Kp.jpg",
+          "genre_ids": [],
+          "id": 1196347,
+          "title": "Assassin’s Creed VR Experience",
+          "original_language": "en",
+          "original_title": "Assassin’s Creed VR Experience",
+          "overview": "",
+          "popularity": 0.1308,
+          "poster_path": "/pmq9dI9FoUxaWKbn3IG0EGeOvuY.jpg",
+          "release_date": "2016-12-01",
+          "softcore": false,
+          "video": false,
+          "vote_average": 0.0,
+          "vote_count": 0
+        }
+      ],
+      "total_pages": 1,
+      "total_results": 2
+    },
+    "detalle": {
+      "adult": false,
+      "backdrop_path": "/e29oMyfzzlWbhRlCBrzmZhlsw2m.jpg",
+      "belongs_to_collection": null,
+      "budget": 125000000,
+      "genres": [
+        {
+          "id": 28,
+          "name": "Acción"
+        },
+        {
+          "id": 12,
+          "name": "Aventura"
+        },
+        {
+          "id": 878,
+          "name": "Ciencia ficción"
+        }
+      ],
+      "homepage": "",
+      "id": 121856,
+      "imdb_id": "tt2094766",
+      "origin_country": [
+        "FR",
+        "US"
+      ],
+      "original_language": "en",
+      "original_title": "Assassin's Creed",
+      "overview": "Gracias a una revolucionaria tecnología que desbloquea los recuerdos genéticos, Callum Lynch vive las aventuras de su ancestro, Aguilar, en la España del siglo XV. Callum descubre que es el descendiente de una misteriosa sociedad secreta, los Asesinos, y que posee increíbles conocimientos y habilidades que le permitirán enfrentarse a la poderosa y opresora organización de los Templarios en el presente.",
+      "popularity": 4.2781,
+      "poster_path": "/ngyFRXI2AkADPmitOzvofscpBVM.jpg",
+      "production_companies": [
+        {
+          "id": 10104,
+          "logo_path": "/4sGWXoboEkWPphI6es6rTmqkCBh.png",
+          "name": "New Regency Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 862,
+          "logo_path": "/vdK6ZhC2CSW36j0VPEavRxOpbEg.png",
+          "name": "The Kennedy/Marshall Company",
+          "origin_country": "US"
+        },
+        {
+          "id": 83857,
+          "logo_path": "/8bWIe866WwroX2I7MJP77BTPG5y.png",
+          "name": "Ubisoft Film & Television",
+          "origin_country": "FR"
+        },
+        {
+          "id": 86766,
+          "logo_path": null,
+          "name": "DMC Film",
+          "origin_country": "GB"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "FR",
+          "name": "France"
+        },
+        {
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "release_date": "2016-12-21",
+      "revenue": 240700000,
+      "runtime": 115,
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Portuguese",
+          "iso_639_1": "pt",
+          "name": "Português"
+        },
+        {
+          "english_name": "Spanish",
+          "iso_639_1": "es",
+          "name": "Español"
+        }
+      ],
+      "status": "Released",
+      "tagline": "Tu destino está en tu sangre",
+      "title": "Assassin's Creed",
+      "video": false,
+      "vote_average": 5.448,
+      "vote_count": 8325
+    }
+  },
+  {
+    "id_semilla": "vg_005",
+    "titulo_semilla": "Resident Evil: The Final Chapter",
+    "anio_semilla": 2016,
+    "estado_busqueda_tmdb": "coincidencia_anio",
+    "busqueda": {
+      "page": 1,
+      "results": [
+        {
+          "adult": false,
+          "backdrop_path": "/sQRfWdDxH53Vk7ZJ1UqzcaBHocO.jpg",
+          "genre_ids": [
+            28,
+            27,
+            878
+          ],
+          "id": 173897,
+          "title": "Resident Evil: El capítulo final",
+          "original_language": "en",
+          "original_title": "Resident Evil: The Final Chapter",
+          "overview": "La humanidad está agonizando tras la traición sufrida por Alice a manos de Wesker. Alice deberá regresar a donde la comenzó la pesadilla -Raccoon City-, ya que allí la Corporación Umbrella está reuniendo fuerzas antes de un último ataque a los últimos supervivientes del apocalipsis. En una carrera contra el tiempo, Alice tendrá que unir fuerzas con viejos amigos y con un inesperado aliado en una batalla contra hordas de zombis y nuevos monstruos mutantes. Será la aventura más difícil de Alice para salvar a la humanidad, que está al borde de la extinción.",
+          "popularity": 0.4953,
+          "poster_path": "/cC2dEleI8zDT045QhuqVjf527yv.jpg",
+          "release_date": "2016-12-23",
+          "softcore": false,
+          "video": false,
+          "vote_average": 6.102,
+          "vote_count": 3676
+        }
+      ],
+      "total_pages": 1,
+      "total_results": 1
+    },
+    "detalle": {
+      "adult": false,
+      "backdrop_path": "/sQRfWdDxH53Vk7ZJ1UqzcaBHocO.jpg",
+      "belongs_to_collection": {
+        "id": 17255,
+        "name": "Resident Evil - Colección",
+        "poster_path": "/2rOr1CPnC5fuTbVIKH0UkqJJjjw.jpg",
+        "backdrop_path": "/3hqSP5YGsbOjNZ4ymcg3wnGPgSW.jpg"
+      },
+      "budget": 40000000,
+      "genres": [
+        {
+          "id": 28,
+          "name": "Acción"
+        },
+        {
+          "id": 27,
+          "name": "Terror"
+        },
+        {
+          "id": 878,
+          "name": "Ciencia ficción"
+        }
+      ],
+      "homepage": "",
+      "id": 173897,
+      "imdb_id": "tt2592614",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_title": "Resident Evil: The Final Chapter",
+      "overview": "La humanidad está agonizando tras la traición sufrida por Alice a manos de Wesker. Alice deberá regresar a donde la comenzó la pesadilla -Raccoon City-, ya que allí la Corporación Umbrella está reuniendo fuerzas antes de un último ataque a los últimos supervivientes del apocalipsis. En una carrera contra el tiempo, Alice tendrá que unir fuerzas con viejos amigos y con un inesperado aliado en una batalla contra hordas de zombis y nuevos monstruos mutantes. Será la aventura más difícil de Alice para salvar a la humanidad, que está al borde de la extinción.",
+      "popularity": 0.551,
+      "poster_path": "/cC2dEleI8zDT045QhuqVjf527yv.jpg",
+      "production_companies": [
+        {
+          "id": 3287,
+          "logo_path": "/bz6GbCQQXGNE56LTW9dwgksW0Iw.png",
+          "name": "Screen Gems",
+          "origin_country": "US"
+        },
+        {
+          "id": 47,
+          "logo_path": "/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png",
+          "name": "Constantin Film",
+          "origin_country": "DE"
+        },
+        {
+          "id": 248,
+          "logo_path": null,
+          "name": "Impact Pictures",
+          "origin_country": "GB"
+        },
+        {
+          "id": 342,
+          "logo_path": "/kZ99mxyNvNgyAFjm7rcl9vfYmU8.png",
+          "name": "Davis Films",
+          "origin_country": "FR"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "CA",
+          "name": "Canada"
+        },
+        {
+          "iso_3166_1": "FR",
+          "name": "France"
+        },
+        {
+          "iso_3166_1": "DE",
+          "name": "Germany"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "release_date": "2016-12-23",
+      "revenue": 312242626,
+      "runtime": 107,
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "La aventura termina.",
+      "title": "Resident Evil: El capítulo final",
+      "video": false,
+      "vote_average": 6.102,
+      "vote_count": 3675
+    }
+  },
+  {
+    "id_semilla": "vg_006",
+    "titulo_semilla": "Resident Evil: Vendetta",
+    "anio_semilla": 2017,
+    "estado_busqueda_tmdb": "coincidencia_anio",
+    "busqueda": {
+      "page": 1,
+      "results": [
+        {
+          "adult": false,
+          "backdrop_path": "/ijjRrrmQ4kVFkAqnpUNaWZ4h3yW.jpg",
+          "genre_ids": [
+            28,
+            16,
+            12,
+            878,
+            27
+          ],
+          "id": 400136,
+          "title": "Resident Evil: Vendetta",
+          "original_language": "ja",
+          "original_title": "バイオハザード ヴェンデッタ",
+          "overview": "Chris Redfield, de la BSAA, cuenta con la ayuda del agente del Gobierno Leon S. Kennedy y la profesora Rebecca Chambers del Instituto Alexander de Biotecnología, para parar a un mercader de la muerte que busca venganza, y amenaza con extender un virus mortal por Nueva York.",
+          "popularity": 5.3553,
+          "poster_path": "/r27iDZNaoyLJyKlD8eNchRtvq8C.jpg",
+          "release_date": "2017-05-27",
+          "softcore": false,
+          "video": false,
+          "vote_average": 6.93,
+          "vote_count": 1125
+        }
+      ],
+      "total_pages": 1,
+      "total_results": 1
+    },
+    "detalle": {
+      "adult": false,
+      "backdrop_path": "/ijjRrrmQ4kVFkAqnpUNaWZ4h3yW.jpg",
+      "belongs_to_collection": {
+        "id": 133352,
+        "name": "Resident Evil: Animaciones - Colección",
+        "poster_path": "/la98KYBnWAqrojeY1zMNTa1I0Eu.jpg",
+        "backdrop_path": "/uj2duAkn6zUmRSbjyEr7XUeIWsJ.jpg"
+      },
+      "budget": 0,
+      "genres": [
+        {
+          "id": 28,
+          "name": "Acción"
+        },
+        {
+          "id": 16,
+          "name": "Animación"
+        },
+        {
+          "id": 12,
+          "name": "Aventura"
+        },
+        {
+          "id": 878,
+          "name": "Ciencia ficción"
+        },
+        {
+          "id": 27,
+          "name": "Terror"
+        }
+      ],
+      "homepage": "",
+      "id": 400136,
+      "imdb_id": "tt5776208",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_title": "バイオハザード ヴェンデッタ",
+      "overview": "Chris Redfield, de la BSAA, cuenta con la ayuda del agente del Gobierno Leon S. Kennedy y la profesora Rebecca Chambers del Instituto Alexander de Biotecnología, para parar a un mercader de la muerte que busca venganza, y amenaza con extender un virus mortal por Nueva York.",
+      "popularity": 5.3553,
+      "poster_path": "/r27iDZNaoyLJyKlD8eNchRtvq8C.jpg",
+      "production_companies": [
+        {
+          "id": 7220,
+          "logo_path": "/dD0x5awPmtx4sAr2pNvkmxkCODh.png",
+          "name": "Capcom",
+          "origin_country": "JP"
+        },
+        {
+          "id": 11341,
+          "logo_path": "/eZuaGAonSPXsmXR44huTBXgPUSd.png",
+          "name": "Stage 6 Films",
+          "origin_country": "US"
+        },
+        {
+          "id": 77884,
+          "logo_path": "/dP2lxVNctD5Cried0IWVqgrO2o9.png",
+          "name": "Marza Animation Planet",
+          "origin_country": "JP"
+        },
+        {
+          "id": 2073,
+          "logo_path": "/tWxRSaKmRJNTcmtlXsmn5R4KOSU.png",
+          "name": "KADOKAWA",
+          "origin_country": "JP"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "release_date": "2017-05-27",
+      "revenue": 256320,
+      "runtime": 97,
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Japanese",
+          "iso_639_1": "ja",
+          "name": "日本語"
+        }
+      ],
+      "status": "Released",
+      "tagline": "Un Film de Takanori Tsujimoto",
+      "title": "Resident Evil: Vendetta",
+      "video": false,
+      "vote_average": 6.93,
+      "vote_count": 1125
+    }
+  },
+  {
+    "id_semilla": "vg_007",
+    "titulo_semilla": "Tomb Raider",
+    "anio_semilla": 2018,
+    "estado_busqueda_tmdb": "coincidencia_anio",
+    "busqueda": {
+      "page": 1,
+      "results": [
+        {
+          "adult": false,
+          "backdrop_path": "/ohijjhvNqAPKTURQr6VIF7xuAjY.jpg",
+          "genre_ids": [
+            28,
+            12
+          ],
+          "id": 338970,
+          "title": "Tomb Raider",
+          "original_language": "en",
+          "original_title": "Tomb Raider",
+          "overview": "Tras la desaparición de su padre, Lara vive una vida imprudente y despreocupada. Cuando la policía la arresta después de provocar un accidente de tráfico,  Ana Miller, la socia de negocios de su progenitor, deposita su fianza y le advierte que si no reclama la herencia de éste,  se liquidarán todos sus bienes.",
+          "popularity": 7.7901,
+          "poster_path": "/1GK1Qyt5SZeRCimVfqG0Wcynth0.jpg",
+          "release_date": "2018-03-05",
+          "softcore": false,
+          "video": false,
+          "vote_average": 6.36,
+          "vote_count": 8612
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/bL41GVWvp4YJDJ50PDcxaN4cds9.jpg",
+          "genre_ids": [
+            12,
+            28
+          ],
+          "id": 1995,
+          "title": "Lara Croft. Tomb Raider",
+          "original_language": "en",
+          "original_title": "Lara Croft: Tomb Raider",
+          "overview": "Explorar imperios perdidos, descubrir tesoros de incalculable valor, castigar a los malvados en combates a vida o muerte… todo forma parte de un día de trabajo para la aventurera Lara Croft. Pero un secreto del pasado de su padre va a llevar a Lara a su desafío más grande: el Triángulo de la Luz, un legendario artefacto con el poder de alterar el espacio y el tiempo. Lara ha de encontrar el Triángulo antes de que caiga en poder de los Illuminati, una sociedad secreta dispuesta a dominar el mundo. Para detener a los Illumitati, Lara ha de sobrevivir a una auténtica cacería a través del planeta, repleta de inimaginables peligros.",
+          "popularity": 7.6272,
+          "poster_path": "/gIv9ur6A76vOcAmC6fZ3MsoLji4.jpg",
+          "release_date": "2001-06-15",
+          "softcore": false,
+          "video": false,
+          "vote_average": 5.915,
+          "vote_count": 6757
+        },
+        {
+          "adult": false,
+          "backdrop_path": null,
+          "genre_ids": [
+            28,
+            12
+          ],
+          "id": 547720,
+          "title": "The Making of a Tomb Raider",
+          "original_language": "en",
+          "original_title": "The Making of a Tomb Raider",
+          "overview": "",
+          "popularity": 0.5781,
+          "poster_path": "/cVfW2MjUtb7XXNHPcoiNQEGpJQF.jpg",
+          "release_date": "2018-09-12",
+          "softcore": false,
+          "video": false,
+          "vote_average": 9.5,
+          "vote_count": 2
+        }
+      ],
+      "total_pages": 1,
+      "total_results": 3
+    },
+    "detalle": {
+      "adult": false,
+      "backdrop_path": "/ohijjhvNqAPKTURQr6VIF7xuAjY.jpg",
+      "belongs_to_collection": null,
+      "budget": 94000000,
+      "genres": [
+        {
+          "id": 28,
+          "name": "Acción"
+        },
+        {
+          "id": 12,
+          "name": "Aventura"
+        }
+      ],
+      "homepage": "",
+      "id": 338970,
+      "imdb_id": "tt1365519",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_title": "Tomb Raider",
+      "overview": "Tras la desaparición de su padre, Lara vive una vida imprudente y despreocupada. Cuando la policía la arresta después de provocar un accidente de tráfico,  Ana Miller, la socia de negocios de su progenitor, deposita su fianza y le advierte que si no reclama la herencia de éste,  se liquidarán todos sus bienes.",
+      "popularity": 7.7901,
+      "poster_path": "/1GK1Qyt5SZeRCimVfqG0Wcynth0.jpg",
+      "production_companies": [
+        {
+          "id": 10038,
+          "logo_path": "/nCueXKwYIEXrZ5ofqSJBO1YcmRr.png",
+          "name": "Square Enix",
+          "origin_country": "JP"
+        },
+        {
+          "id": 3281,
+          "logo_path": "/8tMybAieh64uzvm8knSjXOFX8Qc.png",
+          "name": "GK Films",
+          "origin_country": "US"
+        },
+        {
+          "id": 21,
+          "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+          "name": "Metro-Goldwyn-Mayer",
+          "origin_country": "US"
+        },
+        {
+          "id": 174,
+          "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+          "name": "Warner Bros. Pictures",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "release_date": "2018-03-05",
+      "revenue": 274650803,
+      "runtime": 122,
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "Su leyenda comienza.",
+      "title": "Tomb Raider",
+      "video": false,
+      "vote_average": 6.36,
+      "vote_count": 8612
+    }
+  },
+  {
+    "id_semilla": "vg_008",
+    "titulo_semilla": "Rampage",
+    "anio_semilla": 2018,
+    "estado_busqueda_tmdb": "coincidencia_anio",
+    "busqueda": {
+      "page": 1,
+      "results": [
+        {
+          "adult": false,
+          "backdrop_path": "/vm8mhrjk5nQ562UQ0KbUzi0yOHr.jpg",
+          "genre_ids": [
+            28,
+            12,
+            878
+          ],
+          "id": 427641,
+          "title": "Proyecto Rampage",
+          "original_language": "en",
+          "original_title": "Rampage",
+          "overview": "Davis Okoye es un especialista en primates de reconocido prestigio que mantiene un vínculo muy importante con un singular gorila albino llamado George, un animal que posee una inteligencia extraordinaria y al que lleva cuidando desde su nacimiento. Cuando este gorila es víctima de una peligrosa modificación genética, su ADN mutará rápidamente y de manera incontrolada. Será entonces cuando George crezca de forma exponencial y se convierta en un monstruo violento. Su tamaño, rapidez, agilidad y violencia estará fuera de control.  Pero este gorila no es el único animal que ha mutado, Okoye pronto descubrirá que hay otros animales que tienen el mismo problema, y que destruyen todo lo que encuentran a su paso. Para frenar esta amenaza y recuperar a su entrañable compañero, Okoye deberá enfrentarse a los responsables de esta mutación que está sembrando el pánico en el mundo, pues el primatólogo es el único capaz de frenar a estos monstruos y su amenaza.",
+          "popularity": 9.207,
+          "poster_path": "/2aTsJIyw762XO51fcGa7couMygv.jpg",
+          "release_date": "2018-04-11",
+          "softcore": false,
+          "video": false,
+          "vote_average": 6.46,
+          "vote_count": 7817
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/1RSoHYKttOBQeRTBwFuDxxXOXgM.jpg",
+          "genre_ids": [
+            18,
+            80,
+            53
+          ],
+          "id": 423414,
+          "title": "Last Rampage",
+          "original_language": "en",
+          "original_title": "Last Rampage",
+          "overview": "",
+          "popularity": 1.2058,
+          "poster_path": "/kZDF2GDto5WCPW9wbRqrqf9yRWM.jpg",
+          "release_date": "2017-09-22",
+          "softcore": false,
+          "video": false,
+          "vote_average": 5.3,
+          "vote_count": 61
+        },
+        {
+          "adult": false,
+          "backdrop_path": null,
+          "genre_ids": [
+            28
+          ],
+          "id": 426191,
+          "title": "London Rampage",
+          "original_language": "en",
+          "original_title": "London Rampage",
+          "overview": "",
+          "popularity": 0.2616,
+          "poster_path": "/9cmWHh1c7Q76G5S8HAJ1yTM4sLn.jpg",
+          "release_date": "2018-08-17",
+          "softcore": false,
+          "video": false,
+          "vote_average": 6.2,
+          "vote_count": 5
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/10DfrEn9h9365L7Z3gCPBze0B1S.jpg",
+          "genre_ids": [],
+          "id": 499850,
+          "title": "Bellator 192: Rampage vs. Sonnen",
+          "original_language": "en",
+          "original_title": "Bellator 192: Rampage vs. Sonnen",
+          "overview": "",
+          "popularity": 0.4145,
+          "poster_path": "/ygilqFudIlU6QPC5S97OkI0MDeX.jpg",
+          "release_date": "2018-01-20",
+          "softcore": false,
+          "video": false,
+          "vote_average": 9.0,
+          "vote_count": 1
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/5Evi8DL6UZIiBz6PPPRVmYuJ1N0.jpg",
+          "genre_ids": [],
+          "id": 1510895,
+          "title": "Chase & Status ft. Mc Rage - Rampage",
+          "original_language": "en",
+          "original_title": "Chase & Status ft. Mc Rage - Rampage",
+          "overview": "",
+          "popularity": 0.369,
+          "poster_path": "/kYTf9zpbVU47ATwTQoOwp8hvyhW.jpg",
+          "release_date": "2018-03-03",
+          "softcore": false,
+          "video": true,
+          "vote_average": 0.0,
+          "vote_count": 0
+        },
+        {
+          "adult": false,
+          "backdrop_path": null,
+          "genre_ids": [
+            10402
+          ],
+          "id": 1396616,
+          "title": "GO ON THE RAMPAGE 2017-2018 Tour",
+          "original_language": "ja",
+          "original_title": "GO ON THE RAMPAGE 2017-2018 Tour",
+          "overview": "",
+          "popularity": 0.3446,
+          "poster_path": "/tU2eoj0VM1sSfjZxXCkDrOes6xr.jpg",
+          "release_date": "2018-09-12",
+          "softcore": false,
+          "video": false,
+          "vote_average": 0.0,
+          "vote_count": 0
+        },
+        {
+          "adult": false,
+          "backdrop_path": null,
+          "genre_ids": [
+            99,
+            10402
+          ],
+          "id": 1396599,
+          "title": "THE RAMPAGE SOUL SURVIVOR ～4年間の軌跡～",
+          "original_language": "ja",
+          "original_title": "THE RAMPAGE SOUL SURVIVOR ～4年間の軌跡～",
+          "overview": "",
+          "popularity": 0.339,
+          "poster_path": null,
+          "release_date": "2018-09-12",
+          "softcore": false,
+          "video": false,
+          "vote_average": 0.0,
+          "vote_count": 0
+        },
+        {
+          "adult": false,
+          "backdrop_path": null,
+          "genre_ids": [
+            18
+          ],
+          "id": 1685271,
+          "title": "辰巳ゆいの性欲暴走が止まらない八頭身痴女のガチンコ交尾",
+          "original_language": "ja",
+          "original_title": "辰巳ゆいの性欲暴走が止まらない八頭身痴女のガチンコ交尾",
+          "overview": "",
+          "popularity": 0.2292,
+          "poster_path": null,
+          "release_date": "2018-11-23",
+          "softcore": false,
+          "video": false,
+          "vote_average": 0.0,
+          "vote_count": 0
+        }
+      ],
+      "total_pages": 1,
+      "total_results": 8
+    },
+    "detalle": {
+      "adult": false,
+      "backdrop_path": "/vm8mhrjk5nQ562UQ0KbUzi0yOHr.jpg",
+      "belongs_to_collection": null,
+      "budget": 120000000,
+      "genres": [
+        {
+          "id": 28,
+          "name": "Acción"
+        },
+        {
+          "id": 12,
+          "name": "Aventura"
+        },
+        {
+          "id": 878,
+          "name": "Ciencia ficción"
+        }
+      ],
+      "homepage": "",
+      "id": 427641,
+      "imdb_id": "tt2231461",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_title": "Rampage",
+      "overview": "Davis Okoye es un especialista en primates de reconocido prestigio que mantiene un vínculo muy importante con un singular gorila albino llamado George, un animal que posee una inteligencia extraordinaria y al que lleva cuidando desde su nacimiento. Cuando este gorila es víctima de una peligrosa modificación genética, su ADN mutará rápidamente y de manera incontrolada. Será entonces cuando George crezca de forma exponencial y se convierta en un monstruo violento. Su tamaño, rapidez, agilidad y violencia estará fuera de control.  Pero este gorila no es el único animal que ha mutado, Okoye pronto descubrirá que hay otros animales que tienen el mismo problema, y que destruyen todo lo que encuentran a su paso. Para frenar esta amenaza y recuperar a su entrañable compañero, Okoye deberá enfrentarse a los responsables de esta mutación que está sembrando el pánico en el mundo, pues el primatólogo es el único capaz de frenar a estos monstruos y su amenaza.",
+      "popularity": 9.207,
+      "poster_path": "/2aTsJIyw762XO51fcGa7couMygv.jpg",
+      "production_companies": [
+        {
+          "id": 73118,
+          "logo_path": "/ilgyxz2B9rTdLUy8St7hbekO0y7.png",
+          "name": "Wrigley Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 12,
+          "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+          "name": "New Line Cinema",
+          "origin_country": "US"
+        },
+        {
+          "id": 105751,
+          "logo_path": null,
+          "name": "ASAP Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 34081,
+          "logo_path": null,
+          "name": "Flynn Picture Company",
+          "origin_country": "US"
+        },
+        {
+          "id": 101832,
+          "logo_path": "/vO7CKIeogFxphT1CHkUIhjEXf2C.png",
+          "name": "Twisted Media",
+          "origin_country": "US"
+        },
+        {
+          "id": 73669,
+          "logo_path": "/pZ1sOLrUxvCvW1jODdCFgU6RxUA.png",
+          "name": "Seven Bucks Productions",
+          "origin_country": "US"
+        },
+        {
+          "id": 103376,
+          "logo_path": "/zAyfGEx1LJOkwNTrHugnWHzLRE.png",
+          "name": "Access Entertainment",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "release_date": "2018-04-11",
+      "revenue": 428028233,
+      "runtime": 107,
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Spanish",
+          "iso_639_1": "es",
+          "name": "Español"
+        }
+      ],
+      "status": "Released",
+      "tagline": "Un grande entre grandes.",
+      "title": "Proyecto Rampage",
+      "video": false,
+      "vote_average": 6.46,
+      "vote_count": 7818
+    }
+  },
+  {
+    "id_semilla": "vg_009",
+    "titulo_semilla": "The Angry Birds Movie 2",
+    "anio_semilla": 2019,
+    "estado_busqueda_tmdb": "coincidencia_anio",
+    "busqueda": {
+      "page": 1,
+      "results": [
+        {
+          "adult": false,
+          "backdrop_path": "/tTVjF5q63fli9ecSg5L9ljHibKJ.jpg",
+          "genre_ids": [
+            16,
+            12,
+            35,
+            10751,
+            28
+          ],
+          "id": 454640,
+          "title": "Angry Birds 2: La película",
+          "original_language": "en",
+          "original_title": "The Angry Birds Movie 2",
+          "overview": "En esta nueva aventura, tanto los cerdos como los pájaros tendrán que aunar sus fuerzas para hacer frente a Zeta. Zeta ha venido desde su isla helada en busca de un lugar más cómodo para vivir, pero su llegada está a punto de poner la vida de Red, Chuck, Bomb, Leonard y compañía patas arriba.",
+          "popularity": 8.5566,
+          "poster_path": "/yIkmA2y50NYJkAYT9nZ5pcle9tP.jpg",
+          "release_date": "2019-08-02",
+          "softcore": false,
+          "video": false,
+          "vote_average": 7.045,
+          "vote_count": 1984
+        }
+      ],
+      "total_pages": 1,
+      "total_results": 1
+    },
+    "detalle": {
+      "adult": false,
+      "backdrop_path": "/tTVjF5q63fli9ecSg5L9ljHibKJ.jpg",
+      "belongs_to_collection": {
+        "id": 531315,
+        "name": "Angry Birds - Colección",
+        "poster_path": "/ndCA2sytVVtn8By9IQU7vh2MGka.jpg",
+        "backdrop_path": "/v46tzzYiG2FIXqtuuo1OLSjOLuQ.jpg"
+      },
+      "budget": 65000000,
+      "genres": [
+        {
+          "id": 16,
+          "name": "Animación"
+        },
+        {
+          "id": 12,
+          "name": "Aventura"
+        },
+        {
+          "id": 35,
+          "name": "Comedia"
+        },
+        {
+          "id": 10751,
+          "name": "Familia"
+        },
+        {
+          "id": 28,
+          "name": "Acción"
+        }
+      ],
+      "homepage": "",
+      "id": 454640,
+      "imdb_id": "tt6095472",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_title": "The Angry Birds Movie 2",
+      "overview": "En esta nueva aventura, tanto los cerdos como los pájaros tendrán que aunar sus fuerzas para hacer frente a Zeta. Zeta ha venido desde su isla helada en busca de un lugar más cómodo para vivir, pero su llegada está a punto de poner la vida de Red, Chuck, Bomb, Leonard y compañía patas arriba.",
+      "popularity": 8.5566,
+      "poster_path": "/yIkmA2y50NYJkAYT9nZ5pcle9tP.jpg",
+      "production_companies": [
+        {
+          "id": 91920,
+          "logo_path": "/e4RmN11AuFTkhDjQFeNng3Fyqzx.png",
+          "name": "Rovio Animation",
+          "origin_country": "FI"
+        },
+        {
+          "id": 2251,
+          "logo_path": "/5ilV5mH3gxTEU7p5wjxptHvXkyr.png",
+          "name": "Sony Pictures Animation",
+          "origin_country": "US"
+        },
+        {
+          "id": 178792,
+          "logo_path": null,
+          "name": "John Cohen Productions",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "FI",
+          "name": "Finland"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "release_date": "2019-08-02",
+      "revenue": 137792047,
+      "runtime": 96,
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "Una aventura muy animal.",
+      "title": "Angry Birds 2: La película",
+      "video": false,
+      "vote_average": 7.045,
+      "vote_count": 1984
+    }
+  },
+  {
+    "id_semilla": "vg_010",
+    "titulo_semilla": "Pokémon Detective Pikachu",
+    "anio_semilla": 2019,
+    "estado_busqueda_tmdb": "coincidencia_anio",
+    "busqueda": {
+      "page": 1,
+      "results": [
+        {
+          "adult": false,
+          "backdrop_path": "/yXybBEC45p84D0Ky7GmQQYrclVr.jpg",
+          "genre_ids": [
+            28,
+            12,
+            14
+          ],
+          "id": 447404,
+          "title": "Pokémon Detective Pikachu",
+          "original_language": "en",
+          "original_title": "Pokémon Detective Pikachu",
+          "overview": "Ryme City, una metrópoli futurista en la que los humanos y los Pokémon conviven en armonía. Tras la misteriosa desaparición de su padre, toda una leyenda en la ciudad, el joven Tim Goodman (Justice Smith) comienza una investigación para buscarle y averiguar lo que le ha sucedido. En esta misión le ayudará el adorable súper-detective Pikachu, un inteligente Pokémon que habla, aunque curiosamente el chico es el único que puede entenderle. Ambos unirán sus fuerzas y trabajarán juntos para resolver este gran misterio, con la ayuda de Lucy (Kathryn Newton), una reportera que trabaja en su primera gran historia. Será una aventura en la que descubrirán a entrañables personajes del universo Pokémon, además de una trama espeluznante que podría amenazar la convivencia pacífica de todo este universo.",
+          "popularity": 7.2207,
+          "poster_path": "/ttTX80AzrOlLIpwPiW1DsYHqWWA.jpg",
+          "release_date": "2019-05-03",
+          "softcore": false,
+          "video": false,
+          "vote_average": 6.889,
+          "vote_count": 7598
+        }
+      ],
+      "total_pages": 1,
+      "total_results": 1
+    },
+    "detalle": {
+      "adult": false,
+      "backdrop_path": "/yXybBEC45p84D0Ky7GmQQYrclVr.jpg",
+      "belongs_to_collection": null,
+      "budget": 150000000,
+      "genres": [
+        {
+          "id": 28,
+          "name": "Acción"
+        },
+        {
+          "id": 12,
+          "name": "Aventura"
+        },
+        {
+          "id": 14,
+          "name": "Fantasía"
+        }
+      ],
+      "homepage": "",
+      "id": 447404,
+      "imdb_id": "tt5884052",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_title": "Pokémon Detective Pikachu",
+      "overview": "Ryme City, una metrópoli futurista en la que los humanos y los Pokémon conviven en armonía. Tras la misteriosa desaparición de su padre, toda una leyenda en la ciudad, el joven Tim Goodman (Justice Smith) comienza una investigación para buscarle y averiguar lo que le ha sucedido. En esta misión le ayudará el adorable súper-detective Pikachu, un inteligente Pokémon que habla, aunque curiosamente el chico es el único que puede entenderle. Ambos unirán sus fuerzas y trabajarán juntos para resolver este gran misterio, con la ayuda de Lucy (Kathryn Newton), una reportera que trabaja en su primera gran historia. Será una aventura en la que descubrirán a entrañables personajes del universo Pokémon, además de una trama espeluznante que podría amenazar la convivencia pacífica de todo este universo.",
+      "popularity": 6.9658,
+      "poster_path": "/ttTX80AzrOlLIpwPiW1DsYHqWWA.jpg",
+      "production_companies": [
+        {
+          "id": 923,
+          "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
+          "name": "Legendary Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 12654,
+          "logo_path": "/hBWpNb7x4R77xxltwNtM0ANboW6.png",
+          "name": "The Pokémon Company",
+          "origin_country": "JP"
+        },
+        {
+          "id": 882,
+          "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+          "name": "TOHO",
+          "origin_country": "JP"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "release_date": "2019-05-03",
+      "revenue": 450063166,
+      "runtime": 105,
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "Una amistad de trueno. Una aventura legendaria.",
+      "title": "Pokémon Detective Pikachu",
+      "video": false,
+      "vote_average": 6.889,
+      "vote_count": 7601
+    }
+  },
+  {
+    "id_semilla": "vg_011",
+    "titulo_semilla": "Doom: Annihilation",
+    "anio_semilla": 2019,
+    "estado_busqueda_tmdb": "coincidencia_anio",
+    "busqueda": {
+      "page": 1,
+      "results": [
+        {
+          "adult": false,
+          "backdrop_path": "/iODdFR98xOeOzj95ptMKnCkhniN.jpg",
+          "genre_ids": [
+            28,
+            878,
+            27
+          ],
+          "id": 520901,
+          "title": "Doom: Annihilation",
+          "original_language": "en",
+          "original_title": "Doom: Annihilation",
+          "overview": "Sigue a un grupo de marines espaciales que responden a una llamada de socorro desde una luna de Marte. Cuando llegan allí, descubren que criaturas demoníacas han tomado el control de la zona y amenazan con llevar el Infierno a la Tierra. Nueva película basada en la saga de videojuegos “Doom”.",
+          "popularity": 1.8112,
+          "poster_path": "/b7pEmwnayMZCVlnSq33izWcOlPI.jpg",
+          "release_date": "2019-09-30",
+          "softcore": false,
+          "video": false,
+          "vote_average": 4.977,
+          "vote_count": 504
+        }
+      ],
+      "total_pages": 1,
+      "total_results": 1
+    },
+    "detalle": {
+      "adult": false,
+      "backdrop_path": "/iODdFR98xOeOzj95ptMKnCkhniN.jpg",
+      "belongs_to_collection": {
+        "id": 634390,
+        "name": "Doom - Colección",
+        "poster_path": "/qhmCZgD80VXMLpkLxJ61UYvvLsH.jpg",
+        "backdrop_path": "/9zy1Y57oMMApCl1dVoKpeiCUEKE.jpg"
+      },
+      "budget": 0,
+      "genres": [
+        {
+          "id": 28,
+          "name": "Acción"
+        },
+        {
+          "id": 878,
+          "name": "Ciencia ficción"
+        },
+        {
+          "id": 27,
+          "name": "Terror"
+        }
+      ],
+      "homepage": "",
+      "id": 520901,
+      "imdb_id": "tt8328716",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_title": "Doom: Annihilation",
+      "overview": "Sigue a un grupo de marines espaciales que responden a una llamada de socorro desde una luna de Marte. Cuando llegan allí, descubren que criaturas demoníacas han tomado el control de la zona y amenazan con llevar el Infierno a la Tierra. Nueva película basada en la saga de videojuegos “Doom”.",
+      "popularity": 2.3637,
+      "poster_path": "/b7pEmwnayMZCVlnSq33izWcOlPI.jpg",
+      "production_companies": [
+        {
+          "id": 17009,
+          "logo_path": "/ssowAxOrrqsSR2CKeiytOXwLoCW.png",
+          "name": "Universal 1440 Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 435,
+          "logo_path": "/AjzK0s2w1GtLfR4hqCjVSYi0Sr8.png",
+          "name": "di Bonaventura Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 1512,
+          "logo_path": null,
+          "name": "John Wells Productions",
+          "origin_country": "US"
+        },
+        {
+          "id": 7288,
+          "logo_path": null,
+          "name": "Battle Mountain Films",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "release_date": "2019-09-30",
+      "revenue": 0,
+      "runtime": 97,
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "title": "Doom: Annihilation",
+      "video": false,
+      "vote_average": 4.977,
+      "vote_count": 504
+    }
+  },
+  {
+    "id_semilla": "vg_012",
+    "titulo_semilla": "Monster Hunter",
+    "anio_semilla": 2020,
+    "estado_busqueda_tmdb": "coincidencia_anio",
+    "busqueda": {
+      "page": 1,
+      "results": [
+        {
+          "adult": false,
+          "backdrop_path": "/8tNX8s3j1O0eqilOQkuroRLyOZA.jpg",
+          "genre_ids": [
+            28,
+            14
+          ],
+          "id": 458576,
+          "title": "Monster Hunter",
+          "original_language": "en",
+          "original_title": "Monster Hunter",
+          "overview": "Tras nuestro mundo hay otro: un mundo de monstruos peligrosos y poderosos que gobiernan sus dominios con una ferocidad mortal. Cuando la teniente Artemis y sus leales soldados son transportados de nuestro mundo al nuevo mundo, la imperturbable teniente recibe el golpe de su vida. En su desesperada batalla por sobrevivir contra enormes enemigos con poderes increíbles y ataques imparables y repugnantes, Artemis se unirá a un hombre misterioso que ha encontrado la forma de defenderse.",
+          "popularity": 5.2049,
+          "poster_path": "/la7nc6pG4vmPJEzl3gV08jboQWX.jpg",
+          "release_date": "2020-12-03",
+          "softcore": false,
+          "video": false,
+          "vote_average": 6.5,
+          "vote_count": 3706
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/z898HmdojiDM9BAWYhBT0sHFlUI.jpg",
+          "genre_ids": [
+            878,
+            28,
+            27
+          ],
+          "id": 736485,
+          "title": "Monster Hunters",
+          "original_language": "en",
+          "original_title": "Monster Hunters",
+          "overview": "Cuando un barco-prisión alienígena aterriza y libera criatura tras criatura en el desierto de California, hacen un trabajo rápido con el ejército que intenta detenerlos. Ahora, la única esperanza de detener a los alienígenas reside en una rama secreta del gobierno especializada en armamento alienígena. Pero con el equipo sin probar en combate real, la batalla por la Tierra será brutal.",
+          "popularity": 1.2517,
+          "poster_path": "/3UrOHqUlzdeXz4SLaQIETaRd2W.jpg",
+          "release_date": "2020-08-25",
+          "softcore": false,
+          "video": false,
+          "vote_average": 6.2,
+          "vote_count": 183
+        },
+        {
+          "adult": false,
+          "backdrop_path": null,
+          "genre_ids": [
+            18,
+            14
+          ],
+          "id": 735490,
+          "title": "怪兽猎人",
+          "original_language": "zh",
+          "original_title": "怪兽猎人",
+          "overview": "",
+          "popularity": 0.4516,
+          "poster_path": "/5GWVPBlGgwZEl7mGHI4C3M04aVR.jpg",
+          "release_date": "2020-08-20",
+          "softcore": false,
+          "video": false,
+          "vote_average": 7.5,
+          "vote_count": 2
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/tkA2uotRBdnwSCWyfcYi4CIgrLo.jpg",
+          "genre_ids": [
+            12,
+            14
+          ],
+          "id": 728271,
+          "title": "镇魂歌",
+          "original_language": "zh",
+          "original_title": "镇魂歌",
+          "overview": "",
+          "popularity": 0.6515,
+          "poster_path": "/c0GgcSZLzw0f1QvSV4XprZwJXWE.jpg",
+          "release_date": "2020-07-26",
+          "softcore": false,
+          "video": false,
+          "vote_average": 6.0,
+          "vote_count": 5
+        }
+      ],
+      "total_pages": 1,
+      "total_results": 4
+    },
+    "detalle": {
+      "adult": false,
+      "backdrop_path": "/8tNX8s3j1O0eqilOQkuroRLyOZA.jpg",
+      "belongs_to_collection": null,
+      "budget": 60000000,
+      "genres": [
+        {
+          "id": 28,
+          "name": "Acción"
+        },
+        {
+          "id": 14,
+          "name": "Fantasía"
+        }
+      ],
+      "homepage": "",
+      "id": 458576,
+      "imdb_id": "tt6475714",
+      "origin_country": [
+        "CN"
+      ],
+      "original_language": "en",
+      "original_title": "Monster Hunter",
+      "overview": "Tras nuestro mundo hay otro: un mundo de monstruos peligrosos y poderosos que gobiernan sus dominios con una ferocidad mortal. Cuando la teniente Artemis y sus leales soldados son transportados de nuestro mundo al nuevo mundo, la imperturbable teniente recibe el golpe de su vida. En su desesperada batalla por sobrevivir contra enormes enemigos con poderes increíbles y ataques imparables y repugnantes, Artemis se unirá a un hombre misterioso que ha encontrado la forma de defenderse.",
+      "popularity": 5.2049,
+      "poster_path": "/la7nc6pG4vmPJEzl3gV08jboQWX.jpg",
+      "production_companies": [
+        {
+          "id": 7220,
+          "logo_path": "/dD0x5awPmtx4sAr2pNvkmxkCODh.png",
+          "name": "Capcom",
+          "origin_country": "JP"
+        },
+        {
+          "id": 47,
+          "logo_path": "/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png",
+          "name": "Constantin Film",
+          "origin_country": "DE"
+        },
+        {
+          "id": 81620,
+          "logo_path": "/7LkIVuWBVScdujpKhBPx1TMnPQE.png",
+          "name": "Tencent Pictures",
+          "origin_country": "CN"
+        },
+        {
+          "id": 882,
+          "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+          "name": "TOHO",
+          "origin_country": "JP"
+        },
+        {
+          "id": 265714,
+          "logo_path": null,
+          "name": "AB² Digital Pictures",
+          "origin_country": "CA"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "CN",
+          "name": "China"
+        },
+        {
+          "iso_3166_1": "DE",
+          "name": "Germany"
+        },
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        },
+        {
+          "iso_3166_1": "CA",
+          "name": "Canada"
+        }
+      ],
+      "release_date": "2020-12-03",
+      "revenue": 42145959,
+      "runtime": 103,
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "Detrás de nuestro mundo hay otro.",
+      "title": "Monster Hunter",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 3705
+    }
+  },
+  {
+    "id_semilla": "vg_013",
+    "titulo_semilla": "Sonic the Hedgehog",
+    "anio_semilla": 2020,
+    "estado_busqueda_tmdb": "coincidencia_anio",
+    "busqueda": {
+      "page": 1,
+      "results": [
+        {
+          "adult": false,
+          "backdrop_path": "/stmYfCUGd8Iy6kAMBr6AmWqx8Bq.jpg",
+          "genre_ids": [
+            28,
+            878,
+            35,
+            10751
+          ],
+          "id": 454626,
+          "title": "Sonic: La película",
+          "original_language": "en",
+          "original_title": "Sonic the Hedgehog",
+          "overview": "Sonic, el descarado erizo azul basado en la famosa serie de videojuegos de Sega, vivirá aventuras y desventuras cuando conoce a su amigo humano y policía, Tom Wachowski. Sonic y Tom unirán sus fuerzas para tratar de detener los planes del malvado Dr. Robotnik, que intenta atrapar a Sonic con el fin de emplear sus inmensos poderes para dominar el mundo.",
+          "popularity": 11.1687,
+          "poster_path": "/rK25c71fYVi0Bv7RrTChK7NAQjC.jpg",
+          "release_date": "2020-02-12",
+          "softcore": false,
+          "video": false,
+          "vote_average": 7.263,
+          "vote_count": 10669
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/DX1wS6UGZYXXlueWC0Cta4Mwbv.jpg",
+          "genre_ids": [
+            16,
+            35,
+            10751,
+            12,
+            878
+          ],
+          "id": 753515,
+          "title": "Sonic the Hedgehog - Around the World in 80 Seconds",
+          "original_language": "en",
+          "original_title": "Sonic the Hedgehog - Around the World in 80 Seconds",
+          "overview": "",
+          "popularity": 0.5603,
+          "poster_path": "/3QtynDpIcbwhNxFAAKNXapodGGo.jpg",
+          "release_date": "2020-06-01",
+          "softcore": false,
+          "video": false,
+          "vote_average": 6.5,
+          "vote_count": 4
+        }
+      ],
+      "total_pages": 1,
+      "total_results": 2
+    },
+    "detalle": {
+      "adult": false,
+      "backdrop_path": "/stmYfCUGd8Iy6kAMBr6AmWqx8Bq.jpg",
+      "belongs_to_collection": {
+        "id": 720879,
+        "name": "Sonic - Colección",
+        "poster_path": "/fx5ap8o1RDwSoiEJho98jyussY3.jpg",
+        "backdrop_path": "/ggDVF2DhqIQjJI0zUqsWMS2WTcF.jpg"
+      },
+      "budget": 85000000,
+      "genres": [
+        {
+          "id": 28,
+          "name": "Acción"
+        },
+        {
+          "id": 878,
+          "name": "Ciencia ficción"
+        },
+        {
+          "id": 35,
+          "name": "Comedia"
+        },
+        {
+          "id": 10751,
+          "name": "Familia"
+        }
+      ],
+      "homepage": "",
+      "id": 454626,
+      "imdb_id": "tt3794354",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_title": "Sonic the Hedgehog",
+      "overview": "Sonic, el descarado erizo azul basado en la famosa serie de videojuegos de Sega, vivirá aventuras y desventuras cuando conoce a su amigo humano y policía, Tom Wachowski. Sonic y Tom unirán sus fuerzas para tratar de detener los planes del malvado Dr. Robotnik, que intenta atrapar a Sonic con el fin de emplear sus inmensos poderes para dominar el mundo.",
+      "popularity": 11.1687,
+      "poster_path": "/rK25c71fYVi0Bv7RrTChK7NAQjC.jpg",
+      "production_companies": [
+        {
+          "id": 333,
+          "logo_path": "/5xUJfzPZ8jWJUDzYtIeuPO4qPIa.png",
+          "name": "Original Film",
+          "origin_country": "US"
+        },
+        {
+          "id": 10644,
+          "logo_path": "/ocLZIdYJBppuCt1rhYEb2jbpt5F.png",
+          "name": "Blur Studio",
+          "origin_country": "US"
+        },
+        {
+          "id": 77884,
+          "logo_path": "/dP2lxVNctD5Cried0IWVqgrO2o9.png",
+          "name": "Marza Animation Planet",
+          "origin_country": "JP"
+        },
+        {
+          "id": 4,
+          "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+          "name": "Paramount Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 113750,
+          "logo_path": "/A3QVZ9Ah0yI2d2GiXUFpdlbTgyr.png",
+          "name": "SEGA",
+          "origin_country": "JP"
+        },
+        {
+          "id": 168701,
+          "logo_path": "/vWdZFT4V64CCv12D10m44duQjyg.png",
+          "name": "SEGA of America",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "release_date": "2020-02-12",
+      "revenue": 319715683,
+      "runtime": 99,
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "Un Héroe con una velocidad completamente nueva.",
+      "title": "Sonic: La película",
+      "video": false,
+      "vote_average": 7.263,
+      "vote_count": 10669
+    }
+  },
+  {
+    "id_semilla": "vg_014",
+    "titulo_semilla": "Mortal Kombat",
+    "anio_semilla": 2021,
+    "estado_busqueda_tmdb": "coincidencia_anio",
+    "busqueda": {
+      "page": 1,
+      "results": [
+        {
+          "adult": false,
+          "backdrop_path": "/6ELCZlTA5lGUops70hKdB83WJxH.jpg",
+          "genre_ids": [
+            28,
+            14,
+            12
+          ],
+          "id": 460465,
+          "title": "Mortal Kombat",
+          "original_language": "en",
+          "original_title": "Mortal Kombat",
+          "overview": "Un boxeador fracasado descubre un secreto familiar que lo lleva a un torneo místico llamado Mortal Kombat donde se encuentra con un grupo de guerreros que luchan hasta la muerte para salvar los reinos del malvado hechicero Shang Tsung.",
+          "popularity": 8.1912,
+          "poster_path": "/t2GbiMJfO8txoihdJC8RsfK1ds7.jpg",
+          "release_date": "2021-04-07",
+          "softcore": false,
+          "video": false,
+          "vote_average": 7.02,
+          "vote_count": 7147
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/dssCw0mUmD4EriUmkwB3PnsGu4q.jpg",
+          "genre_ids": [
+            16,
+            28,
+            14
+          ],
+          "id": 841755,
+          "title": "Mortal Kombat Leyendas: La Batalla de los Reinos",
+          "original_language": "en",
+          "original_title": "Mortal Kombat Legends: Battle of the Realms",
+          "overview": "Tras ganar el primer torneo de Mortal Kombat: Liu Kang, Sonya Blade y Johnny Cage, deberán entrar al reino de Outworld, para decidir el destino de la humanidad.",
+          "popularity": 2.9658,
+          "poster_path": "/ikSqxoxcIMq6tG3cCpO0KFt5PQ5.jpg",
+          "release_date": "2021-08-30",
+          "softcore": false,
+          "video": false,
+          "vote_average": 7.594,
+          "vote_count": 534
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/hd9cp4U065DVhkMSRQbjQW8PdX7.jpg",
+          "genre_ids": [
+            99
+          ],
+          "id": 682263,
+          "title": "Insert Coin",
+          "original_language": "en",
+          "original_title": "Insert Coin",
+          "overview": "Un documental sobre Midway Games, los creadores de los icónicos juegos de arcade de los años 90 como Mortal Kombat y NBA Jam. Explora su impacto en la industria de los videojuegos y su legado cultural.",
+          "popularity": 1.2083,
+          "poster_path": "/mhgSTSt7tYVWjbAv1fwkI4Iw8VO.jpg",
+          "release_date": "2020-11-25",
+          "softcore": false,
+          "video": false,
+          "vote_average": 6.8,
+          "vote_count": 37
+        }
+      ],
+      "total_pages": 1,
+      "total_results": 3
+    },
+    "detalle": {
+      "adult": false,
+      "backdrop_path": "/6ELCZlTA5lGUops70hKdB83WJxH.jpg",
+      "belongs_to_collection": {
+        "id": 931431,
+        "name": "Mortal Kombat (Reboot) - Colección",
+        "poster_path": "/fzMBv3Bu8sWdsCQJbtF0XhY4Q2X.jpg",
+        "backdrop_path": "/hq4SfEXIXaukxNGf5VgXgGb3UG4.jpg"
+      },
+      "budget": 20000000,
+      "genres": [
+        {
+          "id": 28,
+          "name": "Acción"
+        },
+        {
+          "id": 14,
+          "name": "Fantasía"
+        },
+        {
+          "id": 12,
+          "name": "Aventura"
+        }
+      ],
+      "homepage": "",
+      "id": 460465,
+      "imdb_id": "tt0293429",
+      "origin_country": [
+        "AU",
+        "CA",
+        "US"
+      ],
+      "original_language": "en",
+      "original_title": "Mortal Kombat",
+      "overview": "Un boxeador fracasado descubre un secreto familiar que lo lleva a un torneo místico llamado Mortal Kombat donde se encuentra con un grupo de guerreros que luchan hasta la muerte para salvar los reinos del malvado hechicero Shang Tsung.",
+      "popularity": 8.1912,
+      "poster_path": "/t2GbiMJfO8txoihdJC8RsfK1ds7.jpg",
+      "production_companies": [
+        {
+          "id": 76907,
+          "logo_path": "/ygMQtjsKX7BZkCQhQZY82lgnCUO.png",
+          "name": "Atomic Monster",
+          "origin_country": "US"
+        },
+        {
+          "id": 8000,
+          "logo_path": "/f8NwLg72BByt3eav7lX1lcJfe60.png",
+          "name": "Broken Road Productions",
+          "origin_country": "US"
+        },
+        {
+          "id": 12,
+          "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+          "name": "New Line Cinema",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "release_date": "2021-04-07",
+      "revenue": 84426031,
+      "runtime": 110,
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "Japanese",
+          "iso_639_1": "ja",
+          "name": "日本語"
+        },
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Mandarin",
+          "iso_639_1": "zh",
+          "name": "普通话"
+        }
+      ],
+      "status": "Released",
+      "tagline": "Ven aquí",
+      "title": "Mortal Kombat",
+      "video": false,
+      "vote_average": 7.02,
+      "vote_count": 7146
+    }
+  },
+  {
+    "id_semilla": "vg_015",
+    "titulo_semilla": "Resident Evil: Welcome to Raccoon City",
+    "anio_semilla": 2021,
+    "estado_busqueda_tmdb": "coincidencia_anio",
+    "busqueda": {
+      "page": 1,
+      "results": [
+        {
+          "adult": false,
+          "backdrop_path": "/wYtEvBmpBRXPdwGgr1gcWiwJSI7.jpg",
+          "genre_ids": [
+            28,
+            27,
+            878
+          ],
+          "id": 460458,
+          "title": "Resident Evil. Bienvenidos a Raccoon City",
+          "original_language": "en",
+          "original_title": "Resident Evil: Welcome to Raccoon City",
+          "overview": "Nueva adaptación al cine de los videojuegos de Capcom. La que fue una pujante ciudad sede del gigante farmacéutico Umbrella Corporation, Raccoon City, es ahora un pueblo agonizante del Medio Oeste. El éxodo de la compañía dejó a la ciudad convertida en un erial… con un gran mal gestándose bajo la superficie. Cuando ese mal se desata, un grupo de supervivientes deben unirse para destapar la verdad detrás de Umbrella y sobrevivir a la noche.",
+          "popularity": 20.6371,
+          "poster_path": "/oRIoAzRLtoNO9adWRW0jeGfMr0N.jpg",
+          "release_date": "2021-11-24",
+          "softcore": false,
+          "video": false,
+          "vote_average": 5.943,
+          "vote_count": 2950
+        }
+      ],
+      "total_pages": 1,
+      "total_results": 1
+    },
+    "detalle": {
+      "adult": false,
+      "backdrop_path": "/wYtEvBmpBRXPdwGgr1gcWiwJSI7.jpg",
+      "belongs_to_collection": null,
+      "budget": 25000000,
+      "genres": [
+        {
+          "id": 28,
+          "name": "Acción"
+        },
+        {
+          "id": 27,
+          "name": "Terror"
+        },
+        {
+          "id": 878,
+          "name": "Ciencia ficción"
+        }
+      ],
+      "homepage": "",
+      "id": 460458,
+      "imdb_id": "tt6920084",
+      "origin_country": [
+        "CA",
+        "US"
+      ],
+      "original_language": "en",
+      "original_title": "Resident Evil: Welcome to Raccoon City",
+      "overview": "Nueva adaptación al cine de los videojuegos de Capcom. La que fue una pujante ciudad sede del gigante farmacéutico Umbrella Corporation, Raccoon City, es ahora un pueblo agonizante del Medio Oeste. El éxodo de la compañía dejó a la ciudad convertida en un erial… con un gran mal gestándose bajo la superficie. Cuando ese mal se desata, un grupo de supervivientes deben unirse para destapar la verdad detrás de Umbrella y sobrevivir a la noche.",
+      "popularity": 20.6371,
+      "poster_path": "/oRIoAzRLtoNO9adWRW0jeGfMr0N.jpg",
+      "production_companies": [
+        {
+          "id": 47,
+          "logo_path": "/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png",
+          "name": "Constantin Film",
+          "origin_country": "DE"
+        },
+        {
+          "id": 3287,
+          "logo_path": "/bz6GbCQQXGNE56LTW9dwgksW0Iw.png",
+          "name": "Screen Gems",
+          "origin_country": "US"
+        },
+        {
+          "id": 266136,
+          "logo_path": null,
+          "name": "Davis Raccoon Films",
+          "origin_country": "CA"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "DE",
+          "name": "Germany"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        },
+        {
+          "iso_3166_1": "CA",
+          "name": "Canada"
+        }
+      ],
+      "release_date": "2021-11-24",
+      "revenue": 41914915,
+      "runtime": 107,
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "Testigo del comienzo del mal.",
+      "title": "Resident Evil. Bienvenidos a Raccoon City",
+      "video": false,
+      "vote_average": 5.9,
+      "vote_count": 2949
+    }
+  },
+  {
+    "id_semilla": "vg_016",
+    "titulo_semilla": "Werewolves Within",
+    "anio_semilla": 2021,
+    "estado_busqueda_tmdb": "coincidencia_anio",
+    "busqueda": {
+      "page": 1,
+      "results": [
+        {
+          "adult": false,
+          "backdrop_path": "/ae25gpphxDPEYGUxvAGmR07oQqC.jpg",
+          "genre_ids": [
+            27,
+            35
+          ],
+          "id": 800497,
+          "title": "Un hombre lobo entre nosotros",
+          "original_language": "en",
+          "original_title": "Werewolves Within",
+          "overview": "Cuando un oleoducto propuesto crea hostilidades entre los residentes de una pequeña ciudad, un guardabosques recién llegado debe mantener la paz después de que una tormenta de nieve confina a la gente del pueblo en un antiguo albergue. Pero cuando una criatura misteriosa comienza a aterrorizar al grupo, sus peores tendencias y prejuicios salen a la superficie, y el guardabosques debe mantener con vida a los residentes, tanto entre ellos como con el monstruo que los atormenta.",
+          "popularity": 2.0187,
+          "poster_path": "/4RkdBAVn3hbNWiXWinvYtkqVXZB.jpg",
+          "release_date": "2021-06-25",
+          "softcore": false,
+          "video": false,
+          "vote_average": 6.004,
+          "vote_count": 681
+        }
+      ],
+      "total_pages": 1,
+      "total_results": 1
+    },
+    "detalle": {
+      "adult": false,
+      "backdrop_path": "/ae25gpphxDPEYGUxvAGmR07oQqC.jpg",
+      "belongs_to_collection": null,
+      "budget": 6500000,
+      "genres": [
+        {
+          "id": 27,
+          "name": "Terror"
+        },
+        {
+          "id": 35,
+          "name": "Comedia"
+        }
+      ],
+      "homepage": "",
+      "id": 800497,
+      "imdb_id": "tt9288692",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_title": "Werewolves Within",
+      "overview": "Cuando un oleoducto propuesto crea hostilidades entre los residentes de una pequeña ciudad, un guardabosques recién llegado debe mantener la paz después de que una tormenta de nieve confina a la gente del pueblo en un antiguo albergue. Pero cuando una criatura misteriosa comienza a aterrorizar al grupo, sus peores tendencias y prejuicios salen a la superficie, y el guardabosques debe mantener con vida a los residentes, tanto entre ellos como con el monstruo que los atormenta.",
+      "popularity": 2.2643,
+      "poster_path": "/4RkdBAVn3hbNWiXWinvYtkqVXZB.jpg",
+      "production_companies": [
+        {
+          "id": 46453,
+          "logo_path": "/pftS6dWlYOqNKRHektMx3UiwOgS.png",
+          "name": "Vanishing Angle",
+          "origin_country": "US"
+        },
+        {
+          "id": 202102,
+          "logo_path": "/8bWIe866WwroX2I7MJP77BTPG5y.png",
+          "name": "Ubisoft Film & Television",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "release_date": "2021-06-25",
+      "revenue": 937490,
+      "runtime": 96,
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "Una novela con dientes.",
+      "title": "Un hombre lobo entre nosotros",
+      "video": false,
+      "vote_average": 6.004,
+      "vote_count": 681
+    }
+  },
+  {
+    "id_semilla": "vg_017",
+    "titulo_semilla": "Uncharted",
+    "anio_semilla": 2022,
+    "estado_busqueda_tmdb": "coincidencia_anio",
+    "busqueda": {
+      "page": 1,
+      "results": [
+        {
+          "adult": false,
+          "backdrop_path": "/fwrqW8Lp5VQuppFrODd4iJ8LySE.jpg",
+          "genre_ids": [
+            28,
+            12,
+            9648
+          ],
+          "id": 335787,
+          "title": "Uncharted",
+          "original_language": "en",
+          "original_title": "Uncharted",
+          "overview": "Descubre la primera aventura de Nathan Drake, un joven, astuto y carismático cazatesoros, con su ingenioso compañero Victor “Sully” Sullivan. En una aventura de acción que se extiende por todo el mundo, ambos se embarcan en una peligrosa búsqueda de “el mayor tesoro nunca antes encontrado” al tiempo que rastrean las claves que les podrían conducir al hermano de Nathan, perdido hace ya mucho tiempo.",
+          "popularity": 10.0385,
+          "poster_path": "/8FiWi61YRbkN95xmH668iq5sCo1.jpg",
+          "release_date": "2022-02-10",
+          "softcore": false,
+          "video": false,
+          "vote_average": 6.858,
+          "vote_count": 7291
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/vlvokZoGgL4wsVeLDgmcxaWnV3.jpg",
+          "genre_ids": [
+            99
+          ],
+          "id": 626968,
+          "title": "Uncharted Amazon",
+          "original_language": "en",
+          "original_title": "Uncharted Amazon",
+          "overview": "",
+          "popularity": 0.3093,
+          "poster_path": "/lfs6ozENw8Ww9BXbWvyP0uYUEYy.jpg",
+          "release_date": "2016-03-01",
+          "softcore": false,
+          "video": false,
+          "vote_average": 7.5,
+          "vote_count": 2
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/6ES0ns96hA81P9EDcsXtAvlMxkc.jpg",
+          "genre_ids": [
+            99
+          ],
+          "id": 942512,
+          "title": "Gerry Anderson: A Life Uncharted",
+          "original_language": "en",
+          "original_title": "Gerry Anderson: A Life Uncharted",
+          "overview": "La exitosa carrera de Gerry Anderson abarcó 60 años. Lanzado una década después de su muerte, este documental se basa en el acceso exclusivo a más de 30 horas de entrevistas inéditas para compartir las historias no contadas que definieron su vida y su obra.",
+          "popularity": 0.5328,
+          "poster_path": "/lLSTjXqUgM1e8gvut00o3aH34v.jpg",
+          "release_date": "2022-04-15",
+          "softcore": false,
+          "video": false,
+          "vote_average": 6.0,
+          "vote_count": 3
+        }
+      ],
+      "total_pages": 1,
+      "total_results": 3
+    },
+    "detalle": {
+      "adult": false,
+      "backdrop_path": "/fwrqW8Lp5VQuppFrODd4iJ8LySE.jpg",
+      "belongs_to_collection": {
+        "id": 1216426,
+        "name": "Uncharted - Colección",
+        "poster_path": "/jGLXLXkLjCSHiUnjeqVl1TiOYho.jpg",
+        "backdrop_path": "/hMZjdhejSvs8NJpkiLBVOYbWKzP.jpg"
+      },
+      "budget": 120000000,
+      "genres": [
+        {
+          "id": 28,
+          "name": "Acción"
+        },
+        {
+          "id": 12,
+          "name": "Aventura"
+        },
+        {
+          "id": 9648,
+          "name": "Misterio"
+        }
+      ],
+      "homepage": "https://www.sonypictures.es/peliculas/uncharted",
+      "id": 335787,
+      "imdb_id": "tt1464335",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_title": "Uncharted",
+      "overview": "Descubre la primera aventura de Nathan Drake, un joven, astuto y carismático cazatesoros, con su ingenioso compañero Victor “Sully” Sullivan. En una aventura de acción que se extiende por todo el mundo, ambos se embarcan en una peligrosa búsqueda de “el mayor tesoro nunca antes encontrado” al tiempo que rastrean las claves que les podrían conducir al hermano de Nathan, perdido hace ya mucho tiempo.",
+      "popularity": 10.0385,
+      "poster_path": "/8FiWi61YRbkN95xmH668iq5sCo1.jpg",
+      "production_companies": [
+        {
+          "id": 5,
+          "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+          "name": "Columbia Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 507,
+          "logo_path": "/aRmHe6GWxYMRCQljF75rn2B9Gv8.png",
+          "name": "Atlas Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 125281,
+          "logo_path": "/3hV8pyxzAJgEjiSYVv1WZ0ZYayp.png",
+          "name": "PlayStation Productions",
+          "origin_country": "US"
+        },
+        {
+          "id": 14439,
+          "logo_path": null,
+          "name": "Arad Productions",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "release_date": "2022-02-10",
+      "revenue": 407141258,
+      "runtime": 115,
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "Spanish",
+          "iso_639_1": "es",
+          "name": "Español"
+        },
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "La fortuna favorece a los audaces.",
+      "title": "Uncharted",
+      "video": false,
+      "vote_average": 6.858,
+      "vote_count": 7289
+    }
+  },
+  {
+    "id_semilla": "vg_018",
+    "titulo_semilla": "Sonic the Hedgehog 2",
+    "anio_semilla": 2022,
+    "estado_busqueda_tmdb": "coincidencia_anio",
+    "busqueda": {
+      "page": 1,
+      "results": [
+        {
+          "adult": false,
+          "backdrop_path": "/xuLA0pii2IMJW2puT7EvJtgpg0H.jpg",
+          "genre_ids": [
+            28,
+            12,
+            10751,
+            35
+          ],
+          "id": 675353,
+          "title": "Sonic 2: La película",
+          "original_language": "en",
+          "original_title": "Sonic the Hedgehog 2",
+          "overview": "Después de establecerse en Green Hills, Sonic se muere por demostrar que tiene madera de auténtico héroe. La prueba de fuego llega con el retorno del malvado Robotnik, en esta ocasión con un nuevo compinche, Knuckles, en busca de una esmeralda que tiene el poder de destruir civilizaciones. Sonic forma equipo con su propio compañero de fatigas, Tails, y juntos se lanzan a una aventura que les llevará por todo el mundo en busca de la preciada piedra para evitar que caiga en manos equivocadas.",
+          "popularity": 9.2141,
+          "poster_path": "/sJiHVM0A3OXDVxl4Z6a7ihMPHfm.jpg",
+          "release_date": "2022-03-30",
+          "softcore": false,
+          "video": false,
+          "vote_average": 7.408,
+          "vote_count": 6083
+        }
+      ],
+      "total_pages": 1,
+      "total_results": 1
+    },
+    "detalle": {
+      "adult": false,
+      "backdrop_path": "/xuLA0pii2IMJW2puT7EvJtgpg0H.jpg",
+      "belongs_to_collection": {
+        "id": 720879,
+        "name": "Sonic - Colección",
+        "poster_path": "/fx5ap8o1RDwSoiEJho98jyussY3.jpg",
+        "backdrop_path": "/ggDVF2DhqIQjJI0zUqsWMS2WTcF.jpg"
+      },
+      "budget": 110000000,
+      "genres": [
+        {
+          "id": 28,
+          "name": "Acción"
+        },
+        {
+          "id": 12,
+          "name": "Aventura"
+        },
+        {
+          "id": 10751,
+          "name": "Familia"
+        },
+        {
+          "id": 35,
+          "name": "Comedia"
+        }
+      ],
+      "homepage": "",
+      "id": 675353,
+      "imdb_id": "tt12412888",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_title": "Sonic the Hedgehog 2",
+      "overview": "Después de establecerse en Green Hills, Sonic se muere por demostrar que tiene madera de auténtico héroe. La prueba de fuego llega con el retorno del malvado Robotnik, en esta ocasión con un nuevo compinche, Knuckles, en busca de una esmeralda que tiene el poder de destruir civilizaciones. Sonic forma equipo con su propio compañero de fatigas, Tails, y juntos se lanzan a una aventura que les llevará por todo el mundo en busca de la preciada piedra para evitar que caiga en manos equivocadas.",
+      "popularity": 9.2141,
+      "poster_path": "/sJiHVM0A3OXDVxl4Z6a7ihMPHfm.jpg",
+      "production_companies": [
+        {
+          "id": 333,
+          "logo_path": "/5xUJfzPZ8jWJUDzYtIeuPO4qPIa.png",
+          "name": "Original Film",
+          "origin_country": "US"
+        },
+        {
+          "id": 10644,
+          "logo_path": "/ocLZIdYJBppuCt1rhYEb2jbpt5F.png",
+          "name": "Blur Studio",
+          "origin_country": "US"
+        },
+        {
+          "id": 77884,
+          "logo_path": "/dP2lxVNctD5Cried0IWVqgrO2o9.png",
+          "name": "Marza Animation Planet",
+          "origin_country": "JP"
+        },
+        {
+          "id": 4,
+          "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+          "name": "Paramount Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 113750,
+          "logo_path": "/A3QVZ9Ah0yI2d2GiXUFpdlbTgyr.png",
+          "name": "SEGA",
+          "origin_country": "JP"
+        },
+        {
+          "id": 168701,
+          "logo_path": "/vWdZFT4V64CCv12D10m44duQjyg.png",
+          "name": "SEGA of America",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "release_date": "2022-03-30",
+      "revenue": 405421518,
+      "runtime": 123,
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "Bienvenido al siguiente nivel...",
+      "title": "Sonic 2: La película",
+      "video": false,
+      "vote_average": 7.408,
+      "vote_count": 6083
+    }
+  },
+  {
+    "id_semilla": "vg_019",
+    "titulo_semilla": "The Super Mario Bros. Movie",
+    "anio_semilla": 2023,
+    "estado_busqueda_tmdb": "coincidencia_anio",
+    "busqueda": {
+      "page": 1,
+      "results": [
+        {
+          "adult": false,
+          "backdrop_path": "/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
+          "genre_ids": [
+            10751,
+            35,
+            12,
+            14,
+            16
+          ],
+          "id": 502356,
+          "title": "Super Mario Bros: La película",
+          "original_language": "en",
+          "original_title": "The Super Mario Bros. Movie",
+          "overview": "Mientras trabajan en una avería subterránea, los fontaneros de Brooklyn, Mario y su hermano Luigi, viajan por una misteriosa tubería hasta un nuevo mundo mágico. Pero, cuando los hermanos se separan, Mario deberá emprender una épica misión para encontrar a Luigi. Con la ayuda del champiñón local Toad y unas cuantas nociones de combate de la guerrera líder del Reino Champiñón, la princesa Peach, Mario descubre todo el poder que alberga en su interior.",
+          "popularity": 20.6669,
+          "poster_path": "/4CDkQMpNDTtVKwS0BBZw5RIXDtY.jpg",
+          "release_date": "2023-04-05",
+          "softcore": false,
+          "video": false,
+          "vote_average": 7.584,
+          "vote_count": 11318
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/1GGfWFp9hp4RUHRHxd505z9rVFa.jpg",
+          "genre_ids": [
+            12,
+            14,
+            35,
+            10751
+          ],
+          "id": 9607,
+          "title": "Super Mario Bros",
+          "original_language": "en",
+          "original_title": "Super Mario Bros.",
+          "overview": "Basada en el famoso videojuego de la compañía Nintendo. Dos fontaneros de Brooklyn, Mario y Luigi, viajan a otra dimensión para rescatar a una princesa del malvado dictador Rey koopa y evitar que se apodere del mundo.",
+          "popularity": 3.5014,
+          "poster_path": "/oU2oB6NWnMJBkHwzRXQYgLAnJ8v.jpg",
+          "release_date": "1993-05-28",
+          "softcore": false,
+          "video": false,
+          "vote_average": 4.498,
+          "vote_count": 1523
+        }
+      ],
+      "total_pages": 1,
+      "total_results": 2
+    },
+    "detalle": {
+      "adult": false,
+      "backdrop_path": "/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
+      "belongs_to_collection": {
+        "id": 1434561,
+        "name": "Super Mario - Colección",
+        "poster_path": "/v4y5KE9vZnOhkPziL7nDIeBZCSy.jpg",
+        "backdrop_path": "/mCF47RnRN8alhxCmFJzJRoEEPIe.jpg"
+      },
+      "budget": 100000000,
+      "genres": [
+        {
+          "id": 10751,
+          "name": "Familia"
+        },
+        {
+          "id": 35,
+          "name": "Comedia"
+        },
+        {
+          "id": 12,
+          "name": "Aventura"
+        },
+        {
+          "id": 14,
+          "name": "Fantasía"
+        },
+        {
+          "id": 16,
+          "name": "Animación"
+        }
+      ],
+      "homepage": "https://www.universalpictures.es/micro/super-mario-bros",
+      "id": 502356,
+      "imdb_id": "tt6718170",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_title": "The Super Mario Bros. Movie",
+      "overview": "Mientras trabajan en una avería subterránea, los fontaneros de Brooklyn, Mario y su hermano Luigi, viajan por una misteriosa tubería hasta un nuevo mundo mágico. Pero, cuando los hermanos se separan, Mario deberá emprender una épica misión para encontrar a Luigi. Con la ayuda del champiñón local Toad y unas cuantas nociones de combate de la guerrera líder del Reino Champiñón, la princesa Peach, Mario descubre todo el poder que alberga en su interior.",
+      "popularity": 20.6669,
+      "poster_path": "/4CDkQMpNDTtVKwS0BBZw5RIXDtY.jpg",
+      "production_companies": [
+        {
+          "id": 33,
+          "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+          "name": "Universal Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 6704,
+          "logo_path": "/fOG2oY4m1YuYTQh4bMqqZkmgOAI.png",
+          "name": "Illumination",
+          "origin_country": "US"
+        },
+        {
+          "id": 12288,
+          "logo_path": "/e4dQAqZD374H5EuM0W1ljEBWTKy.png",
+          "name": "Nintendo",
+          "origin_country": "JP"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "release_date": "2023-04-05",
+      "revenue": 1360879735,
+      "runtime": 93,
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "No todos los héroes usan capas. Algunos usan overoles.",
+      "title": "Super Mario Bros: La película",
+      "video": false,
+      "vote_average": 7.585,
+      "vote_count": 11316
+    }
+  },
+  {
+    "id_semilla": "vg_020",
+    "titulo_semilla": "Gran Turismo",
+    "anio_semilla": 2023,
+    "estado_busqueda_tmdb": "coincidencia_anio",
+    "busqueda": {
+      "page": 1,
+      "results": [
+        {
+          "adult": false,
+          "backdrop_path": "/xFYpUmB01nswPgbzi8EOCT1ZYFu.jpg",
+          "genre_ids": [
+            18
+          ],
+          "id": 980489,
+          "title": "Gran Turismo",
+          "original_language": "en",
+          "original_title": "Gran Turismo",
+          "overview": "Un adolescente jugaba a 'Gran Turismo', videojuego en el que ganó una serie de competiciones patrocinadas por Nissan, y le sirvió de trampolín para acabar convirtiéndose en un piloto de carreras profesional.",
+          "popularity": 8.212,
+          "poster_path": "/tVj5dn15iwkMhjU2wIih1yMy5LK.jpg",
+          "release_date": "2023-08-09",
+          "softcore": false,
+          "video": false,
+          "vote_average": 7.683,
+          "vote_count": 3664
+        },
+        {
+          "adult": false,
+          "backdrop_path": null,
+          "genre_ids": [],
+          "id": 1172189,
+          "title": "Lucas Ordoňez: De Gran Turismo a Le Mans",
+          "original_language": "en",
+          "original_title": "Lucas Ordoňez: De Gran Turismo a Le Mans",
+          "overview": "",
+          "popularity": 0.3177,
+          "poster_path": null,
+          "release_date": "2023-08-29",
+          "softcore": false,
+          "video": true,
+          "vote_average": 0.0,
+          "vote_count": 0
+        }
+      ],
+      "total_pages": 1,
+      "total_results": 2
+    },
+    "detalle": {
+      "adult": false,
+      "backdrop_path": "/xFYpUmB01nswPgbzi8EOCT1ZYFu.jpg",
+      "belongs_to_collection": null,
+      "budget": 60000000,
+      "genres": [
+        {
+          "id": 18,
+          "name": "Drama"
+        }
+      ],
+      "homepage": "https://www.sonypictures.es/peliculas/gran-turismo",
+      "id": 980489,
+      "imdb_id": "tt4495098",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_title": "Gran Turismo",
+      "overview": "Un adolescente jugaba a 'Gran Turismo', videojuego en el que ganó una serie de competiciones patrocinadas por Nissan, y le sirvió de trampolín para acabar convirtiéndose en un piloto de carreras profesional.",
+      "popularity": 8.212,
+      "poster_path": "/tVj5dn15iwkMhjU2wIih1yMy5LK.jpg",
+      "production_companies": [
+        {
+          "id": 125281,
+          "logo_path": "/3hV8pyxzAJgEjiSYVv1WZ0ZYayp.png",
+          "name": "PlayStation Productions",
+          "origin_country": "US"
+        },
+        {
+          "id": 84792,
+          "logo_path": "/7Rfr3Zu6QnHpXW2VdSEzUminAQd.png",
+          "name": "2.0 Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 5,
+          "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+          "name": "Columbia Pictures",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "release_date": "2023-08-09",
+      "revenue": 121700000,
+      "runtime": 134,
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Japanese",
+          "iso_639_1": "ja",
+          "name": "日本語"
+        }
+      ],
+      "status": "Released",
+      "tagline": "De jugador a corredor.",
+      "title": "Gran Turismo",
+      "video": false,
+      "vote_average": 7.683,
+      "vote_count": 3664
+    }
+  },
+  {
+    "id_semilla": "vg_021",
+    "titulo_semilla": "Five Nights at Freddy's",
+    "anio_semilla": 2023,
+    "estado_busqueda_tmdb": "coincidencia_anio",
+    "busqueda": {
+      "page": 1,
+      "results": [
+        {
+          "adult": false,
+          "backdrop_path": "/7NRGAtu8E4343NSKwhkgmVRDINw.jpg",
+          "genre_ids": [
+            27,
+            53
+          ],
+          "id": 507089,
+          "title": "Five Nights at Freddy's",
+          "original_language": "en",
+          "original_title": "Five Nights at Freddy's",
+          "overview": "Un hombre comienza un trabajo como guardia de seguridad nocturno en el restaurante Freddy Fazbear's Pizza, donde descubre que los animatrónicos se mueven por la noche y matan a cualquiera que vean. Adaptación de la exitosa saga de videojuegos homónima creada en 2014 por Scott Cawthon.",
+          "popularity": 11.8235,
+          "poster_path": "/t6RSJ1z8bDEYpk4fLwxfkXciUak.jpg",
+          "release_date": "2023-10-25",
+          "softcore": false,
+          "video": false,
+          "vote_average": 7.254,
+          "vote_count": 5280
+        }
+      ],
+      "total_pages": 1,
+      "total_results": 1
+    },
+    "detalle": {
+      "adult": false,
+      "backdrop_path": "/7NRGAtu8E4343NSKwhkgmVRDINw.jpg",
+      "belongs_to_collection": {
+        "id": 1240438,
+        "name": "FNaF - Colección",
+        "poster_path": "/soO4tOP2N4b0C35ZWDhYMVG4Vr0.jpg",
+        "backdrop_path": "/537TH9PnmUk5X0FZaRP0wH1PJqV.jpg"
+      },
+      "budget": 20000000,
+      "genres": [
+        {
+          "id": 27,
+          "name": "Terror"
+        },
+        {
+          "id": 53,
+          "name": "Suspense"
+        }
+      ],
+      "homepage": "https://www.universalpictures.es/micro/five-nights",
+      "id": 507089,
+      "imdb_id": "tt4589218",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_title": "Five Nights at Freddy's",
+      "overview": "Un hombre comienza un trabajo como guardia de seguridad nocturno en el restaurante Freddy Fazbear's Pizza, donde descubre que los animatrónicos se mueven por la noche y matan a cualquiera que vean. Adaptación de la exitosa saga de videojuegos homónima creada en 2014 por Scott Cawthon.",
+      "popularity": 11.8235,
+      "poster_path": "/t6RSJ1z8bDEYpk4fLwxfkXciUak.jpg",
+      "production_companies": [
+        {
+          "id": 3172,
+          "logo_path": "/rzKluDcRkIwHZK2pHsiT667A2Kw.png",
+          "name": "Blumhouse Productions",
+          "origin_country": "US"
+        },
+        {
+          "id": 211144,
+          "logo_path": null,
+          "name": "Scott Cawthon Productions",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "release_date": "2023-10-25",
+      "revenue": 298267333,
+      "runtime": 109,
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "¿Podrás sobrevivir?",
+      "title": "Five Nights at Freddy's",
+      "video": false,
+      "vote_average": 7.253,
+      "vote_count": 5282
+    }
+  },
+  {
+    "id_semilla": "vg_022",
+    "titulo_semilla": "Resident Evil: Death Island",
+    "anio_semilla": 2023,
+    "estado_busqueda_tmdb": "coincidencia_anio",
+    "busqueda": {
+      "page": 1,
+      "results": [
+        {
+          "adult": false,
+          "backdrop_path": "/7drO1kYgQ0PnnU87sAnBEphYrSM.jpg",
+          "genre_ids": [
+            28,
+            16,
+            878,
+            27
+          ],
+          "id": 1083862,
+          "title": "Resident Evil: Death Island",
+          "original_language": "ja",
+          "original_title": "バイオハザード：デスアイランド",
+          "overview": "El agente Leon S. Kennedy tiene la misión de rescatar al Dr. Antonio Taylor de unos secuestradores, cuando una mujer misteriosa frustra su búsqueda. Mientras tanto, Chris Redfield está investigando un brote de zombis en San Francisco, donde no se puede identificar la causa de la infección. Lo único que tienen en común las víctimas es que todas visitaron la isla de Alcatraz recientemente. Siguiendo esa pista, Chris y su equipo se dirigen a la isla, donde les espera un nuevo horror.",
+          "popularity": 6.3411,
+          "poster_path": "/dbN7VhlJOqJWWIYVP6620cgVw3.jpg",
+          "release_date": "2023-06-22",
+          "softcore": false,
+          "video": false,
+          "vote_average": 7.277,
+          "vote_count": 1173
+        }
+      ],
+      "total_pages": 1,
+      "total_results": 1
+    },
+    "detalle": {
+      "adult": false,
+      "backdrop_path": "/7drO1kYgQ0PnnU87sAnBEphYrSM.jpg",
+      "belongs_to_collection": {
+        "id": 133352,
+        "name": "Resident Evil: Animaciones - Colección",
+        "poster_path": "/la98KYBnWAqrojeY1zMNTa1I0Eu.jpg",
+        "backdrop_path": "/uj2duAkn6zUmRSbjyEr7XUeIWsJ.jpg"
+      },
+      "budget": 0,
+      "genres": [
+        {
+          "id": 28,
+          "name": "Acción"
+        },
+        {
+          "id": 16,
+          "name": "Animación"
+        },
+        {
+          "id": 878,
+          "name": "Ciencia ficción"
+        },
+        {
+          "id": 27,
+          "name": "Terror"
+        }
+      ],
+      "homepage": "",
+      "id": 1083862,
+      "imdb_id": "tt26674627",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_title": "バイオハザード：デスアイランド",
+      "overview": "El agente Leon S. Kennedy tiene la misión de rescatar al Dr. Antonio Taylor de unos secuestradores, cuando una mujer misteriosa frustra su búsqueda. Mientras tanto, Chris Redfield está investigando un brote de zombis en San Francisco, donde no se puede identificar la causa de la infección. Lo único que tienen en común las víctimas es que todas visitaron la isla de Alcatraz recientemente. Siguiendo esa pista, Chris y su equipo se dirigen a la isla, donde les espera un nuevo horror.",
+      "popularity": 6.3411,
+      "poster_path": "/dbN7VhlJOqJWWIYVP6620cgVw3.jpg",
+      "production_companies": [
+        {
+          "id": 7220,
+          "logo_path": "/dD0x5awPmtx4sAr2pNvkmxkCODh.png",
+          "name": "Capcom",
+          "origin_country": "JP"
+        },
+        {
+          "id": 140891,
+          "logo_path": "/dDZmFY9hGiDmp8G3Yh2bFd80O1l.png",
+          "name": "Quebico",
+          "origin_country": "JP"
+        },
+        {
+          "id": 82346,
+          "logo_path": "/jqgK6CSkPrEsIv6Nk390JaBcXYF.png",
+          "name": "Sony Pictures",
+          "origin_country": "JP"
+        },
+        {
+          "id": 36342,
+          "logo_path": "/3xYrMZn6SrupK4R83EUgNPjzqj4.png",
+          "name": "Sammy",
+          "origin_country": "JP"
+        },
+        {
+          "id": 12386,
+          "logo_path": "/oxvw2Mrq3GcTxFc2mlT7E5tpek7.png",
+          "name": "Robot Communications",
+          "origin_country": "JP"
+        },
+        {
+          "id": 2073,
+          "logo_path": "/tWxRSaKmRJNTcmtlXsmn5R4KOSU.png",
+          "name": "KADOKAWA",
+          "origin_country": "JP"
+        },
+        {
+          "id": 7164,
+          "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+          "name": "TMS Entertainment",
+          "origin_country": "JP"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        }
+      ],
+      "release_date": "2023-06-22",
+      "revenue": 53929,
+      "runtime": 87,
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "Destinos entrelazados. Un mundo enloquecido.",
+      "title": "Resident Evil: Death Island",
+      "video": false,
+      "vote_average": 7.275,
+      "vote_count": 1175
+    }
+  },
+  {
+    "id_semilla": "vg_023",
+    "titulo_semilla": "Borderlands",
+    "anio_semilla": 2024,
+    "estado_busqueda_tmdb": "coincidencia_anio",
+    "busqueda": {
+      "page": 1,
+      "results": [
+        {
+          "adult": false,
+          "backdrop_path": "/mKOBdgaEFguADkJhfFslY7TYxIh.jpg",
+          "genre_ids": [
+            28,
+            878,
+            35
+          ],
+          "id": 365177,
+          "title": "Borderlands",
+          "original_language": "en",
+          "original_title": "Borderlands",
+          "overview": "Lilith, una infame cazatesoros con un misterioso pasado, regresa a su planeta natal de Pandora para encontrar a la hija desaparecida del poderoso Atlas. Para ello forma una alianza inesperada con un heterogéneo equipo de inadaptados: Roland, un antiguo mercenario de élite ahora desesperado por la redención; Tiny Tina, una demolicionista salvaje preadolescente; Krieg, el musculoso protector de Tina; la científica Tannis; y Claptrap, un robot muy peculiar. Estos extraños héroes deberán luchar contra monstruos alienígenas y peligrosos bandidos para buscar y proteger a la niña desaparecida, que puede tener la clave de un poder inimaginable.",
+          "popularity": 5.2992,
+          "poster_path": "/jtEZi4eZxDjxcDIeMbkQ8HmvRs1.jpg",
+          "release_date": "2024-08-07",
+          "softcore": false,
+          "video": false,
+          "vote_average": 5.507,
+          "vote_count": 1608
+        }
+      ],
+      "total_pages": 1,
+      "total_results": 1
+    },
+    "detalle": {
+      "adult": false,
+      "backdrop_path": "/mKOBdgaEFguADkJhfFslY7TYxIh.jpg",
+      "belongs_to_collection": null,
+      "budget": 115000000,
+      "genres": [
+        {
+          "id": 28,
+          "name": "Acción"
+        },
+        {
+          "id": 878,
+          "name": "Ciencia ficción"
+        },
+        {
+          "id": 35,
+          "name": "Comedia"
+        }
+      ],
+      "homepage": "",
+      "id": 365177,
+      "imdb_id": "tt4978420",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_title": "Borderlands",
+      "overview": "Lilith, una infame cazatesoros con un misterioso pasado, regresa a su planeta natal de Pandora para encontrar a la hija desaparecida del poderoso Atlas. Para ello forma una alianza inesperada con un heterogéneo equipo de inadaptados: Roland, un antiguo mercenario de élite ahora desesperado por la redención; Tiny Tina, una demolicionista salvaje preadolescente; Krieg, el musculoso protector de Tina; la científica Tannis; y Claptrap, un robot muy peculiar. Estos extraños héroes deberán luchar contra monstruos alienígenas y peligrosos bandidos para buscar y proteger a la niña desaparecida, que puede tener la clave de un poder inimaginable.",
+      "popularity": 5.4559,
+      "poster_path": "/jtEZi4eZxDjxcDIeMbkQ8HmvRs1.jpg",
+      "production_companies": [
+        {
+          "id": 1632,
+          "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+          "name": "Lionsgate",
+          "origin_country": "US"
+        },
+        {
+          "id": 14439,
+          "logo_path": null,
+          "name": "Arad Productions",
+          "origin_country": "US"
+        },
+        {
+          "id": 123244,
+          "logo_path": "/7eH1Y4RIuontJJXVmmSRrNUMZhU.png",
+          "name": "Picturestart",
+          "origin_country": "US"
+        },
+        {
+          "id": 158612,
+          "logo_path": "/uuByByK2kn72I2c6MGsoa5YQlcJ.png",
+          "name": "Gearbox Studios",
+          "origin_country": "US"
+        },
+        {
+          "id": 181160,
+          "logo_path": "/bfngnSWlPGca8MZG2veYx4JYgOz.png",
+          "name": "2K",
+          "origin_country": "US"
+        },
+        {
+          "id": 147591,
+          "logo_path": "/uMVoIH3rug7F3BsU1FGVJos4yrR.png",
+          "name": "Hercules Film Fund",
+          "origin_country": "LU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        },
+        {
+          "iso_3166_1": "LU",
+          "name": "Luxembourg"
+        }
+      ],
+      "release_date": "2024-08-07",
+      "revenue": 33017367,
+      "runtime": 101,
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "title": "Borderlands",
+      "video": false,
+      "vote_average": 5.507,
+      "vote_count": 1609
+    }
+  },
+  {
+    "id_semilla": "vg_024",
+    "titulo_semilla": "Sonic the Hedgehog 3",
+    "anio_semilla": 2024,
+    "estado_busqueda_tmdb": "coincidencia_anio",
+    "busqueda": {
+      "page": 1,
+      "results": [
+        {
+          "adult": false,
+          "backdrop_path": "/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg",
+          "genre_ids": [
+            28,
+            878,
+            35,
+            10751
+          ],
+          "id": 939243,
+          "title": "Sonic 3: La película",
+          "original_language": "en",
+          "original_title": "Sonic the Hedgehog 3",
+          "overview": "Sonic, Knuckles y Tails se reúnen para enfrentarse a un nuevo y poderoso adversario, Shadow, un misterioso villano cuyos poderes no se parecen a nada de lo que nuestros héroes han conocido hasta ahora. Con sus facultades superadas en todos los sentidos, el Equipo Sonic tendrá que establecer una insólita alianza con la esperanza de detener a Shadow y proteger el planeta.",
+          "popularity": 17.2781,
+          "poster_path": "/3aDWCRXLYOCuxjrjiPfLd79tcI6.jpg",
+          "release_date": "2024-12-19",
+          "softcore": false,
+          "video": false,
+          "vote_average": 7.6,
+          "vote_count": 3543
+        }
+      ],
+      "total_pages": 1,
+      "total_results": 1
+    },
+    "detalle": {
+      "adult": false,
+      "backdrop_path": "/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg",
+      "belongs_to_collection": {
+        "id": 720879,
+        "name": "Sonic - Colección",
+        "poster_path": "/fx5ap8o1RDwSoiEJho98jyussY3.jpg",
+        "backdrop_path": "/ggDVF2DhqIQjJI0zUqsWMS2WTcF.jpg"
+      },
+      "budget": 122000000,
+      "genres": [
+        {
+          "id": 28,
+          "name": "Acción"
+        },
+        {
+          "id": 878,
+          "name": "Ciencia ficción"
+        },
+        {
+          "id": 35,
+          "name": "Comedia"
+        },
+        {
+          "id": 10751,
+          "name": "Familia"
+        }
+      ],
+      "homepage": "",
+      "id": 939243,
+      "imdb_id": "tt18259086",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_title": "Sonic the Hedgehog 3",
+      "overview": "Sonic, Knuckles y Tails se reúnen para enfrentarse a un nuevo y poderoso adversario, Shadow, un misterioso villano cuyos poderes no se parecen a nada de lo que nuestros héroes han conocido hasta ahora. Con sus facultades superadas en todos los sentidos, el Equipo Sonic tendrá que establecer una insólita alianza con la esperanza de detener a Shadow y proteger el planeta.",
+      "popularity": 17.3028,
+      "poster_path": "/3aDWCRXLYOCuxjrjiPfLd79tcI6.jpg",
+      "production_companies": [
+        {
+          "id": 4,
+          "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+          "name": "Paramount Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 333,
+          "logo_path": "/5xUJfzPZ8jWJUDzYtIeuPO4qPIa.png",
+          "name": "Original Film",
+          "origin_country": "US"
+        },
+        {
+          "id": 77884,
+          "logo_path": "/dP2lxVNctD5Cried0IWVqgrO2o9.png",
+          "name": "Marza Animation Planet",
+          "origin_country": "JP"
+        },
+        {
+          "id": 113750,
+          "logo_path": "/A3QVZ9Ah0yI2d2GiXUFpdlbTgyr.png",
+          "name": "SEGA",
+          "origin_country": "JP"
+        },
+        {
+          "id": 10644,
+          "logo_path": "/ocLZIdYJBppuCt1rhYEb2jbpt5F.png",
+          "name": "Blur Studio",
+          "origin_country": "US"
+        },
+        {
+          "id": 168701,
+          "logo_path": "/vWdZFT4V64CCv12D10m44duQjyg.png",
+          "name": "SEGA of America",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        },
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        }
+      ],
+      "release_date": "2024-12-19",
+      "revenue": 492162604,
+      "runtime": 110,
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
+        },
+        {
+          "english_name": "Japanese",
+          "iso_639_1": "ja",
+          "name": "日本語"
+        },
+        {
+          "english_name": "Spanish",
+          "iso_639_1": "es",
+          "name": "Español"
+        }
+      ],
+      "status": "Released",
+      "tagline": "Nueva aventura. Nuevo rival.",
+      "title": "Sonic 3: La película",
+      "video": false,
+      "vote_average": 7.592,
+      "vote_count": 3543
+    }
+  },
+  {
+    "id_semilla": "vg_025",
+    "titulo_semilla": "A Minecraft Movie",
+    "anio_semilla": 2025,
+    "estado_busqueda_tmdb": "coincidencia_anio",
+    "busqueda": {
+      "page": 1,
+      "results": [
+        {
+          "adult": false,
+          "backdrop_path": "/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg",
+          "genre_ids": [
+            10751,
+            14,
+            35,
+            12
+          ],
+          "id": 950387,
+          "title": "Una película de Minecraft",
+          "original_language": "en",
+          "original_title": "A Minecraft Movie",
+          "overview": "Cuatro inadaptados se encuentran luchando con problemas ordinarios cuando de repente se ven arrastrados a través de un misterioso portal al Mundo Exterior: un extraño país de las maravillas cúbico que se nutre de la imaginación. Para volver a casa, tendrán que dominar este mundo mientras se embarcan en una búsqueda mágica con un inesperado experto artesano, Steve.",
+          "popularity": 18.8473,
+          "poster_path": "/mFjtmmh4RtK9tLv1aPnUsl6st3m.jpg",
+          "release_date": "2025-03-31",
+          "softcore": false,
+          "video": false,
+          "vote_average": 6.19,
+          "vote_count": 3443
+        }
+      ],
+      "total_pages": 1,
+      "total_results": 1
+    },
+    "detalle": {
+      "adult": false,
+      "backdrop_path": "/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg",
+      "belongs_to_collection": {
+        "id": 1461530,
+        "name": "Minecraft Movie Collection",
+        "poster_path": "/8jMQ2sVZ1RRiYSpcb7Yommo7V4r.jpg",
+        "backdrop_path": "/gvR8XaxV3wZlh1LKpReAjaTWhA2.jpg"
+      },
+      "budget": 150000000,
+      "genres": [
+        {
+          "id": 10751,
+          "name": "Familia"
+        },
+        {
+          "id": 14,
+          "name": "Fantasía"
+        },
+        {
+          "id": 35,
+          "name": "Comedia"
+        },
+        {
+          "id": 12,
+          "name": "Aventura"
+        }
+      ],
+      "homepage": "https://www.warnerbros.es/peliculas/una-pelicula-de-minecraft",
+      "id": 950387,
+      "imdb_id": "tt3566834",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_title": "A Minecraft Movie",
+      "overview": "Cuatro inadaptados se encuentran luchando con problemas ordinarios cuando de repente se ven arrastrados a través de un misterioso portal al Mundo Exterior: un extraño país de las maravillas cúbico que se nutre de la imaginación. Para volver a casa, tendrán que dominar este mundo mientras se embarcan en una búsqueda mágica con un inesperado experto artesano, Steve.",
+      "popularity": 18.8473,
+      "poster_path": "/mFjtmmh4RtK9tLv1aPnUsl6st3m.jpg",
+      "production_companies": [
+        {
+          "id": 174,
+          "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+          "name": "Warner Bros. Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 923,
+          "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
+          "name": "Legendary Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 110691,
+          "logo_path": "/i0D9b0veZbValgEFiJjSd0mbb9C.png",
+          "name": "Mojang Studios",
+          "origin_country": "SE"
+        },
+        {
+          "id": 829,
+          "logo_path": "/iJo9zP5QCKyBsmKSOcvXd6UDNih.png",
+          "name": "Vertigo Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 159602,
+          "logo_path": "/e3KodIPxOSC6xpzgIBISB4COQcu.png",
+          "name": "On the Roam",
+          "origin_country": "US"
+        },
+        {
+          "id": 216687,
+          "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+          "name": "Domain Entertainment",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "SE",
+          "name": "Sweden"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "release_date": "2025-03-31",
+      "revenue": 960387780,
+      "runtime": 100,
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "Estar allí y ser cuadrado.",
+      "title": "Una película de Minecraft",
+      "video": false,
+      "vote_average": 6.191,
+      "vote_count": 3444
+    }
+  },
+  {
+    "id_semilla": "vg_026",
+    "titulo_semilla": "Until Dawn",
+    "anio_semilla": 2025,
+    "estado_busqueda_tmdb": "coincidencia_anio",
+    "busqueda": {
+      "page": 1,
+      "results": [
+        {
+          "adult": false,
+          "backdrop_path": "/3xKJ0nyUTlySmMBCpOcsuSnFPI1.jpg",
+          "genre_ids": [
+            27,
+            9648
+          ],
+          "id": 1232546,
+          "title": "Until Dawn",
+          "original_language": "en",
+          "original_title": "Until Dawn",
+          "overview": "Un año después de la misteriosa desaparición de su hermana Melanie, Clover y sus amigas se dirigen al remoto valle donde desapareció en busca de respuestas. Mientras exploran un centro de visitantes abandonado, son acechadas por un asesino enmascarado que las mata una a una de forma horrible… para después despertar y encontrarse de nuevo al principio de la misma noche.",
+          "popularity": 5.7989,
+          "poster_path": "/exgfubqSbF4veI4uXFOdbV66gEf.jpg",
+          "release_date": "2025-04-23",
+          "softcore": false,
+          "video": false,
+          "vote_average": 6.237,
+          "vote_count": 1664
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/mQtQkkqagnuMCyKdS1K7IT5ydNG.jpg",
+          "genre_ids": [
+            18,
+            10749
+          ],
+          "id": 1479196,
+          "title": "waiting until the dawn",
+          "original_language": "tl",
+          "original_title": "waiting until the dawn",
+          "overview": "",
+          "popularity": 0.3292,
+          "poster_path": "/lGYUtkev8RvoFUXMnadq2vuj9tB.jpg",
+          "release_date": "2025-05-06",
+          "softcore": false,
+          "video": false,
+          "vote_average": 0.0,
+          "vote_count": 0
+        }
+      ],
+      "total_pages": 1,
+      "total_results": 2
+    },
+    "detalle": {
+      "adult": false,
+      "backdrop_path": "/3xKJ0nyUTlySmMBCpOcsuSnFPI1.jpg",
+      "belongs_to_collection": null,
+      "budget": 15000000,
+      "genres": [
+        {
+          "id": 27,
+          "name": "Terror"
+        },
+        {
+          "id": 9648,
+          "name": "Misterio"
+        }
+      ],
+      "homepage": "https://www.sonypictures.es/pelicula/until-dawn",
+      "id": 1232546,
+      "imdb_id": "tt30955489",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_title": "Until Dawn",
+      "overview": "Un año después de la misteriosa desaparición de su hermana Melanie, Clover y sus amigas se dirigen al remoto valle donde desapareció en busca de respuestas. Mientras exploran un centro de visitantes abandonado, son acechadas por un asesino enmascarado que las mata una a una de forma horrible… para después despertar y encontrarse de nuevo al principio de la misma noche.",
+      "popularity": 5.7989,
+      "poster_path": "/exgfubqSbF4veI4uXFOdbV66gEf.jpg",
+      "production_companies": [
+        {
+          "id": 125281,
+          "logo_path": "/3hV8pyxzAJgEjiSYVv1WZ0ZYayp.png",
+          "name": "PlayStation Productions",
+          "origin_country": "US"
+        },
+        {
+          "id": 149696,
+          "logo_path": "/w0ARek3q2bIKGfoM2WRsFOqyYCB.png",
+          "name": "Coin Operated",
+          "origin_country": "US"
+        },
+        {
+          "id": 125060,
+          "logo_path": "/9giIHcLFMEQhYByHBvPB2ZuQSM8.png",
+          "name": "Mångata",
+          "origin_country": "US"
+        },
+        {
+          "id": 829,
+          "logo_path": "/iJo9zP5QCKyBsmKSOcvXd6UDNih.png",
+          "name": "Vertigo Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 3287,
+          "logo_path": "/bz6GbCQQXGNE56LTW9dwgksW0Iw.png",
+          "name": "Screen Gems",
+          "origin_country": "US"
+        },
+        {
+          "id": 22213,
+          "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+          "name": "TSG Entertainment",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "release_date": "2025-04-23",
+      "revenue": 54105064,
+      "runtime": 103,
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "Cada noche una pesadilla diferente.",
+      "title": "Until Dawn",
+      "video": false,
+      "vote_average": 6.237,
+      "vote_count": 1664
+    }
+  },
+  {
+    "id_semilla": "vg_027",
+    "titulo_semilla": "Five Nights at Freddy's 2",
+    "anio_semilla": 2025,
+    "estado_busqueda_tmdb": "coincidencia_anio",
+    "busqueda": {
+      "page": 1,
+      "results": [
+        {
+          "adult": false,
+          "backdrop_path": "/laWV5ohHOxYnCkvrJcZf6IDOIDO.jpg",
+          "genre_ids": [
+            27,
+            53
+          ],
+          "id": 1228246,
+          "title": "Five Nights at Freddy's 2",
+          "original_language": "en",
+          "original_title": "Five Nights at Freddy's 2",
+          "overview": "Un año después de la pesadilla sobrenatural en Freddy Fazbear's Pizza, las historias sobre lo ocurrido allí se han convertido en una leyenda local extravagante, inspirando el primer Fazfest del pueblo. Con la verdad oculta, Abby se escapa para reencontrarse con Freddy, Bonnie, Chica y Foxy, desencadenando una serie de eventos aterradores que revelarán oscuros secretos sobre el verdadero origen de Freddy's y desatarán un horror oculto durante décadas.",
+          "popularity": 12.9144,
+          "poster_path": "/egHOFSRXrAaugFUD7VMEnXlTnzJ.jpg",
+          "release_date": "2025-12-03",
+          "softcore": false,
+          "video": false,
+          "vote_average": 6.574,
+          "vote_count": 1253
+        }
+      ],
+      "total_pages": 1,
+      "total_results": 1
+    },
+    "detalle": {
+      "adult": false,
+      "backdrop_path": "/laWV5ohHOxYnCkvrJcZf6IDOIDO.jpg",
+      "belongs_to_collection": {
+        "id": 1240438,
+        "name": "FNaF - Colección",
+        "poster_path": "/soO4tOP2N4b0C35ZWDhYMVG4Vr0.jpg",
+        "backdrop_path": "/537TH9PnmUk5X0FZaRP0wH1PJqV.jpg"
+      },
+      "budget": 36000000,
+      "genres": [
+        {
+          "id": 27,
+          "name": "Terror"
+        },
+        {
+          "id": 53,
+          "name": "Suspense"
+        }
+      ],
+      "homepage": "",
+      "id": 1228246,
+      "imdb_id": "tt30274401",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_title": "Five Nights at Freddy's 2",
+      "overview": "Un año después de la pesadilla sobrenatural en Freddy Fazbear's Pizza, las historias sobre lo ocurrido allí se han convertido en una leyenda local extravagante, inspirando el primer Fazfest del pueblo. Con la verdad oculta, Abby se escapa para reencontrarse con Freddy, Bonnie, Chica y Foxy, desencadenando una serie de eventos aterradores que revelarán oscuros secretos sobre el verdadero origen de Freddy's y desatarán un horror oculto durante décadas.",
+      "popularity": 12.9144,
+      "poster_path": "/egHOFSRXrAaugFUD7VMEnXlTnzJ.jpg",
+      "production_companies": [
+        {
+          "id": 3172,
+          "logo_path": "/rzKluDcRkIwHZK2pHsiT667A2Kw.png",
+          "name": "Blumhouse Productions",
+          "origin_country": "US"
+        },
+        {
+          "id": 211144,
+          "logo_path": null,
+          "name": "Scott Cawthon Productions",
+          "origin_country": "US"
+        },
+        {
+          "id": 116736,
+          "logo_path": "/5qSrmPricJH5TKXvfRSmUc7o1wP.png",
+          "name": "Mind Hive Films",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "release_date": "2025-12-03",
+      "revenue": 239568877,
+      "runtime": 104,
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "title": "Five Nights at Freddy's 2",
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 1252
+    }
+  }
+]

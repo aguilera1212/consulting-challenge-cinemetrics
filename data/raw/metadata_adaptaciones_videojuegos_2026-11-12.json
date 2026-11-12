@@ -1,0 +1,14 @@
+{
+  "consulted_at_utc": "2026-11-12T01:02:09.872510+00:00",
+  "input_file": "data\\reference\\adaptaciones_videojuegos_semilla_2016_2025.csv",
+  "records_requested": 27,
+  "tmdb_matches_by_status": {
+    "coincidencia_anio": 27
+  },
+  "omdb_successful_records": 27,
+  "sources": [
+    "TMDB /search/movie y /movie/{id}",
+    "OMDb por imdb_id o título y año"
+  ],
+  "missing_value_policy": "Los valores 0 de presupuesto_usd y recaudacion_usd de TMDB se convierten a nulos en el CSV procesado."
+}
