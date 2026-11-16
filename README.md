@@ -1,14 +1,12 @@
 # Consulting Challenge — CineMetrics
 
-## Objetivo
+## Descripcion del proyecto y obejtivo del cliente
 
-Evaluar si **A Minecraft Movie** (2025) fue una inversión exitosa para CineMetrics y si el patrón de crítica dividida, audiencia entusiasta y fenómeno viral justifica invertir en futuras adaptaciones de videojuegos de alto presupuesto.
+CineMetrics es una empresa que quiere saber si invertir en la película "A Minecraft Movie" (2025) fue una buena decisión. Este proyecto analiza con datos cuánto dinero ganó, cómo la calificó el público y cuánto interés generó en internet.
 
-## Preguntas de negocio
+Para entenderlo mejor, la compara con otras películas basadas en videojuegos. Al final, el análisis ayuda a decidir si conviene invertir en futuras adaptaciones de videojuegos con presupuestos altos.
 
-1. ¿El desempeño comercial de la película justifica considerarla una inversión exitosa?
-2. ¿Cómo difieren la recepción de la crítica y la del público?
-3. ¿El interés de búsqueda alrededor del estreno aporta evidencia de un fenómeno que pueda ser relevante para la decisión?
+Los datos salen de TMDB y OMDb (recaudación, presupuesto y calificaciones) y de Google Trends (interés del público a lo largo del tiempo).
 
 ## Fuentes previstas
 
@@ -16,7 +14,27 @@ Evaluar si **A Minecraft Movie** (2025) fue una inversión exitosa para CineMetr
 - **OMDb API:** calificaciones agregadas de IMDb, Rotten Tomatoes y Metacritic cuando estén disponibles.
 - **Google Trends / pytrends:** evolución del interés de búsqueda. Se documentará cualquier limitación de acceso o rate limit.
 
-Las claves de API se guardarán únicamente en un archivo local `.env`, que no se sube al repositorio.
+## Metodologia utlizada
+
+Extracción: obtuvimos los datos de las películas desde las APIs de TMDB y OMDb y de Google Trends.
+Limpieza: eliminamos duplicados, completamos o descartamos valores vacíos y corregimos los tipos de datos.
+Análisis exploratorio: revisamos estadísticas, distribuciones y relaciones entre variables, y buscamos valores atípicos.
+Visualización: armamos gráficos para comparar “A Minecraft Movie” con otras adaptaciones de videojuegos.
+Hallazgos y recomendaciones: interpretamos los resultados y los traducimos en recomendaciones para el cliente.
+
+## Principales hallazgos
+
+Éxito comercial: "A Minecraft Movie" costó 150 millones de dólares y recaudó cerca de 960 millones, más de 6 veces su presupuesto. Superó ampliamente a otras adaptaciones de 2025, como Five Nights at Freddy's 2 (238 millones) y Until Dawn (54 millones).
+
+Opinión dividida: La crítica la calificó con 45/100, mientras que el público le dio entre 56 y 62. A los críticos les pareció una historia simple que prioriza el espectáculo, pero la audiencia la disfrutó por el elenco, el humor y la nostalgia de ver su videojuego favorito en pantalla.
+
+Impacto viral: El interés de búsqueda tuvo su pico el 5 de abril, un día después del estreno, y volvió a subir los días 10 y 11 por el meme del Chicken Jockey. Un fenómeno viral puede mantener vivo el interés por una película.
+
+## Recomendaciones
+
+1. Invertir en más adaptaciones de videojuegos, priorizando franquicias con una comunidad grande de fans, ya que "A Minecraft Movie" multiplicó por 6 su inversión.
+2. No depender de la crítica para proyectar resultados: la película recaudó mucho con una calificación baja de los críticos, porque el público fue lo que la impulsó.
+3. Aprovechar los momentos virales en la promoción: con campañas en redes que acompañen memes o tendencias después del estreno, para sostener el interés.
 
 ## Estructura
 
@@ -30,7 +48,7 @@ presentation/     # Presentación ejecutiva final
 
 ## Estado actual
 
-Proyecto inicializado. Próximo paso: obtener las credenciales de las APIs y construir el notebook de extracción.
+Proyecto finalizado a espera de revision del cliente
 
 ## Reproducción
 
