@@ -18,6 +18,8 @@ data/raw/*
 !data/raw/tmdb/*.json
 !data/raw/omdb/
 !data/raw/omdb/*.json
+!data/raw/google_trends/
+!data/raw/google_trends/*.csv
 data/processed/*
 !data/processed/.gitkeep
 !data/processed/*.csv
